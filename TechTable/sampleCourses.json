@@ -1,0 +1,122 @@
+{"data": [
+    {
+        "Course Name": "Abstract Algebra I",
+        "Course Acronym": "AA I",
+        "Course Code": "MTH212",
+        "Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Monsoon",
+        "Preferable Prerequisites": "MTH100",
+        "Professor": "xyz",
+        "Credits": "4",
+        "Link": "https://docs.google.com/spreadsheets/d/1-ybfqy4_RNc5qrNuoF5VX60oED2VVH4s/edit#gid=620517824"
+    },
+    {
+        "Course Name": "Abstract Algebra II",
+        "Course Acronym": "AA II",
+        "Course Code": "MTH512",
+        "Prerequisites": "None",
+        "Antirequisites": "MTH100, MTH212",
+        "Semester": "Winter",
+        "Preferable Prerequisites": "lmn",
+        "Professor": "dfd",
+        "Credits": "4",
+        "Link": "http://www.google.co.in"
+    },
+    {
+        "Course Name": "Advanced Embedded Logic Design-1",
+        "Course Acronym": "AELD",
+        "Course Code": "ECE573",
+        "Prerequisites": "ECE512",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Preferable Prerequisites": "pqr",
+        "Professor": "dfd",
+        "Credits": "4",
+        "Link": "http://www.google.co.in"
+    },
+    {
+        "Course Name": "Advanced Linear Algebra",
+        "Course Acronym": "ALA",
+        "Course Code": "MTH510",
+        "Prerequisites": "None",
+        "Antirequisites": "MTH100",
+        "Semester": "Monsoon",
+        "Preferable Prerequisites": "def",
+        "Professor": "daff",
+        "Credits": "4",
+        "Link": "http://www.google.co.in"
+    },
+    {
+        "Course Name": "Advanced Machine Learning",
+        "Course Acronym": "AML",
+        "Course Code": "CSE642",
+        "Prerequisites": "MTH201, CSE343/CSE543",
+        "Antirequisites": "None",
+        "Semester": "Monsoon",
+        "Preferable Prerequisites": "None",
+        "Professor": "wxy",
+        "Credits": "4",
+        "Link": "http://www.google.co.in"
+    },
+    {
+        "Course Name": "Advanced Programming",
+        "Course Acronym": "AP",
+        "Course Code": "CSE201",
+        "Prerequisites": "None",
+        "Antirequisites": "CSE101,CSE102",
+        "Semester": "Monsoon",
+        "Preferable Prerequisites": "rst",
+        "Professor": "afafaf",
+        "Credits": "2",
+        "Link": "http://www.google.co.in"
+    },
+    {
+        "Course Name": "Affective Computing",
+        "Course Acronym": "AFC",
+        "Course Code": "CSE5xx",
+        "Prerequisites": "CSE101, CSE102, CSE201, CSE343/CSE543",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Preferable Prerequisites": "CSE643",
+        "Professor": "opt",
+        "Credits": "2",
+        "Link": "http://www.google.co.in"
+    },
+    {
+        "Course Name": "Algorithm Design and Analysis",
+        "Course Acronym": "ADA",
+        "Course Code": "CSE222",
+        "Prerequisites": "None",
+        "Antirequisites": "CSE102",
+        "Semester": "Summer",
+        "Preferable Prerequisites": "qrs",
+        "Professor": "Mfdf",
+        "Credits": "2",
+        "Link": "http://www.google.co.in"
+    },
+    {
+        "Course Name": "Algorithms in Computational Biology",
+        "Course Acronym": "ACB",
+        "Course Code": "BIO522",
+        "Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Monsoon",
+        "Preferable Prerequisites": "CSE102",
+        "Professor": "ghijk",
+        "Credits": "4",
+        "Link": "http://www.google.co.in"
+    },
+    {
+        "Course Name": "Analog CMOS Circuit Design",
+        "Course Acronym": "ACCD",
+        "Course Code": "ECE315/ECE515",
+        "Prerequisites": "ECE213",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Preferable Prerequisites": "None",
+        "Professor": "yzab",
+        "Credits": "4",
+        "Link": "http://www.google.co.in"
+    }
+]}

@@ -100,7 +100,7 @@
 $(document).ready(function(){
   // checks if the CSV file was loaded correctly
   $('#data-table').DataTable({
-    "ajax": "courses.json",
+    "ajax": "sampleCourses.json",
     "responsive": true,
     "paging": false,
     "columns" :  [
