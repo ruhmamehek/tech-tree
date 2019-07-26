@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+</head>
+<body>
 <?php
 
 if (isset($_POST['submit']))
@@ -24,7 +31,8 @@ if (isset($_POST['submit']))
                 $fileNameNew = uniqid('', true).".".$fileActualExt;
                 $fileDestination = 'uploads/'.$fileNameNew;
                 move_uploaded_file($fileTmpName, $fileDestination);
-                header("Location: index.php?uploadsuccess");
+                // header("Location: fileupload.html");
+                echo "Upload succesful";
             }
             else
             {
@@ -41,4 +49,14 @@ if (isset($_POST['submit']))
     {
         echo "You cannot upload files of this type!";
     }
+} else {
+    ?>
+        <form action="upload.php" method="POST" enctype="multipart/form-data" >
+        <input type="file" name="file">
+        <button type="submit" name="submit">UPLOAD</button>
+        </form>
+    <?php
 }
+?>
+</body>
+</html>
