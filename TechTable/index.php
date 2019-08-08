@@ -67,8 +67,8 @@
   <body>
     <div class="header">
          <div class="container">
-                <a href="https://iiitd.ac.in/"><img src="IIITDLogo.jpg" alt="Home" align="left"></a>
-                <a href="index.php"><img src = "cdt.png" alt="CourseDirectoryTable" width="200" height="100" align="right"></a>
+                <a href="https://iiitd.ac.in/"><img src="IIITDLogo.png" alt="Home" align="left"></a>
+                <a href="index(v2).php"><img src = "cdt.png" alt="CourseDirectoryTable" width="200" height="100" align="right"></a>
         </div>
     </div>
     <div class="navbar">
@@ -128,16 +128,16 @@ $(document).ready(function(){
   });
 
   $('#data-table').DataTable({
-    "ajax": "sampleCourses.json",
+    "ajax": "Courses.json",
     "paging": false,
     "sScrollX": "100%",
     "columns" :  [
       { "targets": 0,
         data: "Course Name",
-        //"render": function (data, type, row, meta) {
-        //var cname=data.substring(0,data.indexOf("#"));
-        //var link=data.substring(data.indexOf("#")+1);
-        //return '<a href="'+link+'">'+cname+'</a>';}
+        "render": function (data, type, row, meta) {
+        var cname=data.substring(0,data.indexOf("#"));
+        var link=data.substring(data.indexOf("#")+1);
+        return '<a href="'+link+'">'+cname+'</a>';}
         // Hyperlinking the course name with the drive link
       },
       { data : "Course Acronym" },
