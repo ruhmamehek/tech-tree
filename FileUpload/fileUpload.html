@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>IIITD|Course Directory File Upload</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" /> 
+    <style>
+    body{        
+          padding-top: 0px;
+          padding-bottom: 0px;
+      }
+    .header{
+          width: 100%;
+          background: #ffffff;
+          padding: 10px 10px;
+          color: #ffffff;
+          top: 0;
+      }
+    .footer{
+          width: 100%;
+          background: #808080;
+          padding: 10px 10px;
+          color: #ffffff;
+          bottom: 0;
+      }
+      .footer a {
+        float: right;
+        color: #ffffff;
+        text-align: center;
+        padding: 2px 40px;
+        text-decoration: none;
+      }
+      .navbar {
+        background-color: #3FADA8;
+        top: 0;
+        width: 100%;
+      }
+      .navbar a {
+        float: left;
+        color: #ffffff;
+        text-align: center;
+        padding: 10px 10px;
+        text-decoration: none;
+        font-size: 16px;
+      }
+
+      button {
+        display: inline-block;
+        height: 200px;
+        padding: 0;
+        margin: 0;
+        vertical-align: top;
+        width: 200px;
+      }
+      button:hover{
+        -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+        -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+      }
+
+      #csvFileUpload img {
+          display: inline-block;
+          height: 190px;  
+          width: 190px;
+          left: 25%;
+      }
+      #courseDesFileUpload img {
+          display: inline-block;
+          height: 190px;  
+          width: 190px;
+          left:75%;
+      }
+
+    </style>
+  </head>
+  <body>
+    <div class="header">
+         <div class="container">
+                <a href="https://iiitd.ac.in/"><img src="./Images/IIITDLogo.png" alt="Home" align="left"></a>
+                <a href="index(v2).php"><img src = "./Images/cdt.png" alt="CourseDirectoryTable" width="200" height="100" align="right"></a>
+                <a href="#techtree"><img src = "./Images/techtree.png" alt="TechTree" width="210" height="84" align="right"></a>
+        </div>
+    </div>
+    <div class="navbar">
+      <a href="https://iiitd.ac.in/">Home</a>
+      <a href="#techtree">TechTree</a>
+      <a href="index(v2).php">Course Directory Table</a>
+      
+    </div>
+    <div class="container">
+      <br>
+      <h3 align = "center"> Upload Course Files </h3>
+      <br>
+      <button id="csvFileUpload" align="right"><img src="./Images/add.png" alt="Add CSV File"></button>
+      <h4>Add Courses CSV File</h4>
+      <br>
+      <button id="courseDesFileUpload" align="right"><img src="./Images/add.png" alt="Add Course Description File"></button>
+      <h4>Add Course Description File</h4>
+    </div>
+    <br>
+    <br>
+   <div class="footer">
+        <div class="container">
+          Copyright &copy; 2019 IIITD <a href="credits.html" align="center">Credits</a>
+        </div>
+   </div>
+ </body>
+</html>
