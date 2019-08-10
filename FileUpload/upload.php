@@ -32,7 +32,7 @@ if (isset($_POST['submit']))
                 $fileDestination = 'uploads/'.$fileNameNew;
                 move_uploaded_file($fileTmpName, $fileDestination);
                 // header("Location: fileupload.html");
-                echo "Upload succesful";
+                echo "Upload successful";
             }
             else
             {

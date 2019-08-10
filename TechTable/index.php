@@ -67,8 +67,8 @@
   <body>
     <div class="header">
          <div class="container">
-                <a href="https://iiitd.ac.in/"><img src="IIITDLogo.png" alt="Home" align="left"></a>
-                <a href="index(v2).php"><img src = "cdt.png" alt="CourseDirectoryTable" width="200" height="100" align="right"></a>
+                <a href="https://iiitd.ac.in/"><img src="./Images/IIITDLogo.png" alt="Home" align="left"></a>
+                <a href="index(v2).php"><img src = "./Images/cdt.png" alt="CourseDirectoryTable" width="200" height="100" align="right"></a>
         </div>
     </div>
     <div class="navbar">
@@ -95,7 +95,7 @@
      </thead>
     </table>
    </div>
-   <a href="#" class="scrollToTop"><img src = "./scroll2top.png" width="30" height="30"></a>
+   <a href="#" class="scrollToTop"><img src = "./Images/scroll2top.png" width="30" height="30"></a>
    <div class="footer">
         <div class="container">
           Copyright &copy; 2019 IIITD <a href="credits.html" align="center">Credits</a>
