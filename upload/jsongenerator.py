@@ -1,13 +1,19 @@
 import csv , json
 import pandas as pd
-csvFilePath = "./Courses.csv"
+# csvFilePath = "./Courses.csv"
+# tableJsonFilePath = "./Courses.json"
+# graphJsonFilePath = "./graph.json"
+csvFilePath = "Courses.csv"
 tableJsonFilePath = "./Courses.json"
 graphJsonFilePath = "./graph.json"
+
 TechTable_courses = []
 def generate_tableJson():
 	with open (csvFilePath) as csvFile:
 		csvReader = csv.DictReader(csvFile)
 		for csvRow in csvReader:
+			course_code = list(csvRow["Course Code"].split("/"))[0]
+			csvRow["Prereq Link"]="http://127.0.0.1:5000/viewDescription/filename?="+course_code
 			TechTable_courses.append(csvRow)
 	for i in range(0,len(TechTable_courses)):
 		TechTable_courses[i]['Course Name']+='#'
@@ -62,5 +68,5 @@ def generate_graphJson():
 	with open(graphJsonFilePath, "w") as jsonFile:
 		jsonFile.write(graphJSON)
 		jsonFile.close()
-generate_graphJson()
+# generate_graphJson()
 generate_tableJson()
