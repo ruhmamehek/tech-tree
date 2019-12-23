@@ -1,90 +1,96 @@
 {"data": [
     {
-        "Serial Number": "1",
+        "\u00ef\u00bb\u00bfSerial Number": "1",
         "Course Name": "Abstract Algebra I#https://www.google.com/",
         "Course Code": "MTH212",
         "Course Acronym": "AA-I",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"MTH100\"",
-        "Antirequisites": "\"MTH302\"",
+        "Preferable Prerequisites": "MTH100",
+        "Antirequisites": "MTH302",
         "Semester": "Winter",
         "Professor": "Anuradha Sharma",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH212"
     },
     {
-        "Serial Number": "2",
+        "\u00ef\u00bb\u00bfSerial Number": "2",
         "Course Name": "Abstract Algebra II#https://www.google.com/",
         "Course Code": "MTH513",
         "Course Acronym": "AA-II",
-        "Prerequisites": "\"MTH100, MTH212\"",
+        "Prerequisites": "MTH100, MTH212",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Anuradha Sharma",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH513"
     },
     {
-        "Serial Number": "3",
+        "\u00ef\u00bb\u00bfSerial Number": "3",
         "Course Name": "Advanced Algorithms#https://www.google.com/",
-        "Course Code": "CSE320/520",
+        "Course Code": "CSE320/CSE520",
         "Course Acronym": "AA",
-        "Prerequisites": "\"CSE102\"",
+        "Prerequisites": "CSE102",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE320"
     },
     {
-        "Serial Number": "4",
+        "\u00ef\u00bb\u00bfSerial Number": "4",
         "Course Name": "Advanced Biometrics#https://www.google.com/",
         "Course Code": "CSE441/541",
         "Course Acronym": "BIOM",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"MTH201, CSE343\"",
+        "Preferable Prerequisites": "MTH201, CSE343",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Mayank Vatsa",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE441"
     },
     {
-        "Serial Number": "5",
+        "\u00ef\u00bb\u00bfSerial Number": "5",
         "Course Name": "Advanced Computer Vision#https://www.google.com/",
         "Course Code": "CSE562",
         "Course Acronym": "ACV",
-        "Prerequisites": "\"CSE344\"",
+        "Prerequisites": "CSE344",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE562"
     },
     {
-        "Serial Number": "6",
+        "\u00ef\u00bb\u00bfSerial Number": "6",
         "Course Name": "Advanced Embedded Logic Design#https://www.google.com/",
         "Course Code": "ECE573",
         "Course Acronym": "AELD",
-        "Prerequisites": "\"CSE234\"",
+        "Prerequisites": "CSE234",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Sumit Mediratta(V) ",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE573"
     },
     {
-        "Serial Number": "7",
+        "\u00ef\u00bb\u00bfSerial Number": "7",
         "Course Name": "Advanced Internet of Things#https://www.google.com/",
         "Course Code": "CSE577",
         "Course Acronym": "AIOT",
@@ -95,38 +101,41 @@
         "Professor": "Juhi Ranjan",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE577"
     },
     {
-        "Serial Number": "8",
+        "\u00ef\u00bb\u00bfSerial Number": "8",
         "Course Name": "Advanced Linear Algebra#https://www.google.com/",
         "Course Code": "MTH510",
         "Course Acronym": "ALA",
-        "Prerequisites": "\"MTH100\"",
+        "Prerequisites": "MTH100",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH510"
     },
     {
-        "Serial Number": "9",
+        "\u00ef\u00bb\u00bfSerial Number": "9",
         "Course Name": "Advanced Machine Learning#https://www.google.com/",
         "Course Code": "CSE642",
         "Course Acronym": "AML",
-        "Prerequisites": "\"MTH201, CSE343, CSE342\"",
+        "Prerequisites": "MTH201, CSE343, CSE342",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Richa Singh",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE642"
     },
     {
-        "Serial Number": "10",
+        "\u00ef\u00bb\u00bfSerial Number": "10",
         "Course Name": "Advanced Operating Systems#https://www.google.com/",
         "Course Code": "CSE631",
         "Course Acronym": "AOS",
@@ -137,24 +146,26 @@
         "Professor": "Piyus Kedia",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE631"
     },
     {
-        "Serial Number": "12",
+        "\u00ef\u00bb\u00bfSerial Number": "11",
         "Course Name": "Advanced Programming#https://www.google.com/",
         "Course Code": "CSE201",
         "Course Acronym": "AP",
-        "Prerequisites": "\"CSE101, CSE102\"",
+        "Prerequisites": "CSE101, CSE102",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Vivek Kumar",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE201"
     },
     {
-        "Serial Number": "13",
+        "\u00ef\u00bb\u00bfSerial Number": "12",
         "Course Name": "Advanced Signal Processing#https://www.google.com/",
         "Course Code": "ECE453/553",
         "Course Acronym": "ASP",
@@ -165,52 +176,56 @@
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE453"
     },
     {
-        "Serial Number": "14",
+        "\u00ef\u00bb\u00bfSerial Number": "13",
         "Course Name": "Advanced Topics in Mobile Computing#https://www.google.com/",
         "Course Code": "CSE734",
         "Course Acronym": "ATMC",
-        "Prerequisites": "\"CSE231\"",
+        "Prerequisites": "CSE231",
         "Preferable Prerequisites": "None",
         "Antirequisites": "",
         "Semester": "",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE734"
     },
     {
-        "Serial Number": "15",
+        "\u00ef\u00bb\u00bfSerial Number": "14",
         "Course Name": "Affective Computing#https://www.google.com/",
         "Course Code": "CSE5AC",
         "Course Acronym": "AFC",
-        "Prerequisites": "\"CSE101, CSE102, CSE201\"",
-        "Preferable Prerequisites": "\"CSE343,CSE643\"",
+        "Prerequisites": "CSE101, CSE102, CSE201",
+        "Preferable Prerequisites": "CSE343,CSE643",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Jainendra Shukla",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5AC"
     },
     {
-        "Serial Number": "16",
+        "\u00ef\u00bb\u00bfSerial Number": "15",
         "Course Name": "Algebra#https://www.google.com/",
         "Course Code": "MTH302",
         "Course Acronym": "",
         "Prerequisites": "",
         "Preferable Prerequisites": "",
-        "Antirequisites": "\"MTH212\"",
+        "Antirequisites": "MTH212",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH302"
     },
     {
-        "Serial Number": "17",
+        "\u00ef\u00bb\u00bfSerial Number": "16",
         "Course Name": "Algebraic Number Theory#https://www.google.com/",
         "Course Code": "MTH512",
         "Course Acronym": "ANT",
@@ -221,24 +236,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH512"
     },
     {
-        "Serial Number": "18",
+        "\u00ef\u00bb\u00bfSerial Number": "17",
         "Course Name": "Algorithm Design and Analysis#https://www.google.com/",
         "Course Code": "CSE222",
         "Course Acronym": "ADA",
-        "Prerequisites": "\"CSE102\"",
+        "Prerequisites": "CSE102",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Rajiv Raman",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE222"
     },
     {
-        "Serial Number": "19",
+        "\u00ef\u00bb\u00bfSerial Number": "18",
         "Course Name": "Algorithms in computational biology#https://www.google.com/",
         "Course Code": "BIO522",
         "Course Acronym": "ACB",
@@ -249,10 +266,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO522"
     },
     {
-        "Serial Number": "20",
+        "\u00ef\u00bb\u00bfSerial Number": "19",
         "Course Name": "Analog CMOS Circuit Design#https://www.google.com/",
         "Course Code": "ECE315/515",
         "Course Acronym": "CMOS",
@@ -263,10 +281,11 @@
         "Professor": "G S Visweswaran(V)",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE315"
     },
     {
-        "Serial Number": "21",
+        "\u00ef\u00bb\u00bfSerial Number": "20",
         "Course Name": "Animation and Graphics#https://www.google.com/",
         "Course Code": "DES302",
         "Course Acronym": "A&G",
@@ -277,10 +296,11 @@
         "Professor": "Manohar Khushlani(V) ",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES302"
     },
     {
-        "Serial Number": "22",
+        "\u00ef\u00bb\u00bfSerial Number": "21",
         "Course Name": "Antennas Theory and Design#https://www.google.com/",
         "Course Code": "ECEATD",
         "Course Acronym": "ATD",
@@ -291,24 +311,26 @@
         "Professor": "Shobha Sundar Ram",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECEATD"
     },
     {
-        "Serial Number": "23",
+        "\u00ef\u00bb\u00bfSerial Number": "22",
         "Course Name": "Applied Cryptography#https://www.google.com/",
         "Course Code": "CSE546",
         "Course Acronym": "AC",
-        "Prerequisites": "\"CSE121\"",
+        "Prerequisites": "CSE121",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE546"
     },
     {
-        "Serial Number": "24",
+        "\u00ef\u00bb\u00bfSerial Number": "23",
         "Course Name": "Applied Ethics#https://www.google.com/",
         "Course Code": "SSH321",
         "Course Acronym": "AE",
@@ -319,38 +341,41 @@
         "Professor": "Manohar Kumar",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH321"
     },
     {
-        "Serial Number": "25",
+        "\u00ef\u00bb\u00bfSerial Number": "24",
         "Course Name": "Approximation Algorithms#https://www.google.com/",
         "Course Code": "CSE529",
         "Course Acronym": "AAG",
-        "Prerequisites": "\"CSE222\"",
+        "Prerequisites": "CSE222",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Syamantak Das",
         "Credits": "*not found*",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE529"
     },
     {
-        "Serial Number": "26",
+        "\u00ef\u00bb\u00bfSerial Number": "25",
         "Course Name": "Artificial Intelligence#https://www.google.com/",
         "Course Code": "CSE643",
         "Course Acronym": "AI",
-        "Prerequisites": "\"CSE102\"",
+        "Prerequisites": "CSE102",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Mayank Vatsa",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE643"
     },
     {
-        "Serial Number": "27",
+        "\u00ef\u00bb\u00bfSerial Number": "26",
         "Course Name": "Autonomous Driving#https://www.google.com/",
         "Course Code": "ECE570",
         "Course Acronym": "AD",
@@ -361,10 +386,11 @@
         "Professor": "",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE570"
     },
     {
-        "Serial Number": "28",
+        "\u00ef\u00bb\u00bfSerial Number": "27",
         "Course Name": "Basic Electronics#https://www.google.com/",
         "Course Code": "ECE113",
         "Course Acronym": "BE",
@@ -375,24 +401,26 @@
         "Professor": "Vivek Bohara,Sanat Biswas ",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE113"
     },
     {
-        "Serial Number": "29",
+        "\u00ef\u00bb\u00bfSerial Number": "28",
         "Course Name": "Big Data Analytics#https://www.google.com/",
         "Course Code": "CSE510",
         "Course Acronym": "BDA",
-        "Prerequisites": "\"CSE202\"",
-        "Preferable Prerequisites": "\"CSE343/CSE543,CSE506\"",
+        "Prerequisites": "CSE202",
+        "Preferable Prerequisites": "CSE343/CSE543,CSE506",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Vikram Goyal",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE510"
     },
     {
-        "Serial Number": "30",
+        "\u00ef\u00bb\u00bfSerial Number": "29",
         "Course Name": "Big Data Mining in Healthcare#https://www.google.com/",
         "Course Code": "BIO543",
         "Course Acronym": "BDMH",
@@ -403,10 +431,11 @@
         "Professor": "GPS Raghava",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO543"
     },
     {
-        "Serial Number": "31",
+        "\u00ef\u00bb\u00bfSerial Number": "30",
         "Course Name": "Cell Biology and Bio chemistry#https://www.google.com/",
         "Course Code": "BIO501",
         "Course Acronym": "CBB",
@@ -417,10 +446,11 @@
         "Professor": "Sriram K",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO501"
     },
     {
-        "Serial Number": "32",
+        "\u00ef\u00bb\u00bfSerial Number": "31",
         "Course Name": "Chemoinformatics#https://www.google.com/",
         "Course Code": "BIO523",
         "Course Acronym": "ChemInfo",
@@ -431,10 +461,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO523"
     },
     {
-        "Serial Number": "33",
+        "\u00ef\u00bb\u00bfSerial Number": "32",
         "Course Name": "Circuit Theory and Device#https://www.google.com/",
         "Course Code": "ECE215",
         "Course Acronym": "CTD",
@@ -445,66 +476,71 @@
         "Professor": "Shobha Sundar Ram",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE215"
     },
     {
-        "Serial Number": "34",
+        "\u00ef\u00bb\u00bfSerial Number": "33",
         "Course Name": "Cognitive Psychology#https://www.google.com/",
         "Course Code": "PSY301",
         "Course Acronym": "CP",
         "Prerequisites": "None",
         "Preferable Prerequisites": "None",
-        "Antirequisites": "\"PSY301(CPSY)\"",
+        "Antirequisites": "PSY301(CPSY)",
         "Semester": "Winter",
         "Professor": "Venkata Ratandeep Suri",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "12"
+        "cluster": "12",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY301"
     },
     {
-        "Serial Number": "35",
+        "\u00ef\u00bb\u00bfSerial Number": "34",
         "Course Name": "Collaborative Filtering#https://www.google.com/",
         "Course Code": "CSE640",
         "Course Acronym": "CF",
-        "Prerequisites": "\"MTH100\"",
-        "Preferable Prerequisites": "\"MTH100\"",
+        "Prerequisites": "MTH100",
+        "Preferable Prerequisites": "MTH100",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE640"
     },
     {
-        "Serial Number": "36",
+        "\u00ef\u00bb\u00bfSerial Number": "35",
         "Course Name": "Combinatorics and its Applications#https://www.google.com/",
         "Course Code": "MTH311",
         "Course Acronym": "CIA",
-        "Prerequisites": "\"MTH100 \"",
-        "Preferable Prerequisites": "\"MTH302\"",
+        "Prerequisites": "MTH100 ",
+        "Preferable Prerequisites": "MTH302",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Samrith Ram",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH311"
     },
     {
-        "Serial Number": "37",
+        "\u00ef\u00bb\u00bfSerial Number": "36",
         "Course Name": "Communication Networks#https://www.google.com/",
         "Course Code": "CSE636/ECE636",
         "Course Acronym": "CN",
-        "Prerequisites": "\"MTH201\"",
-        "Preferable Prerequisites": "\"ECE501\"",
+        "Prerequisites": "MTH201",
+        "Preferable Prerequisites": "ECE501",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Sanjit Kaul",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE636"
     },
     {
-        "Serial Number": "38",
+        "\u00ef\u00bb\u00bfSerial Number": "37",
         "Course Name": "Communication Skills#https://www.google.com/",
         "Course Code": "COM101",
         "Course Acronym": "COM",
@@ -515,10 +551,11 @@
         "Professor": "*varies from group to group*",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "2"
+        "cluster": "2",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=COM101"
     },
     {
-        "Serial Number": "39",
+        "\u00ef\u00bb\u00bfSerial Number": "38",
         "Course Name": "Commutative Algebra#https://www.google.com/",
         "Course Code": "MTH511/6xx",
         "Course Acronym": "ComA",
@@ -529,40 +566,43 @@
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH511"
     },
     {
-        "Serial Number": "40",
+        "\u00ef\u00bb\u00bfSerial Number": "39",
         "Course Name": "Compilers#https://www.google.com/",
         "Course Code": "CSE301/601",
         "Course Acronym": "CMP",
-        "Prerequisites": "\"MTH100, CSE101, CSE201, CSE102\"",
+        "Prerequisites": "MTH100, CSE101, CSE201, CSE102",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Piyus Kedia",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE301"
     },
     {
-        "Serial Number": "41",
+        "\u00ef\u00bb\u00bfSerial Number": "40",
         "Course Name": "Complex Analysis#https://www.google.com/",
         "Course Code": "MTH341",
         "Course Acronym": "CmpA",
-        "Prerequisites": "\"MTH240\"",
+        "Prerequisites": "MTH240",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Ashish Kumar Pandey",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH341"
     },
     {
-        "Serial Number": "42",
+        "\u00ef\u00bb\u00bfSerial Number": "41",
         "Course Name": "Complexity Theory#https://www.google.com/",
-        "Course Code": "CSE421/621",
+        "Course Code": "CSE421/CSE621",
         "Course Acronym": "CT",
         "Prerequisites": "",
         "Preferable Prerequisites": "",
@@ -571,24 +611,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE421"
     },
     {
-        "Serial Number": "43",
+        "\u00ef\u00bb\u00bfSerial Number": "42",
         "Course Name": "Compressive Sensing#https://www.google.com/",
         "Course Code": "ECE554",
         "Course Acronym": "CS",
-        "Prerequisites": "\"MTH100\"",
+        "Prerequisites": "MTH100",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE554"
     },
     {
-        "Serial Number": "44",
+        "\u00ef\u00bb\u00bfSerial Number": "43",
         "Course Name": "Computer Architecture#https://www.google.com/",
         "Course Code": "CSE511/ECE511",
         "Course Acronym": "CA",
@@ -599,10 +641,11 @@
         "Professor": "Sujay Deb",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE511"
     },
     {
-        "Serial Number": "45",
+        "\u00ef\u00bb\u00bfSerial Number": "44",
         "Course Name": "Computer Architecture and Operating Systems#https://www.google.com/",
         "Course Code": "CSE234",
         "Course Acronym": "CAOS",
@@ -613,66 +656,71 @@
         "Professor": "Sambuddho Chakravarty",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE234"
     },
     {
-        "Serial Number": "46",
+        "\u00ef\u00bb\u00bfSerial Number": "45",
         "Course Name": "Computer Graphics#https://www.google.com/",
-        "Course Code": "CSE333/533",
+        "Course Code": "CSE333/CSE533",
         "Course Acronym": "CG",
-        "Prerequisites": "\"CSE101\"",
-        "Preferable Prerequisites": "\"CSE102\"",
+        "Prerequisites": "CSE101",
+        "Preferable Prerequisites": "CSE102",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Ojaswa Sharma",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE333"
     },
     {
-        "Serial Number": "47",
+        "\u00ef\u00bb\u00bfSerial Number": "46",
         "Course Name": "Computer Networks#https://www.google.com/",
         "Course Code": "CSE232",
         "Course Acronym": "CN",
-        "Prerequisites": "\"CSE101, CSE231, CSE222\"",
+        "Prerequisites": "CSE101, CSE231, CSE222",
         "Preferable Prerequisites": "",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "*Will be announced later*",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE232"
     },
     {
-        "Serial Number": "48",
+        "\u00ef\u00bb\u00bfSerial Number": "47",
         "Course Name": "Computer Organization#https://www.google.com/",
         "Course Code": "CSE112",
         "Course Acronym": "CO",
-        "Prerequisites": "\"CSE111\"",
+        "Prerequisites": "CSE111",
         "Preferable Prerequisites": "",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Naveen Prakash(V)",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE112"
     },
     {
-        "Serial Number": "49",
+        "\u00ef\u00bb\u00bfSerial Number": "48",
         "Course Name": "Computer Vision#https://www.google.com/",
-        "Course Code": "CSE344/544/ ECE344/544",
+        "Course Code": "CSE344/CSE544/ ECE344/ECE544",
         "Course Acronym": "CV",
-        "Prerequisites": "\"MTH100\"",
-        "Preferable Prerequisites": "\"CSE540,ECE351\"",
+        "Prerequisites": "MTH100",
+        "Preferable Prerequisites": "CSE540,ECE351",
         "Antirequisites": "None",
         "Semester": "Winters",
         "Professor": "Saket Anand",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE344"
     },
     {
-        "Serial Number": "50",
+        "\u00ef\u00bb\u00bfSerial Number": "49",
         "Course Name": "Contemporary India Sociological Perspective#https://www.google.com/",
         "Course Code": "SOC202",
         "Course Acronym": "CISP",
@@ -683,10 +731,11 @@
         "Professor": "Paro Mishra",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "13"
+        "cluster": "13",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC202"
     },
     {
-        "Serial Number": "51",
+        "\u00ef\u00bb\u00bfSerial Number": "50",
         "Course Name": "Control Theory#https://www.google.com/",
         "Course Code": "ECE570",
         "Course Acronym": "CNT",
@@ -697,38 +746,41 @@
         "Professor": "Sanat Biswas",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE570"
     },
     {
-        "Serial Number": "52",
+        "\u00ef\u00bb\u00bfSerial Number": "51",
         "Course Name": "Convex Optimization#https://www.google.com/",
         "Course Code": "CSE528/ECE528",
         "Course Acronym": "CO",
-        "Prerequisites": "\"CSE344/CSE544\"",
+        "Prerequisites": "CSE344/CSE544",
         "Preferable Prerequisites": "None",
         "Antirequisites": "",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE528"
     },
     {
-        "Serial Number": "53",
+        "\u00ef\u00bb\u00bfSerial Number": "52",
         "Course Name": "Critical Thinking#https://www.google.com/",
         "Course Code": "SSH124",
         "Course Acronym": "CT",
         "Prerequisites": "None",
         "Preferable Prerequisites": "None",
-        "Antirequisites": "\"SSH101\"",
+        "Antirequisites": "SSH101",
         "Semester": "Winter",
         "Professor": "Raj Ayyar",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH124"
     },
     {
-        "Serial Number": "54",
+        "\u00ef\u00bb\u00bfSerial Number": "53",
         "Course Name": "Critical Thinking and Readings in Social Science #https://www.google.com/",
         "Course Code": "SSH101",
         "Course Acronym": "CTRSS",
@@ -739,38 +791,41 @@
         "Professor": "Aaasim Khan",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH101"
     },
     {
-        "Serial Number": "55",
+        "\u00ef\u00bb\u00bfSerial Number": "54",
         "Course Name": "Data Mining#https://www.google.com/",
         "Course Code": "CSE506",
         "Course Acronym": "DMG",
-        "Prerequisites": "\"CSE202, CSE101, MTH100, MTH201\"",
+        "Prerequisites": "CSE202, CSE101, MTH100, MTH201",
         "Preferable Prerequisites": "Programming in Java",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Vikram Goyal",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE506"
     },
     {
-        "Serial Number": "56",
+        "\u00ef\u00bb\u00bfSerial Number": "55",
         "Course Name": "Data Science#https://www.google.com/",
         "Course Code": "CSE5DS",
         "Course Acronym": "DS",
-        "Prerequisites": "\"CSE101\"",
-        "Preferable Prerequisites": "\"MTH100\"",
+        "Prerequisites": "CSE101",
+        "Preferable Prerequisites": "MTH100",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Debarka Sengupta",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5DS"
     },
     {
-        "Serial Number": "57",
+        "\u00ef\u00bb\u00bfSerial Number": "56",
         "Course Name": "Data Sciences and Genomics#https://www.google.com/",
         "Course Code": "BIO541",
         "Course Acronym": "DSG",
@@ -781,10 +836,11 @@
         "Professor": "Vibhor Kumar",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO541"
     },
     {
-        "Serial Number": "58",
+        "\u00ef\u00bb\u00bfSerial Number": "57",
         "Course Name": "Data Structures & Algorithms#https://www.google.com/",
         "Course Code": "CSE102",
         "Course Acronym": "DSA",
@@ -795,38 +851,41 @@
         "Professor": "Rahul Purandare, Arun Balaji",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE102"
     },
     {
-        "Serial Number": "59",
+        "\u00ef\u00bb\u00bfSerial Number": "58",
         "Course Name": "Data Warehouse#https://www.google.com/",
         "Course Code": "CSE606",
         "Course Acronym": "DW",
-        "Prerequisites": "\"CSE202\"",
+        "Prerequisites": "CSE202",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winters",
         "Professor": "Naveen Prakash(G)",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE606"
     },
     {
-        "Serial Number": "60",
+        "\u00ef\u00bb\u00bfSerial Number": "59",
         "Course Name": "Database System Implementation#https://www.google.com/",
         "Course Code": "CSE507",
         "Course Acronym": "DBSI",
-        "Prerequisites": "\"CSE202, CSE102\"",
+        "Prerequisites": "CSE202, CSE102",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "*not found*",
         "Professor": "Viswanath Gunturi",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE507"
     },
     {
-        "Serial Number": "61",
+        "\u00ef\u00bb\u00bfSerial Number": "60",
         "Course Name": "Decision Theory#https://www.google.com/",
         "Course Code": "ECO503",
         "Course Acronym": "DT",
@@ -837,24 +896,26 @@
         "Professor": "Rakesh Chathurvedi",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO503"
     },
     {
-        "Serial Number": "62",
+        "\u00ef\u00bb\u00bfSerial Number": "61",
         "Course Name": "Deep Learning#https://www.google.com/",
         "Course Code": "CSE641",
         "Course Acronym": "DL",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"CSE343\"",
+        "Preferable Prerequisites": "CSE343",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE641"
     },
     {
-        "Serial Number": "63",
+        "\u00ef\u00bb\u00bfSerial Number": "62",
         "Course Name": "Design Drawing & Visualization#https://www.google.com/",
         "Course Code": "DES101",
         "Course Acronym": "DDV",
@@ -865,38 +926,41 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES101"
     },
     {
-        "Serial Number": "64",
+        "\u00ef\u00bb\u00bfSerial Number": "63",
         "Course Name": "Design of Interactive Systems#https://www.google.com/",
         "Course Code": "DES5DIS",
         "Course Acronym": "DIS",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"DES304,DES130 \"",
+        "Preferable Prerequisites": "DES304,DES130 ",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Rajiv Ratn Shah",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES5DIS"
     },
     {
-        "Serial Number": "65",
+        "\u00ef\u00bb\u00bfSerial Number": "64",
         "Course Name": "Design Processes and Perspectives#https://www.google.com/",
         "Course Code": "DES2xx/DES5xx",
         "Course Acronym": "DPP",
-        "Prerequisites": "\"DES101/DES202\"",
+        "Prerequisites": "DES101/DES202",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Indrani De Parker + Vibha Narula Gupta",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES2xx"
     },
     {
-        "Serial Number": "66",
+        "\u00ef\u00bb\u00bfSerial Number": "65",
         "Course Name": "Designing Human Centered Systems#https://www.google.com/",
         "Course Code": "CSE501",
         "Course Acronym": "DHCS",
@@ -907,10 +971,11 @@
         "Professor": "Ponnurangam Kumaraguru",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE501"
     },
     {
-        "Serial Number": "67",
+        "\u00ef\u00bb\u00bfSerial Number": "66",
         "Course Name": "Digital Audio#https://www.google.com/",
         "Course Code": "DES514",
         "Course Acronym": "DA",
@@ -921,80 +986,86 @@
         "Professor": "Aman Samuel",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES514"
     },
     {
-        "Serial Number": "68",
+        "\u00ef\u00bb\u00bfSerial Number": "67",
         "Course Name": "Digital Circuits#https://www.google.com/",
         "Course Code": "ECE111",
         "Course Acronym": "DC",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"ECE113\"",
+        "Preferable Prerequisites": "ECE113",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Sneh Saurabh + G S Visweswaran",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE111"
     },
     {
-        "Serial Number": "69",
+        "\u00ef\u00bb\u00bfSerial Number": "68",
         "Course Name": "Digital Communication Systems#https://www.google.com/",
         "Course Code": "ECE340",
         "Course Acronym": "DCS",
-        "Prerequisites": "\"ECE240\"",
-        "Preferable Prerequisites": "\"ECE240\"",
+        "Prerequisites": "ECE240",
+        "Preferable Prerequisites": "ECE240",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Gourab Ghatak",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE340"
     },
     {
-        "Serial Number": "70",
+        "\u00ef\u00bb\u00bfSerial Number": "69",
         "Course Name": "Digital Hardware Design (DHD)#https://www.google.com/",
         "Course Code": "ECE510",
         "Course Acronym": "DHD",
-        "Prerequisites": "\"ECE270\"",
+        "Prerequisites": "ECE270",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Sumit Darak",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE510"
     },
     {
-        "Serial Number": "71",
+        "\u00ef\u00bb\u00bfSerial Number": "70",
         "Course Name": "Digital Image Processing#https://www.google.com/",
         "Course Code": "ECE350",
         "Course Acronym": "DIP",
-        "Prerequisites": "\"MTH100, MTH201\"",
-        "Preferable Prerequisites": "\"ECE250\"",
+        "Prerequisites": "MTH100, MTH201",
+        "Preferable Prerequisites": "ECE250",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "A V Subramanyam",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE350"
     },
     {
-        "Serial Number": "72",
+        "\u00ef\u00bb\u00bfSerial Number": "71",
         "Course Name": "Digital Signal Processing#https://www.google.com/",
         "Course Code": "ECE351",
         "Course Acronym": "DSP",
-        "Prerequisites": "\"ECE250\"",
+        "Prerequisites": "ECE250",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "A.V.Subramanyam",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE351"
     },
     {
-        "Serial Number": "73",
+        "\u00ef\u00bb\u00bfSerial Number": "72",
         "Course Name": "Digital VLSI Design#https://www.google.com/",
         "Course Code": "ECE514",
         "Course Acronym": "DVD",
@@ -1005,10 +1076,11 @@
         "Professor": "Anuj Grover",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE514"
     },
     {
-        "Serial Number": "74",
+        "\u00ef\u00bb\u00bfSerial Number": "73",
         "Course Name": "Discrete Mathematics#https://www.google.com/",
         "Course Code": "CSE121",
         "Course Acronym": "DM",
@@ -1019,10 +1091,11 @@
         "Professor": "Samrith Ram",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE121"
     },
     {
-        "Serial Number": "75",
+        "\u00ef\u00bb\u00bfSerial Number": "74",
         "Course Name": "Discrete Structures#https://www.google.com/",
         "Course Code": "MTH210",
         "Course Acronym": "IDM",
@@ -1033,10 +1106,11 @@
         "Professor": "Rajiv Raman",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH210"
     },
     {
-        "Serial Number": "76",
+        "\u00ef\u00bb\u00bfSerial Number": "75",
         "Course Name": "Distributed Systems Security#https://www.google.com/",
         "Course Code": "CSE530",
         "Course Acronym": "DSS",
@@ -1047,38 +1121,41 @@
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE530"
     },
     {
-        "Serial Number": "77",
+        "\u00ef\u00bb\u00bfSerial Number": "76",
         "Course Name": "Ecology, Evolution, and Environment#https://www.google.com/",
         "Course Code": "ESC2EEEA",
         "Course Acronym": "EEE",
         "Prerequisites": "None",
         "Preferable Prerequisites": "None",
-        "Antirequisites": "\"ESC205\"",
+        "Antirequisites": "ESC205",
         "Semester": "Monsoon",
         "Professor": "Swapna Purandare",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "9"
+        "cluster": "9",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ESC2EEEA"
     },
     {
-        "Serial Number": "78",
+        "\u00ef\u00bb\u00bfSerial Number": "77",
         "Course Name": "Econometrics I#https://www.google.com/",
         "Course Code": "ECO321",
         "Course Acronym": "ECO",
-        "Prerequisites": "\"MTH201\"",
+        "Prerequisites": "MTH201",
         "Preferable Prerequisites": "None",
-        "Antirequisites": "\"ECO302\"",
+        "Antirequisites": "ECO302",
         "Semester": "Monsoon",
         "Professor": "Gaurav Arora",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO321"
     },
     {
-        "Serial Number": "79",
+        "\u00ef\u00bb\u00bfSerial Number": "78",
         "Course Name": "Effective Supply chain for E commerce#https://www.google.com/",
         "Course Code": "MGT310",
         "Course Acronym": "SCM",
@@ -1089,10 +1166,11 @@
         "Professor": "Sanjiva Dubey",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "10"
+        "cluster": "10",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MGT310"
     },
     {
-        "Serial Number": "80",
+        "\u00ef\u00bb\u00bfSerial Number": "79",
         "Course Name": "Embedded Logic Design#https://www.google.com/",
         "Course Code": "ECE270",
         "Course Acronym": "ELD",
@@ -1103,10 +1181,11 @@
         "Professor": "Sumit Darak",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE270"
     },
     {
-        "Serial Number": "81",
+        "\u00ef\u00bb\u00bfSerial Number": "80",
         "Course Name": "Emerging Issues in IT Management   (Governance, security, privacy, ethics and sustainability)#https://www.google.com/",
         "Course Code": "MGT311",
         "Course Acronym": "EITM",
@@ -1117,10 +1196,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "10"
+        "cluster": "10",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MGT311"
     },
     {
-        "Serial Number": "82",
+        "\u00ef\u00bb\u00bfSerial Number": "81",
         "Course Name": "Environmental Sciences#https://www.google.com/",
         "Course Code": "ESC205",
         "Course Acronym": "EVS",
@@ -1131,24 +1211,26 @@
         "Professor": "",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "9"
+        "cluster": "9",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ESC205"
     },
     {
-        "Serial Number": "83",
+        "\u00ef\u00bb\u00bfSerial Number": "82",
         "Course Name": "Fields and Waves#https://www.google.com/",
         "Course Code": "ECE230",
         "Course Acronym": "F&W",
-        "Prerequisites": "\"MTH100\"",
+        "Prerequisites": "MTH100",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE230"
     },
     {
-        "Serial Number": "84",
+        "\u00ef\u00bb\u00bfSerial Number": "83",
         "Course Name": "Film Making and Radio Podcasting#https://www.google.com/",
         "Course Code": "DES303",
         "Course Acronym": "FMRP",
@@ -1159,24 +1241,26 @@
         "Professor": "Manohar Khushlani",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES303"
     },
     {
-        "Serial Number": "85",
+        "\u00ef\u00bb\u00bfSerial Number": "84",
         "Course Name": "Fiundamentals of Database Management System#https://www.google.com/",
         "Course Code": "CSE202",
         "Course Acronym": "DBMS",
-        "Prerequisites": "\"CSE102\"",
+        "Prerequisites": "CSE102",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE202"
     },
     {
-        "Serial Number": "86",
+        "\u00ef\u00bb\u00bfSerial Number": "85",
         "Course Name": "Foundations of Biology#https://www.google.com/",
         "Course Code": "BIO101",
         "Course Acronym": "FOB",
@@ -1187,38 +1271,41 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO101"
     },
     {
-        "Serial Number": "87",
+        "\u00ef\u00bb\u00bfSerial Number": "86",
         "Course Name": "Foundations of Computer Security#https://www.google.com/",
         "Course Code": "CSE345",
         "Course Acronym": "FCS",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"CSE232\"",
+        "Preferable Prerequisites": "CSE232",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Arun Balaji",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE345"
     },
     {
-        "Serial Number": "88",
+        "\u00ef\u00bb\u00bfSerial Number": "87",
         "Course Name": "Foundations of Finance#https://www.google.com/",
         "Course Code": "ECO331",
         "Course Acronym": "FF",
         "Prerequisites": "None",
         "Preferable Prerequisites": "None",
-        "Antirequisites": "\"FIN401\"",
+        "Antirequisites": "FIN401",
         "Semester": "Monsoon",
         "Professor": "Pankaj Vajpayee",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO331"
     },
     {
-        "Serial Number": "89",
+        "\u00ef\u00bb\u00bfSerial Number": "88",
         "Course Name": "Foundations of Modern Biology#https://www.google.com/",
         "Course Code": "BIO512",
         "Course Acronym": "FOMB",
@@ -1229,38 +1316,41 @@
         "Professor": "Vibhor Kumar",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO512"
     },
     {
-        "Serial Number": "90",
+        "\u00ef\u00bb\u00bfSerial Number": "89",
         "Course Name": "Foundations of Parallel Programming#https://www.google.com/",
         "Course Code": "CSE502",
         "Course Acronym": "FPP",
-        "Prerequisites": "\"CSE101, CSE102, CSE201\"",
+        "Prerequisites": "CSE101, CSE102, CSE201",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE502"
     },
     {
-        "Serial Number": "91",
+        "\u00ef\u00bb\u00bfSerial Number": "90",
         "Course Name": "Fundamentals of Database Management System#https://www.google.com/",
         "Course Code": "CSE202",
         "Course Acronym": "DBMS",
-        "Prerequisites": "\"CSE102\"",
+        "Prerequisites": "CSE102",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE202"
     },
     {
-        "Serial Number": "92",
+        "\u00ef\u00bb\u00bfSerial Number": "91",
         "Course Name": "Game Development & Design#https://www.google.com/",
         "Course Code": "DES512",
         "Course Acronym": "GDD",
@@ -1271,24 +1361,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES512"
     },
     {
-        "Serial Number": "93",
+        "\u00ef\u00bb\u00bfSerial Number": "92",
         "Course Name": "Game Theory#https://www.google.com/",
         "Course Code": "ECO311",
         "Course Acronym": "GMT",
         "Prerequisites": "None",
         "Preferable Prerequisites": "None",
-        "Antirequisites": "\"ECO304\"",
+        "Antirequisites": "ECO304",
         "Semester": "Monsoon",
         "Professor": "Rakesh Chathurvedi",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO311"
     },
     {
-        "Serial Number": "94",
+        "\u00ef\u00bb\u00bfSerial Number": "93",
         "Course Name": "Genetics and Molecular Biology#https://www.google.com/",
         "Course Code": "BIO2GMB",
         "Course Acronym": "GMB",
@@ -1299,66 +1391,71 @@
         "Professor": "Vibhor Kumar",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO2GMB"
     },
     {
-        "Serial Number": "95",
+        "\u00ef\u00bb\u00bfSerial Number": "94",
         "Course Name": "Geometry Processing#https://www.google.com/",
         "Course Code": "CSE5GP",
         "Course Acronym": "GP",
-        "Prerequisites": "\"CSE101\"",
-        "Preferable Prerequisites": "\"CSE102\"",
+        "Prerequisites": "CSE101",
+        "Preferable Prerequisites": "CSE102",
         "Antirequisites": "",
         "Semester": "",
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5GP"
     },
     {
-        "Serial Number": "96",
+        "\u00ef\u00bb\u00bfSerial Number": "95",
         "Course Name": "GPU Computing#https://www.google.com/",
         "Course Code": "CSE560",
         "Course Acronym": "GPU",
-        "Prerequisites": "\"CSE101\"",
-        "Preferable Prerequisites": "\"CSE102\"",
+        "Prerequisites": "CSE101",
+        "Preferable Prerequisites": "CSE102",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE560"
     },
     {
-        "Serial Number": "97",
+        "\u00ef\u00bb\u00bfSerial Number": "96",
         "Course Name": "Graduate Algorithms#https://www.google.com/",
         "Course Code": "CSE525",
         "Course Acronym": "GA",
-        "Prerequisites": "\"CSE222\"",
+        "Prerequisites": "CSE222",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "",
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE525"
     },
     {
-        "Serial Number": "98",
+        "\u00ef\u00bb\u00bfSerial Number": "97",
         "Course Name": "Graph Theory#https://www.google.com/",
         "Course Code": "MTH310",
         "Course Acronym": "GT",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"MTH100,CSE121\"",
+        "Preferable Prerequisites": "MTH100,CSE121",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH310"
     },
     {
-        "Serial Number": "115",
+        "\u00ef\u00bb\u00bfSerial Number": "98",
         "Course Name": "Human Computer Interaction #https://www.google.com/",
         "Course Code": "DES204",
         "Course Acronym": "HCI",
@@ -1369,10 +1466,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES204"
     },
     {
-        "Serial Number": "99",
+        "\u00ef\u00bb\u00bfSerial Number": "99",
         "Course Name": "Indian Poetry Through the Ages#https://www.google.com/",
         "Course Code": "SSH217",
         "Course Acronym": "IPA",
@@ -1383,38 +1481,41 @@
         "Professor": "",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH217"
     },
     {
-        "Serial Number": "100",
+        "\u00ef\u00bb\u00bfSerial Number": "100",
         "Course Name": "Industrial Organization#https://www.google.com/",
         "Course Code": "ECO312",
         "Course Acronym": "IO",
-        "Prerequisites": "\"ECO 101/ECO 311\"",
+        "Prerequisites": "ECO 101/ECO 311",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO312"
     },
     {
-        "Serial Number": "101",
+        "\u00ef\u00bb\u00bfSerial Number": "101",
         "Course Name": "Information Retreival#https://www.google.com/",
         "Course Code": "CSE508",
         "Course Acronym": "IR",
-        "Prerequisites": "\"CSE 102,CSE 201,CSE 202\"",
+        "Prerequisites": "CSE 102,CSE 201,CSE 202",
         "Preferable Prerequisites": "ECE5ML",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE508"
     },
     {
-        "Serial Number": "102",
+        "\u00ef\u00bb\u00bfSerial Number": "102",
         "Course Name": "Information Systems in Public Health#https://www.google.com/",
         "Course Code": "DES515",
         "Course Acronym": "ISPR",
@@ -1425,38 +1526,41 @@
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES515"
     },
     {
-        "Serial Number": "103",
+        "\u00ef\u00bb\u00bfSerial Number": "103",
         "Course Name": "Integral Transforms and their Applications#https://www.google.com/",
         "Course Code": "MTH571",
         "Course Acronym": "ITA",
-        "Prerequisites": "\"MTH204\"",
-        "Preferable Prerequisites": "\"MTH341\"",
+        "Prerequisites": "MTH204",
+        "Preferable Prerequisites": "MTH341",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH571"
     },
     {
-        "Serial Number": "104",
+        "\u00ef\u00bb\u00bfSerial Number": "104",
         "Course Name": "Integrated Electronics#https://www.google.com/",
         "Course Code": "ECE214",
         "Course Acronym": "IE",
-        "Prerequisites": "\"ECE111,ECE113,DES130\"",
+        "Prerequisites": "ECE111,ECE113,DES130",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE214"
     },
     {
-        "Serial Number": "105",
+        "\u00ef\u00bb\u00bfSerial Number": "105",
         "Course Name": "Intelligent Applications Implementation on Heterogeneous Platforms#https://www.google.com/",
         "Course Code": "ECE/CS ???",
         "Course Acronym": "IAI",
@@ -1467,10 +1571,11 @@
         "Professor": "Sumit Mediratta (V)",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE"
     },
     {
-        "Serial Number": "106",
+        "\u00ef\u00bb\u00bfSerial Number": "106",
         "Course Name": "Intelligent Systems 1#https://www.google.com/",
         "Course Code": "CSE440",
         "Course Acronym": "IS-I",
@@ -1481,10 +1586,11 @@
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE440"
     },
     {
-        "Serial Number": "108",
+        "\u00ef\u00bb\u00bfSerial Number": "107",
         "Course Name": "Introduction to 3D Animation#https://www.google.com/",
         "Course Code": "DES5xx",
         "Course Acronym": "I3D",
@@ -1495,10 +1601,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES5xx"
     },
     {
-        "Serial Number": "109",
+        "\u00ef\u00bb\u00bfSerial Number": "108",
         "Course Name": "Introduction to Computational Neuroscience#https://www.google.com/",
         "Course Code": "BIO534",
         "Course Acronym": "ICN",
@@ -1509,24 +1616,26 @@
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO534"
     },
     {
-        "Serial Number": "110",
+        "\u00ef\u00bb\u00bfSerial Number": "109",
         "Course Name": "Introduction to Dynamical Systems#https://www.google.com/",
         "Course Code": "MTH343/543",
         "Course Acronym": "IDS",
-        "Prerequisites": "\"MTH100, MTH203, MTH240\"",
-        "Preferable Prerequisites": "\"MTH204,MTH340,MTH510\"",
+        "Prerequisites": "MTH100, MTH203, MTH240",
+        "Preferable Prerequisites": "MTH204,MTH340,MTH510",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH343"
     },
     {
-        "Serial Number": "111",
+        "\u00ef\u00bb\u00bfSerial Number": "110",
         "Course Name": "Introduction to Economic Analysis#https://www.google.com/",
         "Course Code": "ECO301",
         "Course Acronym": "IEA",
@@ -1537,82 +1646,88 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO301"
     },
     {
-        "Serial Number": "112",
+        "\u00ef\u00bb\u00bfSerial Number": "111",
         "Course Name": "Introduction to Engineering Design#https://www.google.com/",
         "Course Code": "DES130",
         "Course Acronym": "IED",
-        "Prerequisites": "\"CSE101,ECE111,CSE131\"",
+        "Prerequisites": "CSE101,ECE111,CSE131",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES130"
     },
     {
-        "Serial Number": "113",
+        "\u00ef\u00bb\u00bfSerial Number": "112",
         "Course Name": "Introduction to Epidemiology#https://www.google.com/",
         "Course Code": "DES517",
         "Course Acronym": "IEP",
-        "Prerequisites": "\"MTH201\"",
+        "Prerequisites": "MTH201",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES517"
     },
     {
-        "Serial Number": "107",
+        "\u00ef\u00bb\u00bfSerial Number": "113",
         "Course Name": "Introduction to Functional Analysis#https://www.google.com/",
         "Course Code": "MTH598",
         "Course Acronym": "IFA",
-        "Prerequisites": "\"MTH100 for UG\"",
-        "Preferable Prerequisites": "\"MTH203\"",
+        "Prerequisites": "MTH100 for UG",
+        "Preferable Prerequisites": "MTH203",
         "Antirequisites": "",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH598"
     },
     {
-        "Serial Number": "114",
+        "\u00ef\u00bb\u00bfSerial Number": "114",
         "Course Name": "Introduction to Graduate algorithms#https://www.google.com/",
         "Course Code": "CSE525",
         "Course Acronym": "GA",
-        "Prerequisites": "\"CSE222\"",
+        "Prerequisites": "CSE222",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Debajyoti Bera",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE525"
     },
     {
-        "Serial Number": "116",
+        "\u00ef\u00bb\u00bfSerial Number": "115",
         "Course Name": "Introduction to Indian Mythology#https://www.google.com/",
         "Course Code": "SSH216",
         "Course Acronym": "IIM",
         "Prerequisites": "None",
         "Preferable Prerequisites": "None",
-        "Antirequisites": "\"HSS219\"",
+        "Antirequisites": "HSS219",
         "Semester": "Monsoon",
         "Professor": "Saumya Kulshreshtha(G)",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH216"
     },
     {
-        "Serial Number": "117",
+        "\u00ef\u00bb\u00bfSerial Number": "116",
         "Course Name": "Introduction to Mathematical Biology#https://www.google.com/",
-        "Course Code": "BIO303/503",
+        "Course Code": "BIO303/BIO503",
         "Course Acronym": "IMB",
         "Prerequisites": "MTH-101 ",
         "Preferable Prerequisites": "Molecular biology and biochemistry, cell biology",
@@ -1621,24 +1736,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO303"
     },
     {
-        "Serial Number": "118",
+        "\u00ef\u00bb\u00bfSerial Number": "117",
         "Course Name": "Introduction to Mathematical Logic#https://www.google.com/",
         "Course Code": "MTH200",
         "Course Acronym": "IML",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"CSE121/MTH210\"",
+        "Preferable Prerequisites": "CSE121/MTH210",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH200"
     },
     {
-        "Serial Number": "119",
+        "\u00ef\u00bb\u00bfSerial Number": "118",
         "Course Name": "Introduction to Media Computing#https://www.google.com/",
         "Course Code": "CSE5IMC",
         "Course Acronym": "IMC",
@@ -1649,10 +1766,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5IMC"
     },
     {
-        "Serial Number": "120",
+        "\u00ef\u00bb\u00bfSerial Number": "119",
         "Course Name": "Introduction to Motion Graphics#https://www.google.com/",
         "Course Code": "DES518",
         "Course Acronym": "IMG",
@@ -1663,10 +1781,11 @@
         "Professor": "Anoop Ratn",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES518"
     },
     {
-        "Serial Number": "121",
+        "\u00ef\u00bb\u00bfSerial Number": "120",
         "Course Name": "Introduction to Nanoelectronics#https://www.google.com/",
         "Course Code": "ECE517",
         "Course Acronym": "INE",
@@ -1677,10 +1796,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE517"
     },
     {
-        "Serial Number": "122",
+        "\u00ef\u00bb\u00bfSerial Number": "121",
         "Course Name": "Introduction to Natural Language Processing (NLP)#https://www.google.com/",
         "Course Code": "CSE556",
         "Course Acronym": "NLP",
@@ -1691,10 +1811,11 @@
         "Professor": "Tanmoy Chakraborty",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE556"
     },
     {
-        "Serial Number": "123",
+        "\u00ef\u00bb\u00bfSerial Number": "122",
         "Course Name": "Introduction to Philosophy#https://www.google.com/",
         "Course Code": "SSH121",
         "Course Acronym": "IPHI",
@@ -1705,10 +1826,11 @@
         "Professor": "Raj Ayyar",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH121"
     },
     {
-        "Serial Number": "124",
+        "\u00ef\u00bb\u00bfSerial Number": "123",
         "Course Name": "Introduction to Programming#https://www.google.com/",
         "Course Code": "CSE101",
         "Course Acronym": "IP",
@@ -1719,10 +1841,11 @@
         "Professor": "\"Vikram Goyal, V Raghava Mutharaju\"",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE101"
     },
     {
-        "Serial Number": "125",
+        "\u00ef\u00bb\u00bfSerial Number": "124",
         "Course Name": "Introduction to Psychology#https://www.google.com/",
         "Course Code": "PSY201",
         "Course Acronym": "Psy",
@@ -1733,10 +1856,11 @@
         "Professor": "\"Will be announced later\"???",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "12"
+        "cluster": "12",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY201"
     },
     {
-        "Serial Number": "126",
+        "\u00ef\u00bb\u00bfSerial Number": "125",
         "Course Name": "Introduction to Quantitative Biology#https://www.google.com/",
         "Course Code": "BIO213",
         "Course Acronym": "IQB",
@@ -1747,24 +1871,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO213"
     },
     {
-        "Serial Number": "127",
+        "\u00ef\u00bb\u00bfSerial Number": "126",
         "Course Name": "Introduction to Quantum Computing#https://www.google.com/",
         "Course Code": "CSE622",
         "Course Acronym": "IQC",
         "Prerequisites": "MTH100",
-        "Preferable Prerequisites": "\"MTH201, CSE222\"",
+        "Preferable Prerequisites": "MTH201, CSE222",
         "Antirequisites": "",
         "Semester": "None",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE622"
     },
     {
-        "Serial Number": "128",
+        "\u00ef\u00bb\u00bfSerial Number": "127",
         "Course Name": "Introduction to Robotics#https://www.google.com/",
         "Course Code": "ECE670/CSE633",
         "Course Acronym": "IRob",
@@ -1775,24 +1901,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE670"
     },
     {
-        "Serial Number": "129",
+        "\u00ef\u00bb\u00bfSerial Number": "128",
         "Course Name": "Introduction to Sociology and Anthropology#https://www.google.com/",
         "Course Code": "SOC201",
         "Course Acronym": "ISA",
         "Prerequisites": "SSH101",
         "Preferable Prerequisites": "None",
-        "Antirequisites": "\"HSS205, HSS215\"",
+        "Antirequisites": "HSS205, HSS215",
         "Semester": "Monsoon",
         "Professor": "Amrit Srinivasan",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "13"
+        "cluster": "13",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC201"
     },
     {
-        "Serial Number": "130",
+        "\u00ef\u00bb\u00bfSerial Number": "129",
         "Course Name": "Introduction to Spatial Computing#https://www.google.com/",
         "Course Code": "CSE555",
         "Course Acronym": "ISC",
@@ -1803,10 +1931,11 @@
         "Professor": "Vishwanath Gunturi",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE555"
     },
     {
-        "Serial Number": "131",
+        "\u00ef\u00bb\u00bfSerial Number": "130",
         "Course Name": "Introduction To The Study Of Literature#https://www.google.com/",
         "Course Code": "SSH214",
         "Course Acronym": "Lit",
@@ -1817,12 +1946,13 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH214"
     },
     {
-        "Serial Number": "132",
+        "\u00ef\u00bb\u00bfSerial Number": "131",
         "Course Name": "Introduction to VLSI Design#https://www.google.com/",
-        "Course Code": "ECE314/514",
+        "Course Code": "ECE314/ECE514",
         "Course Acronym": "DVD",
         "Prerequisites": "None",
         "Preferable Prerequisites": "None",
@@ -1831,24 +1961,26 @@
         "Professor": "Anuj Grover",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE314"
     },
     {
-        "Serial Number": "133",
+        "\u00ef\u00bb\u00bfSerial Number": "132",
         "Course Name": "IT AND SOCIETY#https://www.google.com/",
         "Course Code": "SOC207",
         "Course Acronym": "ITS",
         "Prerequisites": "None",
         "Preferable Prerequisites": "SOC201",
-        "Antirequisites": "\"HSS212, SSH101\"",
+        "Antirequisites": "HSS212, SSH101",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "13"
+        "cluster": "13",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC207"
     },
     {
-        "Serial Number": "134",
+        "\u00ef\u00bb\u00bfSerial Number": "133",
         "Course Name": "Linear Optimization#https://www.google.com/",
         "Course Code": "MTH374/574",
         "Course Acronym": "LO",
@@ -1859,24 +1991,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH374"
     },
     {
-        "Serial Number": "135",
+        "\u00ef\u00bb\u00bfSerial Number": "134",
         "Course Name": "Machine Learning#https://www.google.com/",
         "Course Code": "CSE343/543",
         "Course Acronym": "ML",
-        "Prerequisites": "\"MTH100, MTH201, CSE101, MTH203\"",
+        "Prerequisites": "MTH100, MTH201, CSE101, MTH203",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Saket Anand",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE343"
     },
     {
-        "Serial Number": "136",
+        "\u00ef\u00bb\u00bfSerial Number": "135",
         "Course Name": "Machine Learning and Biomedical Applications#https://www.google.com/",
         "Course Code": "BIO542",
         "Course Acronym": "MLBA",
@@ -1887,24 +2021,26 @@
         "Professor": "GPS Raghava",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO542"
     },
     {
-        "Serial Number": "137",
+        "\u00ef\u00bb\u00bfSerial Number": "136",
         "Course Name": "Machine Learning Techniques for Real Time Control#https://www.google.com/",
         "Course Code": "ECE5MLR",
         "Course Acronym": "MLRC",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"MTH100, CSE343, ECE570\"",
+        "Preferable Prerequisites": "MTH100, CSE343, ECE570",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE5MLR"
     },
     {
-        "Serial Number": "138",
+        "\u00ef\u00bb\u00bfSerial Number": "137",
         "Course Name": "Macroeconomics#https://www.google.com/",
         "Course Code": "ECO201",
         "Course Acronym": "MA",
@@ -1915,10 +2051,11 @@
         "Professor": "Kiriti Kanjilal",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO201"
     },
     {
-        "Serial Number": "139",
+        "\u00ef\u00bb\u00bfSerial Number": "138",
         "Course Name": "Market Design#https://www.google.com/",
         "Course Code": "ECO313",
         "Course Acronym": "MD",
@@ -1929,10 +2066,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO313"
     },
     {
-        "Serial Number": "140",
+        "\u00ef\u00bb\u00bfSerial Number": "139",
         "Course Name": "Math 1#https://www.google.com/",
         "Course Code": "MTH100",
         "Course Acronym": "M-I",
@@ -1943,10 +2081,11 @@
         "Professor": "Samaresh Chatterji",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH100"
     },
     {
-        "Serial Number": "141",
+        "\u00ef\u00bb\u00bfSerial Number": "140",
         "Course Name": "Math III#https://www.google.com/",
         "Course Code": "MTH203",
         "Course Acronym": "M-III",
@@ -1957,10 +2096,11 @@
         "Professor": "\"Sarthok Sircar, Kaushik Kalyanraman\"",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH203"
     },
     {
-        "Serial Number": "142",
+        "\u00ef\u00bb\u00bfSerial Number": "141",
         "Course Name": "Mathematics III (Multivariate Calculus)#https://www.google.com/",
         "Course Code": "MTH203",
         "Course Acronym": "M-III",
@@ -1971,10 +2111,11 @@
         "Professor": "\"Sarthok Sircar, Kaushik Kalyanraman\"",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH203"
     },
     {
-        "Serial Number": "143",
+        "\u00ef\u00bb\u00bfSerial Number": "142",
         "Course Name": "Mathematics IV (Differential Equations)#https://www.google.com/",
         "Course Code": "MTH204",
         "Course Acronym": "M-IV",
@@ -1985,38 +2126,41 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH204"
     },
     {
-        "Serial Number": "144",
+        "\u00ef\u00bb\u00bfSerial Number": "143",
         "Course Name": "Media Security#https://www.google.com/",
         "Course Code": "CSE694F/ECE651",
         "Course Acronym": "MS",
-        "Prerequisites": "\"CSE340, ECE350\"",
+        "Prerequisites": "CSE340, ECE350",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE694F"
     },
     {
-        "Serial Number": "145",
+        "\u00ef\u00bb\u00bfSerial Number": "144",
         "Course Name": "Memory Design and Testing#https://www.google.com/",
         "Course Code": "ECE611",
         "Course Acronym": "MDT",
-        "Prerequisites": "\"ECE111, ECE113, CSE511, ECE511\"",
+        "Prerequisites": "ECE111, ECE113, CSE511, ECE511",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE611"
     },
     {
-        "Serial Number": "146",
+        "\u00ef\u00bb\u00bfSerial Number": "145",
         "Course Name": "Microeconomics#https://www.google.com/",
         "Course Code": "ECO101",
         "Course Acronym": "ME",
@@ -2027,38 +2171,41 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO101"
     },
     {
-        "Serial Number": "147",
+        "\u00ef\u00bb\u00bfSerial Number": "146",
         "Course Name": "Mining Large Networks#https://www.google.com/",
         "Course Code": "CSE5MLN",
         "Course Acronym": "MLN",
-        "Prerequisites": "\"CSE222, CSE101, MTH201, CSE342/CSE542/ CSE343/CSE543/ECE5ML/ CSE642/CSE641\" ",
+        "Prerequisites": "CSE222, CSE101, MTH201, CSE342/CSE542/ CSE343/CSE543/ECE5ML/ CSE642/CSE641 ",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Tanmoy Chakraborty",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5MLN"
     },
     {
-        "Serial Number": "148",
+        "\u00ef\u00bb\u00bfSerial Number": "147",
         "Course Name": "Mixed signal Design#https://www.google.com/",
         "Course Code": "ECE612",
         "Course Acronym": "MSD",
-        "Prerequisites": "\"ECE315/ECE515\"",
+        "Prerequisites": "ECE315/ECE515",
         "Preferable Prerequisites": "ECE213",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE612"
     },
     {
-        "Serial Number": "149",
+        "\u00ef\u00bb\u00bfSerial Number": "148",
         "Course Name": "Mobile Communications#https://www.google.com/",
         "Course Code": "ECE343",
         "Course Acronym": "MC",
@@ -2069,24 +2216,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE343"
     },
     {
-        "Serial Number": "150",
+        "\u00ef\u00bb\u00bfSerial Number": "149",
         "Course Name": "Mobile Computing#https://www.google.com/",
         "Course Code": "CSE535",
         "Course Acronym": "MC",
         "Prerequisites": "CSE101",
-        "Preferable Prerequisites": "\"CSE231, CSE232, CSE201\"",
+        "Preferable Prerequisites": "CSE231, CSE232, CSE201",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Pushpendra Singh",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE535"
     },
     {
-        "Serial Number": "151",
+        "\u00ef\u00bb\u00bfSerial Number": "150",
         "Course Name": "Modeling and Analysis of Random 5G Networks#https://www.google.com/",
         "Course Code": "ECE55G",
         "Course Acronym": "MAN",
@@ -2097,12 +2246,13 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE55G"
     },
     {
-        "Serial Number": "152",
+        "\u00ef\u00bb\u00bfSerial Number": "151",
         "Course Name": "Modern Algorithm Design#https://www.google.com/",
-        "Course Code": "CSE319/519",
+        "Course Code": "CSE319/CSE519",
         "Course Acronym": "MAD",
         "Prerequisites": "CSE222",
         "Preferable Prerequisites": "None",
@@ -2111,10 +2261,11 @@
         "Professor": "Syamantak Das",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE319"
     },
     {
-        "Serial Number": "153",
+        "\u00ef\u00bb\u00bfSerial Number": "152",
         "Course Name": "Multi-agent Systems#https://www.google.com/",
         "Course Code": "CSE531",
         "Course Acronym": "MAS",
@@ -2125,24 +2276,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE531"
     },
     {
-        "Serial Number": "154",
+        "\u00ef\u00bb\u00bfSerial Number": "153",
         "Course Name": "Multimedia Computing and Applications#https://www.google.com/",
         "Course Code": "CSE563",
         "Course Acronym": "MCA",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"CSE556, CSE343/CSE543/ECE5ML, CSE344/CSE544/ECE344/ECE544\"",
+        "Preferable Prerequisites": "CSE556, CSE343/CSE543/ECE5ML, CSE344/CSE544/ECE344/ECE544",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE563"
     },
     {
-        "Serial Number": "155",
+        "\u00ef\u00bb\u00bfSerial Number": "154",
         "Course Name": "Natural Language Processing#https://www.google.com/",
         "Course Code": "CSE551",
         "Course Acronym": "NLP",
@@ -2153,10 +2306,11 @@
         "Professor": "Tanmoy Chakraborty",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE551"
     },
     {
-        "Serial Number": "156",
+        "\u00ef\u00bb\u00bfSerial Number": "155",
         "Course Name": "Network administration#https://www.google.com/",
         "Course Code": "CSE233",
         "Course Acronym": "NAdmn",
@@ -2167,10 +2321,11 @@
         "Professor": "",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE233"
     },
     {
-        "Serial Number": "157",
+        "\u00ef\u00bb\u00bfSerial Number": "156",
         "Course Name": "Network Anonymity and Privacy#https://www.google.com/",
         "Course Code": "CSE749",
         "Course Acronym": "NAP",
@@ -2181,10 +2336,11 @@
         "Professor": "Sambuddho Chakravarty",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE749"
     },
     {
-        "Serial Number": "158",
+        "\u00ef\u00bb\u00bfSerial Number": "157",
         "Course Name": "Network Biology#https://www.google.com/",
         "Course Code": "BIO532",
         "Course Acronym": "NB",
@@ -2195,10 +2351,11 @@
         "Professor": "Ganesh Bagler",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO532"
     },
     {
-        "Serial Number": "159",
+        "\u00ef\u00bb\u00bfSerial Number": "158",
         "Course Name": "Network Science#https://www.google.com/",
         "Course Code": "BIO571",
         "Course Acronym": "NS",
@@ -2209,24 +2366,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO571"
     },
     {
-        "Serial Number": "160",
+        "\u00ef\u00bb\u00bfSerial Number": "159",
         "Course Name": "Networks and Systems Security#https://www.google.com/",
         "Course Code": "CSE3xx/CSE5xx",
         "Course Acronym": "NSS",
-        "Prerequisites": "\"CSE231, CSE345/CSE545, CSE232\"",
+        "Prerequisites": "CSE231, CSE345/CSE545, CSE232",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE3xx"
     },
     {
-        "Serial Number": "161",
+        "\u00ef\u00bb\u00bfSerial Number": "160",
         "Course Name": "Nonlinear and Adaptive Control of Robotic Systems#https://www.google.com/",
         "Course Code": "ECE5NL",
         "Course Acronym": "NLR",
@@ -2237,10 +2396,11 @@
         "Professor": "Sayan Basu Roy",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE5NL"
     },
     {
-        "Serial Number": "162",
+        "\u00ef\u00bb\u00bfSerial Number": "161",
         "Course Name": "Number Theory#https://www.google.com/",
         "Course Code": "MTH211",
         "Course Acronym": "NT",
@@ -2251,66 +2411,71 @@
         "Professor": "Anuradha Sharma",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH211"
     },
     {
-        "Serial Number": "163",
+        "\u00ef\u00bb\u00bfSerial Number": "162",
         "Course Name": "Numerical Methods#https://www.google.com/",
         "Course Code": "MTH270",
         "Course Acronym": "NM",
-        "Prerequisites": "\"MTH100, MTH204\"",
+        "Prerequisites": "MTH100, MTH204",
         "Preferable Prerequisites": "None",
         "Antirequisites": "",
         "Semester": "None",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH270"
     },
     {
-        "Serial Number": "164",
+        "\u00ef\u00bb\u00bfSerial Number": "163",
         "Course Name": "Numerical Partial Differential Equations#https://www.google.com/",
         "Course Code": "MTH598",
         "Course Acronym": "NPDE",
-        "Prerequisites": "\"MTH100, MTH203, MTH240\"",
+        "Prerequisites": "MTH100, MTH203, MTH240",
         "Preferable Prerequisites": "None",
         "Antirequisites": "MTH570",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH598"
     },
     {
-        "Serial Number": "165",
+        "\u00ef\u00bb\u00bfSerial Number": "164",
         "Course Name": "Numerical Solutions Differential Equations#https://www.google.com/",
         "Course Code": "MTH570",
         "Course Acronym": "NSDE",
-        "Prerequisites": "\"MTH100, MTH203, MTH240\"",
-        "Preferable Prerequisites": "\"MTH270, MTH204\"",
+        "Prerequisites": "MTH100, MTH203, MTH240",
+        "Preferable Prerequisites": "MTH270, MTH204",
         "Antirequisites": "",
         "Semester": "None",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH570"
     },
     {
-        "Serial Number": "166",
+        "\u00ef\u00bb\u00bfSerial Number": "165",
         "Course Name": "Object Oriented Programming and Design#https://www.google.com/",
         "Course Code": "CSE600A/ECE600A",
         "Course Acronym": "OOPD",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"CSE101, CSE102\"",
+        "Preferable Prerequisites": "CSE101, CSE102",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Naveen Prakash",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE600A"
     },
     {
-        "Serial Number": "167",
+        "\u00ef\u00bb\u00bfSerial Number": "166",
         "Course Name": "Ontology Modeling#https://www.google.com/",
         "Course Code": "CSE5OM",
         "Course Acronym": "OM",
@@ -2321,10 +2486,11 @@
         "Professor": "",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5OM"
     },
     {
-        "Serial Number": "168",
+        "\u00ef\u00bb\u00bfSerial Number": "167",
         "Course Name": "Operating Systems#https://www.google.com/",
         "Course Code": "CSE231",
         "Course Acronym": "OS",
@@ -2335,10 +2501,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE231"
     },
     {
-        "Serial Number": "169",
+        "\u00ef\u00bb\u00bfSerial Number": "168",
         "Course Name": "Optical Communications Systems#https://www.google.com/",
         "Course Code": "ECE534",
         "Course Acronym": "OCS",
@@ -2349,24 +2516,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE534"
     },
     {
-        "Serial Number": "170",
+        "\u00ef\u00bb\u00bfSerial Number": "169",
         "Course Name": "Optical Networking#https://www.google.com/",
         "Course Code": "ECE536s",
         "Course Acronym": "ON",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"CSE636/ECE636, ECE534, CSE102\"",
+        "Preferable Prerequisites": "CSE636/ECE636, ECE534, CSE102",
         "Antirequisites": "",
         "Semester": "None",
         "Professor": "",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE536s"
     },
     {
-        "Serial Number": "171",
+        "\u00ef\u00bb\u00bfSerial Number": "170",
         "Course Name": "Optimal Control Systems#https://www.google.com/",
         "Course Code": "ECE571",
         "Course Acronym": "OCS",
@@ -2377,10 +2546,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE571"
     },
     {
-        "Serial Number": "172",
+        "\u00ef\u00bb\u00bfSerial Number": "171",
         "Course Name": "Organizations An Anthropological Perspective#https://www.google.com/",
         "Course Code": "SOC208",
         "Course Acronym": "OAP",
@@ -2391,10 +2561,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "13"
+        "cluster": "13",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC208"
     },
     {
-        "Serial Number": "173",
+        "\u00ef\u00bb\u00bfSerial Number": "172",
         "Course Name": "Pattern Recognition#https://www.google.com/",
         "Course Code": "CSE342/542",
         "Course Acronym": "PR",
@@ -2405,10 +2576,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE342"
     },
     {
-        "Serial Number": "174",
+        "\u00ef\u00bb\u00bfSerial Number": "173",
         "Course Name": "Positive Psychology#https://www.google.com/",
         "Course Code": "PSY202",
         "Course Acronym": "Ppsy",
@@ -2419,10 +2591,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "12"
+        "cluster": "12",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY202"
     },
     {
-        "Serial Number": "175",
+        "\u00ef\u00bb\u00bfSerial Number": "174",
         "Course Name": "Practical Bioinformatics#https://www.google.com/",
         "Course Code": "BIO521",
         "Course Acronym": "PB",
@@ -2433,10 +2606,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO521"
     },
     {
-        "Serial Number": "176",
+        "\u00ef\u00bb\u00bfSerial Number": "175",
         "Course Name": "Practice of Programming#https://www.google.com/",
         "Course Code": "CSE304",
         "Course Acronym": "PP",
@@ -2447,10 +2621,11 @@
         "Professor": "",
         "Credits": "",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE304"
     },
     {
-        "Serial Number": "177",
+        "\u00ef\u00bb\u00bfSerial Number": "176",
         "Course Name": "Principals of Digital Communication System#https://www.google.com/",
         "Course Code": "ECE543",
         "Course Acronym": "PDCS",
@@ -2461,24 +2636,26 @@
         "Professor": "Anand Srivastava",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE543"
     },
     {
-        "Serial Number": "178",
+        "\u00ef\u00bb\u00bfSerial Number": "177",
         "Course Name": "Principles of Communication Systems#https://www.google.com/",
         "Course Code": "ECE240",
         "Course Acronym": "PCS",
-        "Prerequisites": "\"ECE250, MTH201\"",
+        "Prerequisites": "ECE250, MTH201",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE240"
     },
     {
-        "Serial Number": "179",
+        "\u00ef\u00bb\u00bfSerial Number": "178",
         "Course Name": "Probabilistic Graphical Models#https://www.google.com/",
         "Course Code": "CSE561",
         "Course Acronym": "PGM",
@@ -2489,10 +2666,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE561"
     },
     {
-        "Serial Number": "180",
+        "\u00ef\u00bb\u00bfSerial Number": "179",
         "Course Name": "Probability and Random Process#https://www.google.com/",
         "Course Code": "ECE501",
         "Course Acronym": "PRP",
@@ -2503,10 +2681,11 @@
         "Professor": "Anubha Gupta",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE501"
     },
     {
-        "Serial Number": "181",
+        "\u00ef\u00bb\u00bfSerial Number": "180",
         "Course Name": "Probability and Statistics#https://www.google.com/",
         "Course Code": "MTH201",
         "Course Acronym": "P&S",
@@ -2517,24 +2696,26 @@
         "Professor": "\"Angshul Majumdar,Sanjit Kaul\"",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH201"
     },
     {
-        "Serial Number": "182",
+        "\u00ef\u00bb\u00bfSerial Number": "181",
         "Course Name": "Program Analysis#https://www.google.com/",
         "Course Code": "CSE503",
         "Course Acronym": "PA",
-        "Prerequisites": "\"CSE102, CSE201\"",
+        "Prerequisites": "CSE102, CSE201",
         "Preferable Prerequisites": "CSE322",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Rahul Purandare",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE503"
     },
     {
-        "Serial Number": "183",
+        "\u00ef\u00bb\u00bfSerial Number": "182",
         "Course Name": "Radar Systems#https://www.google.com/",
         "Course Code": "ECE432",
         "Course Acronym": "RS",
@@ -2545,24 +2726,26 @@
         "Professor": "Shobha Sundaram",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE432"
     },
     {
-        "Serial Number": "184",
+        "\u00ef\u00bb\u00bfSerial Number": "183",
         "Course Name": "Randomized Algorithms#https://www.google.com/",
         "Course Code": "CSE523",
         "Course Acronym": "RA",
-        "Prerequisites": "\"CSE222,CSE121,MTH201\"",
+        "Prerequisites": "CSE222,CSE121,MTH201",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Rajiv Raman",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE523"
     },
     {
-        "Serial Number": "185",
+        "\u00ef\u00bb\u00bfSerial Number": "184",
         "Course Name": "Real Analysis I#https://www.google.com/",
         "Course Code": "MTH240",
         "Course Acronym": "RA-I",
@@ -2573,10 +2756,11 @@
         "Professor": "Sankha S Basu",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH240"
     },
     {
-        "Serial Number": "186",
+        "\u00ef\u00bb\u00bfSerial Number": "185",
         "Course Name": "Real Analysis-II#https://www.google.com/",
         "Course Code": "MTH340",
         "Course Acronym": "RA-II",
@@ -2587,10 +2771,11 @@
         "Professor": "Shilpak Banerjee",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH340"
     },
     {
-        "Serial Number": "187",
+        "\u00ef\u00bb\u00bfSerial Number": "186",
         "Course Name": "Reinforcement Learning#https://www.google.com/",
         "Course Code": "CSE564",
         "Course Acronym": "RL",
@@ -2601,10 +2786,11 @@
         "Professor": "Sanjit K Kaul",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE564"
     },
     {
-        "Serial Number": "188",
+        "\u00ef\u00bb\u00bfSerial Number": "187",
         "Course Name": "Research Methods#https://www.google.com/",
         "Course Code": "ENG599s",
         "Course Acronym": "RM",
@@ -2615,10 +2801,11 @@
         "Professor": "Angshul Majumdar",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "7"
+        "cluster": "7",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ENG599s"
     },
     {
-        "Serial Number": "189",
+        "\u00ef\u00bb\u00bfSerial Number": "188",
         "Course Name": "Robotics#https://www.google.com/",
         "Course Code": "CSE633",
         "Course Acronym": "Robotics",
@@ -2629,10 +2816,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE633"
     },
     {
-        "Serial Number": "190",
+        "\u00ef\u00bb\u00bfSerial Number": "189",
         "Course Name": "Satellite Navigation and Sensor Fusion#https://www.google.com/",
         "Course Code": "ECE5SN",
         "Course Acronym": "SNSF",
@@ -2643,24 +2831,26 @@
         "Professor": "Sanat Biswas",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE5SN"
     },
     {
-        "Serial Number": "191",
+        "\u00ef\u00bb\u00bfSerial Number": "190",
         "Course Name": "Scientific Computing#https://www.google.com/",
         "Course Code": "MTH373",
         "Course Acronym": "SC",
         "Prerequisites": "MTH100",
-        "Preferable Prerequisites": "\"MTH204,MTH203,MTH240\"",
+        "Preferable Prerequisites": "MTH204,MTH203,MTH240",
         "Antirequisites": "MTH270",
         "Semester": "Monsoon",
         "Professor": "Kaushik Kalyanaraman",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH373"
     },
     {
-        "Serial Number": "192",
+        "\u00ef\u00bb\u00bfSerial Number": "191",
         "Course Name": "Security Engineering#https://www.google.com/",
         "Course Code": "CSE552",
         "Course Acronym": "SE",
@@ -2671,24 +2861,26 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE552"
     },
     {
-        "Serial Number": "193",
+        "\u00ef\u00bb\u00bfSerial Number": "192",
         "Course Name": "Semantic Web#https://www.google.com/",
         "Course Code": "CSE632",
         "Course Acronym": "Sweb",
-        "Prerequisites": "\"CSE101,CSE202\"",
+        "Prerequisites": "CSE101,CSE202",
         "Preferable Prerequisites": "CSE201",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Raghava Mutharaju",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE632"
     },
     {
-        "Serial Number": "194",
+        "\u00ef\u00bb\u00bfSerial Number": "193",
         "Course Name": "Sensing Systems and Data Analytics in Building Energy Management#https://www.google.com/",
         "Course Code": "CSE312",
         "Course Acronym": "SS&DABEM",
@@ -2699,10 +2891,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE312"
     },
     {
-        "Serial Number": "195",
+        "\u00ef\u00bb\u00bfSerial Number": "194",
         "Course Name": "Signals and Systems#https://www.google.com/",
         "Course Code": "ECE250",
         "Course Acronym": "S&S",
@@ -2713,10 +2906,11 @@
         "Professor": "Pravesh Biyani",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE250"
     },
     {
-        "Serial Number": "196",
+        "\u00ef\u00bb\u00bfSerial Number": "195",
         "Course Name": "Smart Sensing for Internet of Things (IoT)#https://www.google.com/",
         "Course Code": "CSE576",
         "Course Acronym": "SSIoT",
@@ -2727,10 +2921,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE576"
     },
     {
-        "Serial Number": "197",
+        "\u00ef\u00bb\u00bfSerial Number": "196",
         "Course Name": "Social and Political Philosophy#https://www.google.com/",
         "Course Code": "SSH221",
         "Course Acronym": "SPP",
@@ -2741,10 +2936,11 @@
         "Professor": "Manohar Kumar",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH221"
     },
     {
-        "Serial Number": "198",
+        "\u00ef\u00bb\u00bfSerial Number": "197",
         "Course Name": "Social Science and Research Methods#https://www.google.com/",
         "Course Code": "SSH201",
         "Course Acronym": "RMSSD",
@@ -2755,10 +2951,11 @@
         "Professor": "Venkata Ratandeep Suri",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH201"
     },
     {
-        "Serial Number": "199",
+        "\u00ef\u00bb\u00bfSerial Number": "198",
         "Course Name": "Sociology and Anthropology#https://www.google.com/",
         "Course Code": "SOC201",
         "Course Acronym": "S&A",
@@ -2769,10 +2966,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "13"
+        "cluster": "13",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC201"
     },
     {
-        "Serial Number": "200",
+        "\u00ef\u00bb\u00bfSerial Number": "199",
         "Course Name": "Sociology of New Media#https://www.google.com/",
         "Course Code": "SOC204",
         "Course Acronym": "SNM",
@@ -2783,10 +2981,11 @@
         "Professor": "Aasim Khan",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "13"
+        "cluster": "13",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC204"
     },
     {
-        "Serial Number": "201",
+        "\u00ef\u00bb\u00bfSerial Number": "200",
         "Course Name": "Software Defined Networking#https://www.google.com/",
         "Course Code": "CSE565",
         "Course Acronym": "SDN",
@@ -2797,10 +2996,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE565"
     },
     {
-        "Serial Number": "202",
+        "\u00ef\u00bb\u00bfSerial Number": "201",
         "Course Name": "SOFTWARE ENGINEERING#https://www.google.com/",
         "Course Code": "CSE300",
         "Course Acronym": "SE",
@@ -2811,10 +3011,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE300"
     },
     {
-        "Serial Number": "203",
+        "\u00ef\u00bb\u00bfSerial Number": "202",
         "Course Name": "Software Production Evolution and Maintenance#https://www.google.com/",
         "Course Code": "CSE5SPEM",
         "Course Acronym": "SPEM",
@@ -2825,10 +3026,11 @@
         "Professor": "Rahul Mohananai",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5SPEM"
     },
     {
-        "Serial Number": "204",
+        "\u00ef\u00bb\u00bfSerial Number": "203",
         "Course Name": "Solid State Devices#https://www.google.com/",
         "Course Code": "ECE318",
         "Course Acronym": "SSD",
@@ -2839,24 +3041,26 @@
         "Professor": "G.S.Visweswaran",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE318"
     },
     {
-        "Serial Number": "205",
+        "\u00ef\u00bb\u00bfSerial Number": "204",
         "Course Name": "Speech Recognition and Understanding#https://www.google.com/",
         "Course Code": "CSE5SRU/ECE5SRU",
         "Course Acronym": "SRU",
         "Prerequisites": "ECE250",
-        "Preferable Prerequisites": "\"ECE351,CSE343/CSE543/CSE342\"",
+        "Preferable Prerequisites": "ECE351,CSE343/CSE543/CSE342",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Saket Anand",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5SRU"
     },
     {
-        "Serial Number": "206",
+        "\u00ef\u00bb\u00bfSerial Number": "205",
         "Course Name": "Starting an entrepreneurial venture#https://www.google.com/",
         "Course Code": "ENT402",
         "Course Acronym": "SEntV",
@@ -2867,10 +3071,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "8"
+        "cluster": "8",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ENT402"
     },
     {
-        "Serial Number": "207",
+        "\u00ef\u00bb\u00bfSerial Number": "206",
         "Course Name": "Statistical Computation#https://www.google.com/",
         "Course Code": "CSE609",
         "Course Acronym": "SComp",
@@ -2881,52 +3086,56 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE609"
     },
     {
-        "Serial Number": "208",
+        "\u00ef\u00bb\u00bfSerial Number": "207",
         "Course Name": "Statistical Inference#https://www.google.com/",
         "Course Code": "MTH372",
         "Course Acronym": "SI",
         "Prerequisites": "",
         "Preferable Prerequisites": "",
-        "Antirequisites": "\"ECE452/ECE552, ECO321, CSE609\"",
+        "Antirequisites": "ECE452/ECE552, ECO321, CSE609",
         "Semester": "Winter",
         "Professor": "Monika Arora",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH372"
     },
     {
-        "Serial Number": "209",
+        "\u00ef\u00bb\u00bfSerial Number": "208",
         "Course Name": "Statistical Machine Learning#https://www.google.com/",
         "Course Code": "CSE342",
         "Course Acronym": "SML",
-        "Prerequisites": "\"CSE101,MTH201\"",
+        "Prerequisites": "CSE101,MTH201",
         "Preferable Prerequisites": "None",
         "Antirequisites": "CSE342/542",
         "Semester": "Winter",
         "Professor": "Richa Singh",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE342"
     },
     {
-        "Serial Number": "210",
+        "\u00ef\u00bb\u00bfSerial Number": "209",
         "Course Name": "Statistical Signal Processing#https://www.google.com/",
         "Course Code": "ECE452",
         "Course Acronym": "SSP",
-        "Prerequisites": "\"MTH100,MTH201,ECE250\"",
+        "Prerequisites": "MTH100,MTH201,ECE250",
         "Preferable Prerequisites": "ECE501",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Pravesh Biyani",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE452"
     },
     {
-        "Serial Number": "211",
+        "\u00ef\u00bb\u00bfSerial Number": "210",
         "Course Name": "Stochastic Estimation and Control#https://www.google.com/",
         "Course Code": "ECE672",
         "Course Acronym": "SEC",
@@ -2937,10 +3146,11 @@
         "Professor": "",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE672"
     },
     {
-        "Serial Number": "212",
+        "\u00ef\u00bb\u00bfSerial Number": "211",
         "Course Name": "Stochastic Processes and Applications#https://www.google.com/",
         "Course Code": "MTH371",
         "Course Acronym": "SPA",
@@ -2951,10 +3161,11 @@
         "Professor": "Monika Arora",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH371"
     },
     {
-        "Serial Number": "213",
+        "\u00ef\u00bb\u00bfSerial Number": "212",
         "Course Name": "Stochastic Simulations in Systems Biology and Biophysics#https://www.google.com/",
         "Course Code": "BIO506",
         "Course Acronym": "SSSBB",
@@ -2965,11 +3176,12 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO506"
     },
     {
-        "Serial Number": "214",
-        "Course Name": "System\nAdministration#https://www.google.com/",
+        "\u00ef\u00bb\u00bfSerial Number": "213",
+        "Course Name": "System Administration#https://www.google.com/",
         "Course Code": "CSE230",
         "Course Acronym": "SA",
         "Prerequisites": "CSE131",
@@ -2979,12 +3191,13 @@
         "Professor": "",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE230"
     },
     {
-        "Serial Number": "215",
+        "\u00ef\u00bb\u00bfSerial Number": "214",
         "Course Name": "System Biology#https://www.google.com/",
-        "Course Code": "BIO301/501",
+        "Course Code": "BIO301/BIO501",
         "Course Acronym": "SB",
         "Prerequisites": "",
         "Preferable Prerequisites": "",
@@ -2993,10 +3206,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO301"
     },
     {
-        "Serial Number": "216",
+        "\u00ef\u00bb\u00bfSerial Number": "215",
         "Course Name": "System on Chip Design and Test#https://www.google.com/",
         "Course Code": "ECE516",
         "Course Acronym": "SCD&T",
@@ -3007,10 +3221,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE516"
     },
     {
-        "Serial Number": "217",
+        "\u00ef\u00bb\u00bfSerial Number": "216",
         "Course Name": "Systems Analysis, Design and Requirements Engineering#https://www.google.com/",
         "Course Code": "CSE5SD",
         "Course Acronym": "SADRE",
@@ -3021,24 +3236,26 @@
         "Professor": "Rahul Mohananai",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5SD"
     },
     {
-        "Serial Number": "218",
+        "\u00ef\u00bb\u00bfSerial Number": "217",
         "Course Name": "Systems and Synthetic Biology#https://www.google.com/",
         "Course Code": "BIO533",
         "Course Acronym": "S&SB",
-        "Prerequisites": "\"BIO531,BIO511\"",
+        "Prerequisites": "BIO531,BIO511",
         "Preferable Prerequisites": "MTH201",
         "Antirequisites": "",
         "Semester": "",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "1"
+        "cluster": "1",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO533"
     },
     {
-        "Serial Number": "219",
+        "\u00ef\u00bb\u00bfSerial Number": "218",
         "Course Name": "Systems Management#https://www.google.com/",
         "Course Code": "CSE131",
         "Course Acronym": "SM",
@@ -3049,10 +3266,11 @@
         "Professor": "Will be declared soon",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE131"
     },
     {
-        "Serial Number": "220",
+        "\u00ef\u00bb\u00bfSerial Number": "219",
         "Course Name": "Technical Communication#https://www.google.com/",
         "Course Code": "COM301A",
         "Course Acronym": "Tcom",
@@ -3063,10 +3281,11 @@
         "Professor": "Will be declared soon",
         "Credits": "2",
         "Link": "https://www.google.com/",
-        "cluster": "2"
+        "cluster": "2",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=COM301A"
     },
     {
-        "Serial Number": "221",
+        "\u00ef\u00bb\u00bfSerial Number": "220",
         "Course Name": "Theatre Appreciation#https://www.google.com/",
         "Course Code": "SSH211",
         "Course Acronym": "TA",
@@ -3077,10 +3296,11 @@
         "Professor": "Manohar Khushalani",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "14"
+        "cluster": "14",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH211"
     },
     {
-        "Serial Number": "222",
+        "\u00ef\u00bb\u00bfSerial Number": "221",
         "Course Name": "Theory of Computation#https://www.google.com/",
         "Course Code": "CSE322",
         "Course Acronym": "ToC",
@@ -3091,24 +3311,26 @@
         "Professor": "Debajyoti Bera",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE322"
     },
     {
-        "Serial Number": "223",
+        "\u00ef\u00bb\u00bfSerial Number": "222",
         "Course Name": "Theory of Modern cryptography#https://www.google.com/",
         "Course Code": "CSE524",
         "Course Acronym": "TMC",
         "Prerequisites": "None",
-        "Preferable Prerequisites": "\"CSE121,CSE546\"",
+        "Preferable Prerequisites": "CSE121,CSE546",
         "Antirequisites": "",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE524"
     },
     {
-        "Serial Number": "224",
+        "\u00ef\u00bb\u00bfSerial Number": "223",
         "Course Name": "Topics in Adaptive Cybersecurity#https://www.google.com/",
         "Course Code": "CSE5TAC",
         "Course Acronym": "TAC",
@@ -3119,10 +3341,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5TAC"
     },
     {
-        "Serial Number": "225",
+        "\u00ef\u00bb\u00bfSerial Number": "224",
         "Course Name": "Topics in Cryptanalysis#https://www.google.com/",
         "Course Code": "CSE793A",
         "Course Acronym": "TC",
@@ -3133,10 +3356,11 @@
         "Professor": "Donghoon Chand",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE793A"
     },
     {
-        "Serial Number": "226",
+        "\u00ef\u00bb\u00bfSerial Number": "225",
         "Course Name": "Transform Learning and Applications#https://www.google.com/",
         "Course Code": "ECE5TLA",
         "Course Acronym": "TLA",
@@ -3147,10 +3371,11 @@
         "Professor": "Anubha Gupta",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE5TLA"
     },
     {
-        "Serial Number": "227",
+        "\u00ef\u00bb\u00bfSerial Number": "226",
         "Course Name": "Valuation and Portfolio Management#https://www.google.com/",
         "Course Code": "ECO332",
         "Course Acronym": "VPM",
@@ -3161,10 +3386,11 @@
         "Professor": "Pankaj Vajpayee",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "6"
+        "cluster": "6",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO332"
     },
     {
-        "Serial Number": "228",
+        "\u00ef\u00bb\u00bfSerial Number": "227",
         "Course Name": "Variational Calculus and their Applications#https://www.google.com/",
         "Course Code": "MTH599",
         "Course Acronym": "VCA",
@@ -3175,10 +3401,11 @@
         "Professor": "Sarthok Sircar",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "11"
+        "cluster": "11",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH599"
     },
     {
-        "Serial Number": "229",
+        "\u00ef\u00bb\u00bfSerial Number": "228",
         "Course Name": "Virtual Reality#https://www.google.com/",
         "Course Code": "CSE5VR",
         "Course Acronym": "VR",
@@ -3189,10 +3416,11 @@
         "Professor": "Ojaswa Sharma",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "3"
+        "cluster": "3",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5VR"
     },
     {
-        "Serial Number": "230",
+        "\u00ef\u00bb\u00bfSerial Number": "229",
         "Course Name": "Visual Design & Communication#https://www.google.com/",
         "Course Code": "DES202",
         "Course Acronym": "VDC",
@@ -3203,10 +3431,11 @@
         "Professor": "\"Indrani De Parker,Vibha Narula Gupta\"",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES202"
     },
     {
-        "Serial Number": "231",
+        "\u00ef\u00bb\u00bfSerial Number": "230",
         "Course Name": "VLSI Design Flow#https://www.google.com/",
         "Course Code": "ECE513",
         "Course Acronym": "VLDIDF",
@@ -3217,10 +3446,11 @@
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE513"
     },
     {
-        "Serial Number": "232",
+        "\u00ef\u00bb\u00bfSerial Number": "231",
         "Course Name": "Wearable Applications, Research, Devices, Interactions#https://www.google.com/",
         "Course Code": "DES513",
         "Course Acronym": "WARDI",
@@ -3231,48 +3461,52 @@
         "Professor": "Aman Parnami",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "4"
+        "cluster": "4",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=DES513"
     },
     {
-        "Serial Number": "233",
+        "\u00ef\u00bb\u00bfSerial Number": "232",
         "Course Name": "Wireless Communication Evolution from 3G to 5G#https://www.google.com/",
         "Course Code": "ECE537",
         "Course Acronym": "WCE",
         "Prerequisites": "ECE240",
-        "Preferable Prerequisites": "\"ECE340,ECE543\"",
+        "Preferable Prerequisites": "ECE340,ECE543",
         "Antirequisites": "",
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE537"
     },
     {
-        "Serial Number": "234",
+        "\u00ef\u00bb\u00bfSerial Number": "233",
         "Course Name": "Wireless Networks#https://www.google.com/",
         "Course Code": "ECE538/CSE538",
         "Course Acronym": "WN",
         "Prerequisites": "CSE232",
-        "Preferable Prerequisites": "\"CSE231,CSE201\"",
+        "Preferable Prerequisites": "CSE231,CSE201",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Mukulika Maity",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE538"
     },
     {
-        "Serial Number": "235",
+        "\u00ef\u00bb\u00bfSerial Number": "234",
         "Course Name": "Wireless System Implementation#https://www.google.com/",
         "Course Code": "ECE539",
         "Course Acronym": "WSI",
         "Prerequisites": "ECE240",
-        "Preferable Prerequisites": "\"ECE340,ECE543\"",
+        "Preferable Prerequisites": "ECE340,ECE543",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Vivek Bohara",
         "Credits": "4",
         "Link": "https://www.google.com/",
-        "cluster": "5"
+        "cluster": "5",
+        "Prereq Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE539"
     }
 ]}

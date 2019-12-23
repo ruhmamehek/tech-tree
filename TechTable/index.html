@@ -142,7 +142,40 @@ $(document).ready(function(){
       },
       { data : "Course Acronym" },
       { data : "Course Code" },
-      { data : "Prerequisites"},
+      { data : "Prerequisites",
+        "render": function(data, type, row, meta)
+        {
+          var str = data;
+          str=str.replace(" ", "");
+          str=str.replace("or", ",");
+          var array = str.split(",");
+          var final = "";
+          var delimiters=[];
+          for (index=0; index<str.length; index++){
+            if (str[index]==",")
+            {delimiters.push(str[index]);}
+            if (str[index]=="o" && str[index+1]=="r")
+            {delimiters.push("or");}
+          }
+
+          for (index = 0; index < array.length; index++) { 
+            if (array[index].indexOf("/")==-1)
+            {
+              var link = array[index].replace("\'", "");
+            }
+            else{var link = array[index].substring(0, array[index].indexOf("/"));
+            link = link.replace("\"", "");}
+            
+            final+='<a href= http://127.0.0.1:5000/viewDescription/filename?="'+link+'">'+array[index]+'</a>';
+            if (index<delimiters.length)
+            {
+             final+= " "+delimiters[index]+" ";
+            }
+           
+          }  
+          return final;
+        }
+      },
       { data : "Antirequisites"},
       { data : "Semester"}
 
