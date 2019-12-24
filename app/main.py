@@ -15,7 +15,7 @@ def allowed_csv_file(filename):
 def allowed_pdf_file(filename):
 	return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_PDF_UPLOAD_EXTENSIONS
 	
-@app.route('/index')
+@app.route('/')
 def tech_table():
 	return render_template('index.html')
 
@@ -33,27 +33,27 @@ def log_out_admin():
 	ADMIN_LOGGED_IN = False
 	return render_template('logged_out.html')
 
-@app.route('/')
+@app.route('/uploadfiles')
 def render_file_upload_page():
 	if(ADMIN_LOGGED_IN):
 		return render_template('fileUpload.html')
 	else:
 		return render_template('permission_denied.html')
 
-@app.route('/', methods=['POST'])
+@app.route('/uploadfiles', methods=['POST'])
 def upload_csv_file():
 	if request.method == 'POST' and ADMIN_LOGGED_IN:
         # check if the post request has the files part
 		if 'files[]' not in request.files:
 			flash('No file part')
-			return redirect(request.url)
+			return redirect(url_for('render_file_upload_page'))
 		files = request.files.getlist('files[]')
 		for file in files:
 			if file and allowed_csv_file(file.filename):
 				filename = secure_filename(file.filename)
 				file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
 		flash('File successfully uploaded')
-		return redirect('/')
+		return redirect(url_for('render_file_upload_page'))
 
 # @app.route('/admin/pdfUpload')
 # def render_pdf_upload_page():
