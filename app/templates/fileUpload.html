@@ -76,7 +76,7 @@
          <div class="container">
                 <a href="https://iiitd.ac.in/"><img src={{ url_for( 'static' , filename='IIITDLogo.png') }} alt="Home" align="left"></a>
                 <a href="{{ url_for('tech_table') }}"><img src = {{ url_for( 'static' , filename='cdt.png') }} alt="CourseDirectoryTable" width="200" height="100" align="right"></a>
-                <a href="#techtree"><img src = {{ url_for( 'static' , filename='techtree.png') }} alt="TechTree" width="210" height="84" align="right"></a>
+                <a href="{{ url_for('tech_tree') }}"><img src = {{ url_for( 'static' , filename='techtree.png') }} alt="TechTree" width="210" height="84" align="right"></a>
         </div>
     </div>
     <div class="navbar">

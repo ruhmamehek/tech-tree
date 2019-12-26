@@ -19,6 +19,10 @@ def allowed_pdf_file(filename):
 def tech_table():
 	return render_template('index.html')
 
+@app.route('/techtree')
+def tech_tree():
+	return render_template('graph.html')
+
 @app.route('/credits')
 def render_credits():
 	return render_template('credits.html')
@@ -35,10 +39,7 @@ def log_out_admin():
 
 @app.route('/uploadfiles')
 def render_file_upload_page():
-	if(ADMIN_LOGGED_IN):
-		return render_template('fileUpload.html')
-	else:
-		return render_template('permission_denied.html')
+	return render_template('fileUpload.html')
 
 @app.route('/uploadfiles', methods=['POST'])
 def upload_csv_file():
@@ -54,6 +55,48 @@ def upload_csv_file():
 				file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
 		flash('File successfully uploaded')
 		return redirect(url_for('render_file_upload_page'))
+		
+@app.route('/', methods=['POST'])
+def upload_file():
+	if request.method == 'POST':
+		if ADMIN_LOGGED_IN:
+        # check if the post request has the files part
+			if 'files[]' not in request.files:
+				flash('No file part')
+				return redirect(request.url)
+			files = request.files.getlist('files[]')
+			for file in files:
+				if file and allowed_csv_file(file.filename):
+					filename = secure_filename(file.filename)
+					file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+			flash('File(s) successfully uploaded')
+			return redirect(url_for('upload_file'))
+
+# @app.route('/admin/upload')
+# def render_file_upload_page():
+# 	if(ADMIN_LOGGED_IN):
+# 		return render_template('fileUpload.html')
+# 	else:
+# 		return render_template('permission_denied.html')
+
+# @app.route('/admin/upload', methods=['POST','GET'])
+# def render_file_upload_page():
+# 	if request.method == 'POST':
+#         # check if the post request has the files part
+# 		if 'files[]' not in request.files:
+# 			flash('No file part')
+# 			return redirect(request.url)
+# 		files = request.files.getlist('files[]')
+# 		for file in files:
+# 			if file and allowed_csv_file(file.filename):
+# 				filename = secure_filename(file.filename)
+# 				file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+# 		flash('File successfully uploaded')
+# 	return redirect(url_for('render_file_upload_page'))
+	# elif request.method=='GET':
+	# 	print("HELLO WORLD")
+	# 	return render_template('fileUpload.html')
+>>>>>>> added pdfs, basic cytoscape graph, updated graph json, linked all pages
 
 # @app.route('/admin/pdfUpload')
 # def render_pdf_upload_page():

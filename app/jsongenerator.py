@@ -37,7 +37,7 @@ def generate_graphJson():
 	names = data['Course Name']
 	codes = data['Course Code']
 	ids = data['Serial Number']
-	clusters = data['cluster']
+	clusters = data['Cluster']
 	prerequisites = data['Prerequisites']
 	for entry in range(0,len(prerequisites)):
 		if(isinstance(prerequisites[entry], float)):
@@ -53,15 +53,15 @@ def generate_graphJson():
 		prereqs.append(prerequisites[i])
 	nodes = '"nodes":['
 	for node in range(0,len(names)-1):
-		nodes+='{"id":'+str(ID[node])+',"name":"'+name[node]+'","cluster":'+str(cluster[node])+'},'
-	nodes+='{"id":'+str(ID[node+1])+',"name":"'+name[node+1]+'","cluster":'+str(cluster[node+1])+'}],'
+		nodes+='{"data":{"id":"'+str(ID[node])+'","label":"'+codes[node]+'"}'+'},'
+	nodes+='{"data":{"id":'+str(ID[node+1])+',"label":"'+codes[node+1]+'"}'+'}],'
 	edges = '"edges":['
 	for course in range(0,len(names)):
 		for prereq in range(0, len(prerequisites[course])):
 			if(prerequisites[course][prereq]!='None'):
 				for code in range(0,len(codes)):
 					if(prerequisites[course][prereq]==codes[code]):
-						edges+='{"source":'+str(code+1)+',"target":'+str(course+1)+'},'
+						edges+='{"data":{"id":"'+str(code+1)+str(course+1)+'","source":"'+str(code+1)+'","target":"'+str(course+1)+'"}'+'},'
 	edges = edges[:-1]
 	edges+=']'
 	graphJSON = '{'+nodes+edges+'}'

@@ -1,16 +1,14 @@
-<!DOCTYPE html>
-<html>
-	<head>
-	  <meta charset="UTF-8">
-	  <meta name="viewport" content="width=device-width">
-	  <title>Course Description</title>
-	  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+<head>
+    <title></title>
+    <script src="cytoscape.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
       <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
       <script src="https://cdn.datatables.net/1.10.12/js/dataTables.bootstrap.min.js"></script>  
       <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css" />
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
-      <style>
+    <style>
     /* Styling for datatable */
     .box
     {
@@ -64,9 +62,20 @@
         display: none;
       }
     </style>
-	</head>
-	<body>
-		<div class="header">
+</head>
+
+<style>
+    #cy {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+    }
+</style>
+
+<body>
+    <div class="header">
          <div class="container">
                 <a href="https://iiitd.ac.in/"><img src={{ url_for( 'static' , filename='IIITDLogo.png') }} alt="Home" align="left"></a>
                 <a href="{{ url_for('tech_table') }}"><img src = {{ url_for( 'static' , filename='cdt.png') }} alt="CourseDirectoryTable" width="200" height="100" align="right"></a>
@@ -75,20 +84,47 @@
     </div>
     <div class="navbar">
       <a href="https://iiitd.ac.in/">Home</a>
-      <a href="{{ url_for('tech_tree') }}">TechTree</a>
+      <a href="{{ url_for('tech_table') }}">Course Directory</a>
       <a href="https://iiitd.ac.in/contact">Contact</a>
     </div>
-		<object data='{{ url_for( 'static', filename=pdf) }}' type="application/pdf" style="min-height:100vh;width:100%">
-	  		<iframe src='{{ url_for( 'static', filename=pdf) }}' width="100%" height="100%" style="border: none;">
-	    		<p>Your browser does not support PDFs.
-	      			<a href='{{ url_for( 'static', filename=pdf) }}'>Download the PDF here</a>.
-	      		</p>
-	  		</iframe>
-		</object>
-		<div class="footer">
+
+    <div id="cy"></div>
+    <script>
+        $.getJSON('../static/graph.json', function (data) {
+            var cy = cytoscape({
+                container: document.getElementById('cy'),
+                elements: data,
+                style: [
+                    {
+                        selector: 'node',
+                        style: {
+                            'label': 'data(label)',
+                            'width': '60px',
+                            'height': '60px',
+                            'color': 'blue',
+                            'background-fit': 'contain',
+                            'background-clip': 'none'
+                        }
+                    }, {
+                        selector: 'edge',
+                        style: {
+                           'text-background-color': 'yellow',
+                            'text-background-opacity': 0.4,
+                            'width': '6px',
+                            'target-arrow-shape': 'triangle',
+                            'control-point-step-size': '140px'
+                        }
+                    }
+                ],
+                layout: {
+                    name: 'circle'
+                }
+            });
+        });
+    </script>
+    <div class="footer">
         <div class="container">
           Copyright &copy; 2019 IIITD <a href="{{ url_for('render_credits') }}" align="center">Credits</a>
           </div>
     </div>
-	</body>
-</html>
+</body>
