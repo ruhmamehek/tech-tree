@@ -96,7 +96,6 @@ def upload_file():
 	# elif request.method=='GET':
 	# 	print("HELLO WORLD")
 	# 	return render_template('fileUpload.html')
->>>>>>> added pdfs, basic cytoscape graph, updated graph json, linked all pages
 
 # @app.route('/admin/pdfUpload')
 # def render_pdf_upload_page():
