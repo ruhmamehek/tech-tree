@@ -8,6 +8,14 @@
       <script src="https://cdn.datatables.net/1.10.12/js/dataTables.bootstrap.min.js"></script>  
       <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css" />
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/core-js/2.5.7/shim.min.js"></script>
+    <script src="https://unpkg.com/layout-base/layout-base.js"></script>
+    <script src="https://unpkg.com/cose-base/cose-base.js"></script>
+    <script src="cytoscape-cose-bilkent.js"></script>
+<!--     <script src="cytoscape-euler.js"></script>
+ --><!--     <script src="https://unpkg.com/webcola/WebCola/cola.min.js"></script>
+    <script src="cytoscape-cola.js"></script> -->
+      
     <style>
     /* Styling for datatable */
     .box
@@ -110,9 +118,30 @@
                         }
                     }
                 ],
-                layout: {
-                    name: 'circle'
-                }
+                // layout: {
+                //     name: 'cose', prelayout: false
+                // }
+                      layout: {
+        
+        
+        name: 'cose',
+        idealEdgeLength: 100,
+        nodeOverlap: 20,
+        refresh: 20,
+        fit: true,
+        padding: 30,
+        randomize: false,
+        componentSpacing: 100,
+        nodeRepulsion: 400000,
+        edgeElasticity: 100,
+        nestingFactor: 5,
+        gravity: 80,
+        numIter: 1000,
+        initialTemp: 200,
+        coolingFactor: 0.95,
+        minTemp: 1.0
+
+       }
             });
         });
     </script>
