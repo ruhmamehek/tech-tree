@@ -19,6 +19,10 @@ def allowed_pdf_file(filename):
 def tech_table():
 	return render_template('index.html')
 
+@app.route('/testing')
+def render_cise():
+	return render_template('demo_cise.html')
+
 @app.route('/techtree')
 def tech_tree():
 	return render_template('graph.html')
