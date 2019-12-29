@@ -138,7 +138,7 @@ $(document).ready(function(){
         "render": function (data, type, row, meta) {
         var cname=data.substring(0,data.indexOf("#"));
         var link=data.substring(data.indexOf("#")+1);
-        return '<a href="'+link+'">'+cname+'</a>';}
+        return '<a href="'+link+'" rel="noopener noreferrer" target="_blank">'+cname+'</a>';}
         // Hyperlinking the course name with the drive link
       },
       { data : "Course Acronym" },
@@ -166,7 +166,7 @@ $(document).ready(function(){
               var link = array[index];
             }
             else{var link = array[index].substring(0, array[index].indexOf("/"));}  
-            final+='<a href= http://127.0.0.1:5000/viewDescription/filename?='+link+'>'+array[index]+'</a>';
+            final+='<a href="http://127.0.0.1:5000/viewDescription/filename?='+link+'" rel="noopener noreferrer" target="_blank">'+array[index]+'</a>';
             if (index<delimiters.length)
             {
              final+= " "+delimiters[index]+" ";
@@ -203,7 +203,7 @@ $(document).ready(function(){
             }
             else{var link = array[index].substring(0, array[index].indexOf("/"));}
             
-            final+='<a href= http://127.0.0.1:5000/viewDescription/filename?='+link+'>'+array[index]+'</a>';
+            final+='<a href="http://127.0.0.1:5000/viewDescription/filename?='+link+'" rel="noopener noreferrer" target="_blank">'+array[index]+'</a>';
             if (index<delimiters.length)
             {
              final+= " "+delimiters[index]+" ";
