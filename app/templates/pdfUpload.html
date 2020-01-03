@@ -80,7 +80,7 @@
         </div>
     </div>
     <div class="navbar">
-      <a href="{{ url_for('render_file_upload_page') }}">Upload CSV</a>
+      <a href="{{ url_for('render_csv_upload_page') }}">Upload CSV</a>
       <a href="{{ url_for('render_pdf_upload_page') }}">Upload Course PDFs</a>
       
     </div>
@@ -91,7 +91,7 @@
       <br>
       
     <div class ="form">
-    	<form method="post" action="/" enctype="multipart/form-data">
+    	<form method="post" action="/upload_pdf" enctype="multipart/form-data">
     		<dl>
 			<p>
 				<input type="file" name="files[]" multiple="true" autocomplete="off" required>

@@ -2,10 +2,10 @@ import os
 #import magic
 import urllib.request
 from app import app
-from flask import Flask, flash, request, redirect, render_template
+from flask import Flask, flash, request, redirect, render_template, url_for
 from werkzeug.utils import secure_filename
 
-ALLOWED_FILE_UPLOAD_EXTENSIONS = set(['csv','pdf'])
+ALLOWED_FILE_UPLOAD_EXTENSIONS = set(['csv'])
 ALLOWED_PDF_UPLOAD_EXTENSIONS = set(['pdf'])
 ADMIN_LOGGED_IN = True
 
@@ -41,87 +41,43 @@ def log_out_admin():
 	ADMIN_LOGGED_IN = False
 	return render_template('logged_out.html')
 
-@app.route('/uploadfiles')
-def render_file_upload_page():
+@app.route('/upload_csv')
+def render_csv_upload_page():
 	return render_template('fileUpload.html')
 
-@app.route('/uploadfiles', methods=['POST'])
+@app.route('/upload_csv', methods=['POST'])
 def upload_csv_file():
 	if request.method == 'POST' and ADMIN_LOGGED_IN:
         # check if the post request has the files part
 		if 'files[]' not in request.files:
 			flash('No file part')
-			return redirect(url_for('render_file_upload_page'))
+			return redirect(request.url)
 		files = request.files.getlist('files[]')
 		for file in files:
 			if file and allowed_csv_file(file.filename):
 				filename = secure_filename(file.filename)
 				file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
 		flash('File successfully uploaded')
-		return redirect(url_for('render_file_upload_page'))
-		
-@app.route('/', methods=['POST'])
-def upload_file():
+		return redirect(url_for('render_csv_upload_page'))
+
+@app.route('/upload_pdf')
+def render_pdf_upload_page():
+	return(render_template('pdfUpload.html'))
+
+@app.route('/upload_pdf', methods=['POST'])
+def upload_pdf_file():
 	if request.method == 'POST':
-		if ADMIN_LOGGED_IN:
         # check if the post request has the files part
 			if 'files[]' not in request.files:
 				flash('No file part')
 				return redirect(request.url)
 			files = request.files.getlist('files[]')
 			for file in files:
-				if file and allowed_csv_file(file.filename):
+				if file and allowed_pdf_file(file.filename):
 					filename = secure_filename(file.filename)
 					file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
 			flash('File(s) successfully uploaded')
-			return redirect(url_for('upload_file'))
-
-# @app.route('/admin/upload')
-# def render_file_upload_page():
-# 	if(ADMIN_LOGGED_IN):
-# 		return render_template('fileUpload.html')
-# 	else:
-# 		return render_template('permission_denied.html')
-
-# @app.route('/admin/upload', methods=['POST','GET'])
-# def render_file_upload_page():
-# 	if request.method == 'POST':
-#         # check if the post request has the files part
-# 		if 'files[]' not in request.files:
-# 			flash('No file part')
-# 			return redirect(request.url)
-# 		files = request.files.getlist('files[]')
-# 		for file in files:
-# 			if file and allowed_csv_file(file.filename):
-# 				filename = secure_filename(file.filename)
-# 				file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-# 		flash('File successfully uploaded')
-# 	return redirect(url_for('render_file_upload_page'))
-	# elif request.method=='GET':
-	# 	print("HELLO WORLD")
-	# 	return render_template('fileUpload.html')
-
-# @app.route('/admin/pdfUpload')
-# def render_pdf_upload_page():
-# 	if(ADMIN_LOGGED_IN):
-# 		return render_template('pdfUpload.html')
-# 	else:
-# 		return render_template('permission_denied.html')
-
-# @app.route('/pdfUploaded', methods=['POST'])
-# def upload_pdf_file():
-# 	if request.method == 'POST' and ADMIN_LOGGED_IN:
-#         # check if the post request has the files part
-# 		if 'files[]' not in request.files:
-# 			flash('No file part')
-# 			return redirect(request.url)
-# 		files = request.files.getlist('files[]')
-# 		for file in files:
-# 			if file and allowed_pdf_file(file.filename):
-# 				filename = secure_filename(file.filename)
-# 				file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-# 		flash('File(s) successfully uploaded')
-# 		return redirect(url_for('pdfUploaded'))
+			return redirect(url_for('render_pdf_upload_page'))
 
 @app.route('/viewDescription/filename', methods=['POST','GET'])
 def render_pdf_viewer():
@@ -135,4 +91,3 @@ def file_not_found(error):
 
 if __name__ == "__main__":
     app.run(debug=True)
-
