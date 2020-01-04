@@ -1,14 +1,22 @@
 import os
-#import magic
+from jsongenerator import generate_tableJson, generate_graphJson
+from preprocessing import check_csv_format
 import urllib.request
 from flask import Flask, flash, request, redirect, render_template, url_for
 from werkzeug.utils import secure_filename
 
-UPLOAD_FOLDER = 'static/files/'
+csvFilePath = "./static/Courses.csv"
+tableJsonFilePath = "./static/Courses.json"
+graphJsonFilePath = "./static/graph.json"
+
+UPLOAD_PDF_FOLDER = './static/files/'
+UPLOAD_CSV_FOLDER = './static/'
+UPLOAD_TEMP_CSV_FOLDER = './temp/'
 
 app = Flask(__name__)
 app.secret_key = "secret key"
-app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
+app.config['UPLOAD_TEMP_CSV_FOLDER'] = UPLOAD_TEMP_CSV_FOLDER
+app.config['UPLOAD_PDF_FOLDER'] = UPLOAD_PDF_FOLDER
 
 ALLOWED_FILE_UPLOAD_EXTENSIONS = set(['csv'])
 ALLOWED_PDF_UPLOAD_EXTENSIONS = set(['pdf'])
@@ -61,8 +69,13 @@ def upload_csv_file():
 		for file in files:
 			if file and allowed_csv_file(file.filename):
 				filename = secure_filename(file.filename)
-				file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
-		flash('File successfully uploaded')
+				file.save(os.path.join(app.config['UPLOAD_TEMP_CSV_FOLDER'], filename))
+				result = check_csv_format()
+				if(result[0]==False):
+					os.system('mv ./temp/Courses.csv ./static/')
+					generate_tableJson();
+					generate_graphJson();
+		flash(result[1])
 		return redirect(url_for('render_csv_upload_page'))
 
 @app.route('/upload_pdf')
@@ -80,7 +93,7 @@ def upload_pdf_file():
 			for file in files:
 				if file and allowed_pdf_file(file.filename):
 					filename = secure_filename(file.filename)
-					file.save(os.path.join(app.config['UPLOAD_FOLDER'], filename))
+					file.save(os.path.join(app.config['UPLOAD_PDF_FOLDER'], filename))
 			flash('File(s) successfully uploaded')
 			return redirect(url_for('render_pdf_upload_page'))
 

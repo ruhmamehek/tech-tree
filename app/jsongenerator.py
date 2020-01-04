@@ -1,14 +1,10 @@
 import csv , json
 import pandas as pd
-# csvFilePath = "./Courses.csv"
-# tableJsonFilePath = "./Courses.json"
-# graphJsonFilePath = "./graph.json"
 csvFilePath = "./static/Courses.csv"
 tableJsonFilePath = "./static/Courses.json"
 graphJsonFilePath = "./static/graph.json"
-
-TechTable_courses = []
 def generate_tableJson():
+	TechTable_courses = []
 	with open (csvFilePath) as csvFile:
 		csvReader = csv.DictReader(csvFile)
 		for csvRow in csvReader:
@@ -68,5 +64,3 @@ def generate_graphJson():
 	with open(graphJsonFilePath, "w") as jsonFile:
 		jsonFile.write(graphJSON)
 		jsonFile.close()
-generate_graphJson()
-generate_tableJson()
