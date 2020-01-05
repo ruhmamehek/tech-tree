@@ -41,9 +41,14 @@
      width:100%;
      margin: 0 auto;;
     }
+    html {
+        position: relative;
+        min-height: 100%;
+      }
     body{        
           padding-top: 0px;
           padding-bottom: 0px;
+          margin-bottom: 40px;
       }
     .header{
           width: 100%;
@@ -53,6 +58,8 @@
           top: 0;
       }
     .footer{
+          position: absolute;
+          height: 40px;
           width: 100%;
           background: #808080;
           padding: 10px 10px;
@@ -142,29 +149,6 @@
             });
         });
     </script>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
     <div class="footer">
         <div class="container">
           Copyright &copy; 2019 IIITD <a href="{{ url_for('render_credits') }}" align="center">Credits</a>

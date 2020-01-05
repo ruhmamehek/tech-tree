@@ -4,6 +4,7 @@ from preprocessing import check_csv_format
 import urllib.request
 from flask import Flask, flash, request, redirect, render_template, url_for
 from werkzeug.utils import secure_filename
+port = int(os.environ.get("PORT",5000))
 
 csvFilePath = "./static/Courses.csv"
 tableJsonFilePath = "./static/Courses.json"

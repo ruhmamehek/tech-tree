@@ -4,9 +4,14 @@
     <title>IIITD|Course Directory File Upload</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" /> 
     <style>
+   html {
+        position: relative;
+        min-height: 100%;
+      }
     body{        
           padding-top: 0px;
           padding-bottom: 0px;
+          margin-bottom: 40px;
       }
     .header{
           width: 100%;
@@ -16,6 +21,8 @@
           top: 0;
       }
     .footer{
+          position: absolute;
+          height: 40px;
           width: 100%;
           background: #808080;
           padding: 10px 10px;
@@ -114,16 +121,6 @@
 		{% endwith %}
 	</p>
     </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
    <div class="footer">
         <div class="container">
           Copyright &copy; 2019 IIITD <a href="{{ url_for('render_credits') }}" align="center">Credits</a>
