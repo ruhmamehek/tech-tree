@@ -76,7 +76,9 @@ def upload_csv_file():
 					os.system('mv ./temp/Courses.csv ./static/')
 					generate_tableJson();
 					generate_graphJson();
-		flash(result[1])
+				flash(result[1])
+			else:
+				flash("Incorrect file extension. Only CSV file can be uploaded.")
 		return redirect(url_for('render_csv_upload_page'))
 
 @app.route('/upload_pdf')
@@ -95,7 +97,9 @@ def upload_pdf_file():
 				if file and allowed_pdf_file(file.filename):
 					filename = secure_filename(file.filename)
 					file.save(os.path.join(app.config['UPLOAD_PDF_FOLDER'], filename))
-			flash('File(s) successfully uploaded')
+					flash('File(s) successfully uploaded')
+				else:
+					flash("Incorrect file extension. Only PDF(s) can be uploaded.")
 			return redirect(url_for('render_pdf_upload_page'))
 
 @app.route('/viewDescription/filename', methods=['POST','GET'])
