@@ -217,7 +217,14 @@ $(document).ready(function(){
             final+='<a href="http://127.0.0.1:5000/viewDescription/filename?='+link+'" rel="noopener noreferrer" target="_blank">'+array[index]+'</a>';
             if (index<delimiters.length)
             {
-             final+= " "+delimiters[index]+" ";
+             if(delimiters[index]=="or")
+              {
+                final+= " "+delimiters[index]+" ";
+              }
+             else
+             {
+              final+= delimiters[index]+" ";
+             }
             }
            
           }
