@@ -37,6 +37,10 @@ def tech_table():
 def render_cise():
 	return render_template('demo_cise.html')
 
+@app.route('/admin/login')
+def login():
+	return render_template('login.html')
+
 @app.route('/techtree')
 def tech_tree():
 	return render_template('graph.html')

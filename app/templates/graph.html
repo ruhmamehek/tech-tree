@@ -1,5 +1,5 @@
 <head>
-    <title></title>
+    <title>IIITD|TechTree</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.9.4/cytoscape.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
@@ -9,9 +9,11 @@
       <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css" />
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/core-js/2.5.7/shim.min.js"></script>
-    <script src="https://unpkg.com/layout-base/layout-base.js"></script>
-    <script src="https://unpkg.com/cose-base/cose-base.js"></script>
-    <script src="cytoscape-cose-bilkent.js"></script>
+   
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1">
+
+
+
 
     <!-- Cytoscape extention -->
     <script src="https://unpkg.com/cytoscape/dist/cytoscape.min.js"></script>
@@ -24,17 +26,23 @@
     <script src="https://unpkg.com/cytoscape-graphml/cytoscape-graphml.js"></script>
     <script src="https://raw.githack.com/iVis-at-Bilkent/cytoscape.js-layvo/unstable/cytoscape-layvo.js"></script>
 
-
-
     <!-- CiSE Bundle -->
-
     <script type="text/javascript" src="{{ url_for('static',filename='cytoscape-cise.js') }}"></script>
-<!--     <script src="cytoscape-euler.js"></script>
- --><!--     <script src="https://unpkg.com/webcola/WebCola/cola.min.js"></script>
-    <script src="cytoscape-cola.js"></script> -->
-      
+
     <style>
-    /* Styling for datatable */
+    #cy {
+      position: absolute;
+      left: 0;
+      top: 60px;
+      bottom: 0;
+      right: 0;
+      z-index: 800;
+    }
+    .edgeCrossing{
+      position:absolute;
+      left: 15px;
+      top: 115px;
+    }
     .box
     {
      max-width:500px;

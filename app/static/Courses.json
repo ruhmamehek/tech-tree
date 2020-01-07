@@ -56,8 +56,8 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO301"
     },
     {
-        "Serial Number": "6",
-        "Course Name": "Cell Biology and Bio chemistry#http://127.0.0.1:5000/viewDescription/filename?=BIO501",
+        "Serial Number": "5",
+        "Course Name": "Cell Biology and Bio-Chemistry#http://127.0.0.1:5000/viewDescription/filename?=BIO501",
         "Course Code": "BIO501",
         "Course Acronym": "CBB",
         "Prerequisites": "None",
@@ -70,7 +70,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO501"
     },
     {
-        "Serial Number": "7",
+        "Serial Number": "6",
         "Course Name": "Stochastic Simulations in Systems Biology and Biophysics#http://127.0.0.1:5000/viewDescription/filename?=BIO506",
         "Course Code": "BIO506",
         "Course Acronym": "SSSBB",
@@ -84,7 +84,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO506"
     },
     {
-        "Serial Number": "8",
+        "Serial Number": "7",
         "Course Name": "Foundations of Modern Biology#http://127.0.0.1:5000/viewDescription/filename?=BIO512",
         "Course Code": "BIO512",
         "Course Acronym": "FOMB",
@@ -98,7 +98,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO512"
     },
     {
-        "Serial Number": "9",
+        "Serial Number": "8",
         "Course Name": "Practical Bioinformatics#http://127.0.0.1:5000/viewDescription/filename?=BIO521",
         "Course Code": "BIO521",
         "Course Acronym": "PB",
@@ -112,8 +112,8 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO521"
     },
     {
-        "Serial Number": "10",
-        "Course Name": "Algorithms in computational biology#http://127.0.0.1:5000/viewDescription/filename?=BIO522",
+        "Serial Number": "9",
+        "Course Name": "Algorithms in Computational Biology#http://127.0.0.1:5000/viewDescription/filename?=BIO522",
         "Course Code": "BIO522",
         "Course Acronym": "ACB",
         "Prerequisites": "None",
@@ -126,7 +126,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO522"
     },
     {
-        "Serial Number": "11",
+        "Serial Number": "10",
         "Course Name": "Chemoinformatics#http://127.0.0.1:5000/viewDescription/filename?=BIO523",
         "Course Code": "BIO523",
         "Course Acronym": "ChemInfo",
@@ -140,7 +140,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO523"
     },
     {
-        "Serial Number": "5",
+        "Serial Number": "11",
         "Course Name": "Introduction to Mathematical Biology#http://127.0.0.1:5000/viewDescription/filename?=BIO531",
         "Course Code": "BIO531",
         "Course Acronym": "IMB",
@@ -176,7 +176,7 @@
         "Preferable Prerequisites": "MTH201",
         "Antirequisites": "None",
         "Semester": "Winter",
-        "Professor": "",
+        "Professor": "Sriram K",
         "Credits": "4",
         "Cluster": "1",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO533"
@@ -588,7 +588,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE342"
     },
     {
-        "Serial Number": "44",
+        "Serial Number": "43",
         "Course Name": "Machine Learning#http://127.0.0.1:5000/viewDescription/filename?=CSE343",
         "Course Code": "CSE343/CSE543",
         "Course Acronym": "ML",
@@ -602,7 +602,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE343"
     },
     {
-        "Serial Number": "45",
+        "Serial Number": "44",
         "Course Name": "Computer Vision#http://127.0.0.1:5000/viewDescription/filename?=CSE344",
         "Course Code": "CSE344/CSE544/ECE344/ECE544",
         "Course Acronym": "CV",
@@ -616,7 +616,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE344"
     },
     {
-        "Serial Number": "46",
+        "Serial Number": "45",
         "Course Name": "Foundations of Computer Security#http://127.0.0.1:5000/viewDescription/filename?=CSE345",
         "Course Code": "CSE345/CSE545",
         "Course Acronym": "FCS",
@@ -630,7 +630,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE345"
     },
     {
-        "Serial Number": "47",
+        "Serial Number": "46",
         "Course Name": "Complexity Theory#http://127.0.0.1:5000/viewDescription/filename?=CSE421",
         "Course Code": "CSE421/CSE621",
         "Course Acronym": "CT",
@@ -644,7 +644,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE421"
     },
     {
-        "Serial Number": "48",
+        "Serial Number": "47",
         "Course Name": "Intelligent Systems 1#http://127.0.0.1:5000/viewDescription/filename?=CSE440",
         "Course Code": "CSE440",
         "Course Acronym": "IS-I",
@@ -658,7 +658,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE440"
     },
     {
-        "Serial Number": "49",
+        "Serial Number": "48",
         "Course Name": "Advanced Biometrics#http://127.0.0.1:5000/viewDescription/filename?=CSE441",
         "Course Code": "CSE441/CSE541",
         "Course Acronym": "BIOM",
@@ -672,7 +672,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE441"
     },
     {
-        "Serial Number": "50",
+        "Serial Number": "49",
         "Course Name": "Designing Human Centered Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE501",
         "Course Code": "CSE501",
         "Course Acronym": "DHCS",
@@ -686,7 +686,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE501"
     },
     {
-        "Serial Number": "51",
+        "Serial Number": "50",
         "Course Name": "Foundations of Parallel Programming#http://127.0.0.1:5000/viewDescription/filename?=CSE502",
         "Course Code": "CSE502",
         "Course Acronym": "FPP",
@@ -700,7 +700,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE502"
     },
     {
-        "Serial Number": "52",
+        "Serial Number": "51",
         "Course Name": "Program Analysis#http://127.0.0.1:5000/viewDescription/filename?=CSE503",
         "Course Code": "CSE503",
         "Course Acronym": "PA",
@@ -714,7 +714,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE503"
     },
     {
-        "Serial Number": "53",
+        "Serial Number": "52",
         "Course Name": "Data Mining#http://127.0.0.1:5000/viewDescription/filename?=CSE506",
         "Course Code": "CSE506",
         "Course Acronym": "DMG",
@@ -728,7 +728,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE506"
     },
     {
-        "Serial Number": "54",
+        "Serial Number": "53",
         "Course Name": "Database System Implementation#http://127.0.0.1:5000/viewDescription/filename?=CSE507",
         "Course Code": "CSE507",
         "Course Acronym": "DBSI",
@@ -742,7 +742,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE507"
     },
     {
-        "Serial Number": "55",
+        "Serial Number": "54",
         "Course Name": "Information Retrieval#http://127.0.0.1:5000/viewDescription/filename?=CSE508",
         "Course Code": "CSE508",
         "Course Acronym": "IR",
@@ -756,7 +756,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE508"
     },
     {
-        "Serial Number": "56",
+        "Serial Number": "55",
         "Course Name": "Big Data Analytics#http://127.0.0.1:5000/viewDescription/filename?=CSE510",
         "Course Code": "CSE510",
         "Course Acronym": "BDA",
@@ -770,7 +770,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE510"
     },
     {
-        "Serial Number": "57",
+        "Serial Number": "56",
         "Course Name": "Computer Architecture#http://127.0.0.1:5000/viewDescription/filename?=CSE511",
         "Course Code": "CSE511/ECE511",
         "Course Acronym": "CA",
@@ -784,7 +784,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE511"
     },
     {
-        "Serial Number": "58",
+        "Serial Number": "57",
         "Course Name": "Randomized Algorithms#http://127.0.0.1:5000/viewDescription/filename?=CSE523",
         "Course Code": "CSE523",
         "Course Acronym": "RA",
@@ -798,7 +798,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE523"
     },
     {
-        "Serial Number": "59",
+        "Serial Number": "58",
         "Course Name": "Theory of Modern cryptography#http://127.0.0.1:5000/viewDescription/filename?=CSE524",
         "Course Code": "CSE524",
         "Course Acronym": "TMC",
@@ -812,7 +812,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE524"
     },
     {
-        "Serial Number": "60",
+        "Serial Number": "59",
         "Course Name": "Graduate Algorithms#http://127.0.0.1:5000/viewDescription/filename?=CSE525",
         "Course Code": "CSE525",
         "Course Acronym": "GA",
@@ -826,7 +826,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE525"
     },
     {
-        "Serial Number": "61",
+        "Serial Number": "60",
         "Course Name": "Convex Optimization#http://127.0.0.1:5000/viewDescription/filename?=CSE528",
         "Course Code": "CSE528/ECE528",
         "Course Acronym": "CO",
@@ -840,7 +840,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE528"
     },
     {
-        "Serial Number": "62",
+        "Serial Number": "61",
         "Course Name": "Approximation Algorithms#http://127.0.0.1:5000/viewDescription/filename?=CSE529",
         "Course Code": "CSE529",
         "Course Acronym": "AAG",
@@ -854,7 +854,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE529"
     },
     {
-        "Serial Number": "63",
+        "Serial Number": "62",
         "Course Name": "Distributed Systems Security#http://127.0.0.1:5000/viewDescription/filename?=CSE530",
         "Course Code": "CSE530",
         "Course Acronym": "DSS",
@@ -868,8 +868,8 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE530"
     },
     {
-        "Serial Number": "64",
-        "Course Name": "Multi-agent Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE531",
+        "Serial Number": "63",
+        "Course Name": "Multi-Agent Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE531",
         "Course Code": "CSE531",
         "Course Acronym": "MAS",
         "Prerequisites": "None",
@@ -882,7 +882,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE531"
     },
     {
-        "Serial Number": "65",
+        "Serial Number": "64",
         "Course Name": "Mobile Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE535",
         "Course Code": "CSE535",
         "Course Acronym": "MC",
@@ -896,7 +896,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE535"
     },
     {
-        "Serial Number": "66",
+        "Serial Number": "65",
         "Course Name": "Wireless Networks#http://127.0.0.1:5000/viewDescription/filename?=CSE538",
         "Course Code": "CSE538/ECE538",
         "Course Acronym": "WN",
@@ -910,7 +910,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE538"
     },
     {
-        "Serial Number": "67",
+        "Serial Number": "66",
         "Course Name": "Applied Cryptography#http://127.0.0.1:5000/viewDescription/filename?=CSE546",
         "Course Code": "CSE546",
         "Course Acronym": "AC",
@@ -924,7 +924,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE546"
     },
     {
-        "Serial Number": "68",
+        "Serial Number": "67",
         "Course Name": "Natural Language Processing#http://127.0.0.1:5000/viewDescription/filename?=CSE551",
         "Course Code": "CSE551",
         "Course Acronym": "NLP",
@@ -938,7 +938,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE551"
     },
     {
-        "Serial Number": "69",
+        "Serial Number": "68",
         "Course Name": "Security Engineering#http://127.0.0.1:5000/viewDescription/filename?=CSE552",
         "Course Code": "CSE552",
         "Course Acronym": "SE",
@@ -952,7 +952,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE552"
     },
     {
-        "Serial Number": "70",
+        "Serial Number": "69",
         "Course Name": "Introduction to Spatial Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE555",
         "Course Code": "CSE555",
         "Course Acronym": "ISC",
@@ -966,7 +966,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE555"
     },
     {
-        "Serial Number": "71",
+        "Serial Number": "70",
         "Course Name": "Data Science#http://127.0.0.1:5000/viewDescription/filename?=CSE558",
         "Course Code": "CSE558",
         "Course Acronym": "DS",
@@ -980,7 +980,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE558"
     },
     {
-        "Serial Number": "72",
+        "Serial Number": "71",
         "Course Name": "Mining Large Networks#http://127.0.0.1:5000/viewDescription/filename?=CSE559",
         "Course Code": "CSE559",
         "Course Acronym": "MLN",
@@ -994,7 +994,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE559"
     },
     {
-        "Serial Number": "73",
+        "Serial Number": "72",
         "Course Name": "GPU Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE560",
         "Course Code": "CSE560",
         "Course Acronym": "GPU",
@@ -1008,7 +1008,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE560"
     },
     {
-        "Serial Number": "74",
+        "Serial Number": "73",
         "Course Name": "Probabilistic Graphical Models#http://127.0.0.1:5000/viewDescription/filename?=CSE561",
         "Course Code": "CSE561",
         "Course Acronym": "PGM",
@@ -1022,7 +1022,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE561"
     },
     {
-        "Serial Number": "75",
+        "Serial Number": "74",
         "Course Name": "Advanced Computer Vision#http://127.0.0.1:5000/viewDescription/filename?=CSE562",
         "Course Code": "CSE562",
         "Course Acronym": "ACV",
@@ -1036,7 +1036,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE562"
     },
     {
-        "Serial Number": "76",
+        "Serial Number": "75",
         "Course Name": "Multimedia Computing and Applications#http://127.0.0.1:5000/viewDescription/filename?=CSE563",
         "Course Code": "CSE563",
         "Course Acronym": "MCA",
@@ -1050,7 +1050,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE563"
     },
     {
-        "Serial Number": "77",
+        "Serial Number": "76",
         "Course Name": "Reinforcement Learning#http://127.0.0.1:5000/viewDescription/filename?=CSE564",
         "Course Code": "CSE564",
         "Course Acronym": "RL",
@@ -1064,7 +1064,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE564"
     },
     {
-        "Serial Number": "78",
+        "Serial Number": "77",
         "Course Name": "Software Defined Networking#http://127.0.0.1:5000/viewDescription/filename?=CSE565",
         "Course Code": "CSE565",
         "Course Acronym": "SDN",
@@ -1078,7 +1078,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE565"
     },
     {
-        "Serial Number": "79",
+        "Serial Number": "78",
         "Course Name": "Virtual Reality#http://127.0.0.1:5000/viewDescription/filename?=CSE570",
         "Course Code": "CSE570",
         "Course Acronym": "VR",
@@ -1092,7 +1092,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE570"
     },
     {
-        "Serial Number": "80",
+        "Serial Number": "79",
         "Course Name": "Introduction to Media Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE571",
         "Course Code": "CSE571",
         "Course Acronym": "IMC",
@@ -1106,7 +1106,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE571"
     },
     {
-        "Serial Number": "81",
+        "Serial Number": "80",
         "Course Name": "Smart Sensing for Internet of Things (IoT)#http://127.0.0.1:5000/viewDescription/filename?=CSE576",
         "Course Code": "CSE576",
         "Course Acronym": "SSIoT",
@@ -1120,7 +1120,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE576"
     },
     {
-        "Serial Number": "82",
+        "Serial Number": "81",
         "Course Name": "Advanced Internet of Things#http://127.0.0.1:5000/viewDescription/filename?=CSE577",
         "Course Code": "CSE577",
         "Course Acronym": "AIOT",
@@ -1134,7 +1134,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE577"
     },
     {
-        "Serial Number": "83",
+        "Serial Number": "82",
         "Course Name": "Ontology Modeling#http://127.0.0.1:5000/viewDescription/filename?=CSE580A",
         "Course Code": "CSE580A",
         "Course Acronym": "OM",
@@ -1148,7 +1148,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE580A"
     },
     {
-        "Serial Number": "84",
+        "Serial Number": "83",
         "Course Name": "Software Production Evolution and Maintenance#http://127.0.0.1:5000/viewDescription/filename?=CSE582",
         "Course Code": "CSE582",
         "Course Acronym": "SPEM",
@@ -1162,7 +1162,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE582"
     },
     {
-        "Serial Number": "85",
+        "Serial Number": "84",
         "Course Name": "Affective Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE5AC",
         "Course Code": "CSE5AC",
         "Course Acronym": "AFC",
@@ -1176,7 +1176,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5AC"
     },
     {
-        "Serial Number": "86",
+        "Serial Number": "85",
         "Course Name": "Geometry Processing#http://127.0.0.1:5000/viewDescription/filename?=CSE5GP",
         "Course Code": "CSE5GP",
         "Course Acronym": "GP",
@@ -1190,7 +1190,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5GP"
     },
     {
-        "Serial Number": "87",
+        "Serial Number": "86",
         "Course Name": "Systems Analysis, Design and Requirements Engineering#http://127.0.0.1:5000/viewDescription/filename?=CSE5SD",
         "Course Code": "CSE5SD",
         "Course Acronym": "SADRE",
@@ -1204,7 +1204,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5SD"
     },
     {
-        "Serial Number": "88",
+        "Serial Number": "87",
         "Course Name": "Topics in Adaptive Cybersecurity#http://127.0.0.1:5000/viewDescription/filename?=CSE5TAC",
         "Course Code": "CSE5TAC",
         "Course Acronym": "TAC",
@@ -1218,7 +1218,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5TAC"
     },
     {
-        "Serial Number": "89",
+        "Serial Number": "88",
         "Course Name": "Object Oriented Programming and Design#http://127.0.0.1:5000/viewDescription/filename?=CSE600A",
         "Course Code": "CSE600A/ECE600A",
         "Course Acronym": "OOPD",
@@ -1232,7 +1232,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE600A"
     },
     {
-        "Serial Number": "90",
+        "Serial Number": "89",
         "Course Name": "Data Warehouse#http://127.0.0.1:5000/viewDescription/filename?=CSE606",
         "Course Code": "CSE606",
         "Course Acronym": "DW",
@@ -1246,7 +1246,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE606"
     },
     {
-        "Serial Number": "91",
+        "Serial Number": "90",
         "Course Name": "Statistical Computation#http://127.0.0.1:5000/viewDescription/filename?=CSE609",
         "Course Code": "CSE609",
         "Course Acronym": "SComp",
@@ -1260,7 +1260,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE609"
     },
     {
-        "Serial Number": "92",
+        "Serial Number": "91",
         "Course Name": "Introduction to Quantum Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE622",
         "Course Code": "CSE622",
         "Course Acronym": "IQC",
@@ -1274,7 +1274,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE622"
     },
     {
-        "Serial Number": "93",
+        "Serial Number": "92",
         "Course Name": "Advanced Operating Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE631",
         "Course Code": "CSE631",
         "Course Acronym": "AOS",
@@ -1288,7 +1288,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE631"
     },
     {
-        "Serial Number": "94",
+        "Serial Number": "93",
         "Course Name": "Semantic Web#http://127.0.0.1:5000/viewDescription/filename?=CSE632",
         "Course Code": "CSE632",
         "Course Acronym": "Sweb",
@@ -1302,7 +1302,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE632"
     },
     {
-        "Serial Number": "95",
+        "Serial Number": "94",
         "Course Name": "Introduction to Robotics#http://127.0.0.1:5000/viewDescription/filename?=CSE633",
         "Course Code": "CSE633/ECE670",
         "Course Acronym": "IRob",
@@ -1316,7 +1316,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE633"
     },
     {
-        "Serial Number": "96",
+        "Serial Number": "95",
         "Course Name": "Communication Networks#http://127.0.0.1:5000/viewDescription/filename?=CSE636",
         "Course Code": "CSE636/ECE636",
         "Course Acronym": "CN",
@@ -1330,7 +1330,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE636"
     },
     {
-        "Serial Number": "97",
+        "Serial Number": "96",
         "Course Name": "Collaborative Filtering#http://127.0.0.1:5000/viewDescription/filename?=CSE640",
         "Course Code": "CSE640",
         "Course Acronym": "CF",
@@ -1344,7 +1344,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE640"
     },
     {
-        "Serial Number": "98",
+        "Serial Number": "97",
         "Course Name": "Deep Learning#http://127.0.0.1:5000/viewDescription/filename?=CSE641",
         "Course Code": "CSE641",
         "Course Acronym": "DL",
@@ -1358,7 +1358,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE641"
     },
     {
-        "Serial Number": "99",
+        "Serial Number": "98",
         "Course Name": "Advanced Machine Learning#http://127.0.0.1:5000/viewDescription/filename?=CSE642",
         "Course Code": "CSE642",
         "Course Acronym": "AML",
@@ -1372,7 +1372,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE642"
     },
     {
-        "Serial Number": "100",
+        "Serial Number": "99",
         "Course Name": "Artificial Intelligence#http://127.0.0.1:5000/viewDescription/filename?=CSE643",
         "Course Code": "CSE643",
         "Course Acronym": "AI",
@@ -1386,7 +1386,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE643"
     },
     {
-        "Serial Number": "101",
+        "Serial Number": "100",
         "Course Name": "Multimedia Security#http://127.0.0.1:5000/viewDescription/filename?=CSE694F",
         "Course Code": "CSE694F/ECE651",
         "Course Acronym": "MS",
@@ -1400,7 +1400,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE694F"
     },
     {
-        "Serial Number": "102",
+        "Serial Number": "101",
         "Course Name": "Advanced Topics in Mobile Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE734",
         "Course Code": "CSE734",
         "Course Acronym": "ATMC",
@@ -1414,7 +1414,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE734"
     },
     {
-        "Serial Number": "103",
+        "Serial Number": "102",
         "Course Name": "Network Anonymity and Privacy#http://127.0.0.1:5000/viewDescription/filename?=CSE749",
         "Course Code": "CSE749",
         "Course Acronym": "NAP",
@@ -1428,7 +1428,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE749"
     },
     {
-        "Serial Number": "104",
+        "Serial Number": "103",
         "Course Name": "Topics in Cryptanalysis#http://127.0.0.1:5000/viewDescription/filename?=CSE793A",
         "Course Code": "CSE793A",
         "Course Acronym": "TC",
@@ -1442,7 +1442,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE793A"
     },
     {
-        "Serial Number": "105",
+        "Serial Number": "104",
         "Course Name": "Design Drawing & Visualization#http://127.0.0.1:5000/viewDescription/filename?=DES101",
         "Course Code": "DES101",
         "Course Acronym": "DDV",
@@ -1456,7 +1456,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES101"
     },
     {
-        "Serial Number": "106",
+        "Serial Number": "105",
         "Course Name": "Introduction to Engineering Design#http://127.0.0.1:5000/viewDescription/filename?=DES130",
         "Course Code": "DES130",
         "Course Acronym": "IED",
@@ -1470,7 +1470,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES130"
     },
     {
-        "Serial Number": "107",
+        "Serial Number": "106",
         "Course Name": "Design Processes and Perspectives#http://127.0.0.1:5000/viewDescription/filename?=DES201",
         "Course Code": "DES201",
         "Course Acronym": "DPP",
@@ -1484,7 +1484,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES201"
     },
     {
-        "Serial Number": "108",
+        "Serial Number": "107",
         "Course Name": "Visual Design & Communication#http://127.0.0.1:5000/viewDescription/filename?=DES202",
         "Course Code": "DES202",
         "Course Acronym": "VDC",
@@ -1498,7 +1498,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES202"
     },
     {
-        "Serial Number": "109",
+        "Serial Number": "108",
         "Course Name": "Human Computer Interaction #http://127.0.0.1:5000/viewDescription/filename?=DES204",
         "Course Code": "DES204",
         "Course Acronym": "HCI",
@@ -1512,7 +1512,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES204"
     },
     {
-        "Serial Number": "110",
+        "Serial Number": "109",
         "Course Name": "Animation and Graphics#http://127.0.0.1:5000/viewDescription/filename?=DES302",
         "Course Code": "DES302",
         "Course Acronym": "A&G",
@@ -1526,7 +1526,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES302"
     },
     {
-        "Serial Number": "111",
+        "Serial Number": "110",
         "Course Name": "Film Making and Radio Podcasting#http://127.0.0.1:5000/viewDescription/filename?=DES303",
         "Course Code": "DES303",
         "Course Acronym": "FMRP",
@@ -1540,7 +1540,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES303"
     },
     {
-        "Serial Number": "112",
+        "Serial Number": "111",
         "Course Name": "Game Development & Design#http://127.0.0.1:5000/viewDescription/filename?=DES512",
         "Course Code": "DES512",
         "Course Acronym": "GDD",
@@ -1554,7 +1554,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES512"
     },
     {
-        "Serial Number": "113",
+        "Serial Number": "112",
         "Course Name": "Wearable Applications, Research, Devices, Interactions#http://127.0.0.1:5000/viewDescription/filename?=DES513",
         "Course Code": "DES513",
         "Course Acronym": "WARDI",
@@ -1568,7 +1568,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES513"
     },
     {
-        "Serial Number": "114",
+        "Serial Number": "113",
         "Course Name": "Digital Audio#http://127.0.0.1:5000/viewDescription/filename?=DES514",
         "Course Code": "DES514",
         "Course Acronym": "DA",
@@ -1582,7 +1582,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES514"
     },
     {
-        "Serial Number": "115",
+        "Serial Number": "114",
         "Course Name": "Information Systems in Public Health#http://127.0.0.1:5000/viewDescription/filename?=DES515",
         "Course Code": "DES515",
         "Course Acronym": "ISPR",
@@ -1596,7 +1596,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES515"
     },
     {
-        "Serial Number": "116",
+        "Serial Number": "115",
         "Course Name": "Introduction to 3D Animation#http://127.0.0.1:5000/viewDescription/filename?=DES516s",
         "Course Code": "DES516s",
         "Course Acronym": "I3D",
@@ -1610,7 +1610,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES516s"
     },
     {
-        "Serial Number": "117",
+        "Serial Number": "116",
         "Course Name": "Introduction to Epidemiology#http://127.0.0.1:5000/viewDescription/filename?=DES517",
         "Course Code": "DES517",
         "Course Acronym": "IEP",
@@ -1624,7 +1624,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES517"
     },
     {
-        "Serial Number": "118",
+        "Serial Number": "117",
         "Course Name": "Introduction to Motion Graphics#http://127.0.0.1:5000/viewDescription/filename?=DES518",
         "Course Code": "DES518",
         "Course Acronym": "IMG",
@@ -1638,7 +1638,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES518"
     },
     {
-        "Serial Number": "119",
+        "Serial Number": "118",
         "Course Name": "Design of Interactive Systems#http://127.0.0.1:5000/viewDescription/filename?=DES519",
         "Course Code": "DES519",
         "Course Acronym": "DIS",
@@ -1652,7 +1652,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES519"
     },
     {
-        "Serial Number": "120",
+        "Serial Number": "119",
         "Course Name": "Digital Circuits#http://127.0.0.1:5000/viewDescription/filename?=ECE111",
         "Course Code": "ECE111",
         "Course Acronym": "DC",
@@ -1666,7 +1666,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE111"
     },
     {
-        "Serial Number": "121",
+        "Serial Number": "120",
         "Course Name": "Basic Electronics#http://127.0.0.1:5000/viewDescription/filename?=ECE113",
         "Course Code": "ECE113",
         "Course Acronym": "BE",
@@ -1680,7 +1680,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE113"
     },
     {
-        "Serial Number": "122",
+        "Serial Number": "121",
         "Course Name": "Integrated Electronics#http://127.0.0.1:5000/viewDescription/filename?=ECE214",
         "Course Code": "ECE214",
         "Course Acronym": "IE",
@@ -1694,7 +1694,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE214"
     },
     {
-        "Serial Number": "123",
+        "Serial Number": "122",
         "Course Name": "Circuit Theory and Device#http://127.0.0.1:5000/viewDescription/filename?=ECE215",
         "Course Code": "ECE215",
         "Course Acronym": "CTD",
@@ -1708,7 +1708,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE215"
     },
     {
-        "Serial Number": "124",
+        "Serial Number": "123",
         "Course Name": "Fields and Waves#http://127.0.0.1:5000/viewDescription/filename?=ECE230",
         "Course Code": "ECE230",
         "Course Acronym": "F&W",
@@ -1722,7 +1722,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE230"
     },
     {
-        "Serial Number": "125",
+        "Serial Number": "124",
         "Course Name": "Principles of Communication Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE240",
         "Course Code": "ECE240",
         "Course Acronym": "PCS",
@@ -1736,7 +1736,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE240"
     },
     {
-        "Serial Number": "126",
+        "Serial Number": "125",
         "Course Name": "Signals and Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE250",
         "Course Code": "ECE250",
         "Course Acronym": "S&S",
@@ -1750,7 +1750,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE250"
     },
     {
-        "Serial Number": "127",
+        "Serial Number": "126",
         "Course Name": "Embedded Logic Design#http://127.0.0.1:5000/viewDescription/filename?=ECE270",
         "Course Code": "ECE270",
         "Course Acronym": "ELD",
@@ -1764,7 +1764,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE270"
     },
     {
-        "Serial Number": "128",
+        "Serial Number": "127",
         "Course Name": "Introduction to VLSI Design#http://127.0.0.1:5000/viewDescription/filename?=ECE314",
         "Course Code": "ECE314/ECE514",
         "Course Acronym": "DVD",
@@ -1778,7 +1778,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE314"
     },
     {
-        "Serial Number": "129",
+        "Serial Number": "128",
         "Course Name": "Analog CMOS Circuit Design#http://127.0.0.1:5000/viewDescription/filename?=ECE315",
         "Course Code": "ECE315/ECE515",
         "Course Acronym": "CMOS",
@@ -1792,7 +1792,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE315"
     },
     {
-        "Serial Number": "130",
+        "Serial Number": "129",
         "Course Name": "Solid State Devices#http://127.0.0.1:5000/viewDescription/filename?=ECE318",
         "Course Code": "ECE318",
         "Course Acronym": "SSD",
@@ -1806,7 +1806,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE318"
     },
     {
-        "Serial Number": "131",
+        "Serial Number": "130",
         "Course Name": "Digital Communication Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE340",
         "Course Code": "ECE340",
         "Course Acronym": "DCS",
@@ -1820,7 +1820,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE340"
     },
     {
-        "Serial Number": "132",
+        "Serial Number": "131",
         "Course Name": "Mobile Communications#http://127.0.0.1:5000/viewDescription/filename?=ECE343",
         "Course Code": "ECE343",
         "Course Acronym": "MC",
@@ -1834,7 +1834,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE343"
     },
     {
-        "Serial Number": "133",
+        "Serial Number": "132",
         "Course Name": "Digital Image Processing#http://127.0.0.1:5000/viewDescription/filename?=ECE350",
         "Course Code": "ECE350",
         "Course Acronym": "DIP",
@@ -1848,7 +1848,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE350"
     },
     {
-        "Serial Number": "134",
+        "Serial Number": "133",
         "Course Name": "Digital Signal Processing#http://127.0.0.1:5000/viewDescription/filename?=ECE351",
         "Course Code": "ECE351",
         "Course Acronym": "DSP",
@@ -1862,7 +1862,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE351"
     },
     {
-        "Serial Number": "135",
+        "Serial Number": "134",
         "Course Name": "Antennas Theory and Design#http://127.0.0.1:5000/viewDescription/filename?=ECE431",
         "Course Code": "ECE431/ECE631",
         "Course Acronym": "ATD",
@@ -1876,7 +1876,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE431"
     },
     {
-        "Serial Number": "136",
+        "Serial Number": "135",
         "Course Name": "Radar Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE432",
         "Course Code": "ECE432",
         "Course Acronym": "RS",
@@ -1890,7 +1890,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE432"
     },
     {
-        "Serial Number": "137",
+        "Serial Number": "136",
         "Course Name": "Statistical Signal Processing#http://127.0.0.1:5000/viewDescription/filename?=ECE452",
         "Course Code": "ECE452",
         "Course Acronym": "SSP",
@@ -1904,7 +1904,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE452"
     },
     {
-        "Serial Number": "138",
+        "Serial Number": "137",
         "Course Name": "Advanced Signal Processing#http://127.0.0.1:5000/viewDescription/filename?=ECE453",
         "Course Code": "ECE453/ECE553",
         "Course Acronym": "ASP",
@@ -1918,7 +1918,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE453"
     },
     {
-        "Serial Number": "139",
+        "Serial Number": "138",
         "Course Name": "Probability and Random Process#http://127.0.0.1:5000/viewDescription/filename?=ECE501",
         "Course Code": "ECE501",
         "Course Acronym": "PRP",
@@ -1932,7 +1932,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE501"
     },
     {
-        "Serial Number": "140",
+        "Serial Number": "139",
         "Course Name": "Digital Hardware Design (DHD)#http://127.0.0.1:5000/viewDescription/filename?=ECE510",
         "Course Code": "ECE510",
         "Course Acronym": "DHD",
@@ -1946,7 +1946,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE510"
     },
     {
-        "Serial Number": "141",
+        "Serial Number": "140",
         "Course Name": "VLSI Design Flow#http://127.0.0.1:5000/viewDescription/filename?=ECE513",
         "Course Code": "ECE513",
         "Course Acronym": "VLDIDF",
@@ -1960,7 +1960,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE513"
     },
     {
-        "Serial Number": "142",
+        "Serial Number": "141",
         "Course Name": "Digital VLSI Design#http://127.0.0.1:5000/viewDescription/filename?=ECE514",
         "Course Code": "ECE514",
         "Course Acronym": "DVD",
@@ -1974,7 +1974,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE514"
     },
     {
-        "Serial Number": "143",
+        "Serial Number": "142",
         "Course Name": "System on Chip Design and Test#http://127.0.0.1:5000/viewDescription/filename?=ECE516",
         "Course Code": "ECE516",
         "Course Acronym": "SCD&T",
@@ -1988,7 +1988,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE516"
     },
     {
-        "Serial Number": "144",
+        "Serial Number": "143",
         "Course Name": "Introduction to Nanoelectronics#http://127.0.0.1:5000/viewDescription/filename?=ECE517",
         "Course Code": "ECE517",
         "Course Acronym": "INE",
@@ -2002,7 +2002,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE517"
     },
     {
-        "Serial Number": "145",
+        "Serial Number": "144",
         "Course Name": "Intelligent Applications Implementation on Heterogeneous Platforms#http://127.0.0.1:5000/viewDescription/filename?=ECE519",
         "Course Code": "ECE519",
         "Course Acronym": "IAI",
@@ -2016,7 +2016,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE519"
     },
     {
-        "Serial Number": "146",
+        "Serial Number": "145",
         "Course Name": "Satellite Navigation and Sensor Fusion#http://127.0.0.1:5000/viewDescription/filename?=ECE533",
         "Course Code": "ECE533",
         "Course Acronym": "SNSF",
@@ -2030,7 +2030,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE533"
     },
     {
-        "Serial Number": "147",
+        "Serial Number": "146",
         "Course Name": "Optical Communications Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE534",
         "Course Code": "ECE534",
         "Course Acronym": "OCS",
@@ -2044,7 +2044,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE534"
     },
     {
-        "Serial Number": "148",
+        "Serial Number": "147",
         "Course Name": "Optical Networking#http://127.0.0.1:5000/viewDescription/filename?=ECE536s",
         "Course Code": "ECE536s",
         "Course Acronym": "ON",
@@ -2058,7 +2058,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE536s"
     },
     {
-        "Serial Number": "149",
+        "Serial Number": "148",
         "Course Name": "Wireless Communication Evolution from 3G to 5G#http://127.0.0.1:5000/viewDescription/filename?=ECE537",
         "Course Code": "ECE537",
         "Course Acronym": "WCE",
@@ -2072,7 +2072,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE537"
     },
     {
-        "Serial Number": "150",
+        "Serial Number": "149",
         "Course Name": "Wireless System Implementation#http://127.0.0.1:5000/viewDescription/filename?=ECE539",
         "Course Code": "ECE539",
         "Course Acronym": "WSI",
@@ -2086,7 +2086,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE539"
     },
     {
-        "Serial Number": "151",
+        "Serial Number": "150",
         "Course Name": "Principals of Digital Communication System#http://127.0.0.1:5000/viewDescription/filename?=ECE543",
         "Course Code": "ECE543",
         "Course Acronym": "PDCS",
@@ -2100,7 +2100,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE543"
     },
     {
-        "Serial Number": "152",
+        "Serial Number": "151",
         "Course Name": "Compressive Sensing#http://127.0.0.1:5000/viewDescription/filename?=ECE554",
         "Course Code": "ECE554",
         "Course Acronym": "CS",
@@ -2114,7 +2114,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE554"
     },
     {
-        "Serial Number": "159",
+        "Serial Number": "152",
         "Course Name": "Speech Recognition and Understanding#http://127.0.0.1:5000/viewDescription/filename?=ECE557",
         "Course Code": "ECE557",
         "Course Acronym": "SRU",
@@ -2142,7 +2142,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE558"
     },
     {
-        "Serial Number": "155",
+        "Serial Number": "154",
         "Course Name": "Control Theory#http://127.0.0.1:5000/viewDescription/filename?=ECE570",
         "Course Code": "ECE570",
         "Course Acronym": "CNT",
@@ -2156,7 +2156,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE570"
     },
     {
-        "Serial Number": "156",
+        "Serial Number": "155",
         "Course Name": "Optimal Control Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE571",
         "Course Code": "ECE571",
         "Course Acronym": "OCS",
@@ -2170,7 +2170,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE571"
     },
     {
-        "Serial Number": "157",
+        "Serial Number": "156",
         "Course Name": "Advanced Embedded Logic Design#http://127.0.0.1:5000/viewDescription/filename?=ECE573",
         "Course Code": "ECE573",
         "Course Acronym": "AELD",
@@ -2184,7 +2184,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE573"
     },
     {
-        "Serial Number": "158",
+        "Serial Number": "157",
         "Course Name": "Machine Learning Techniques for Real Time Control#http://127.0.0.1:5000/viewDescription/filename?=ECE577",
         "Course Code": "ECE577",
         "Course Acronym": "MLRC",
@@ -2198,7 +2198,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE577"
     },
     {
-        "Serial Number": "160",
+        "Serial Number": "158",
         "Course Name": "Nonlinear and Adaptive Control of Robotic Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE579",
         "Course Code": "ECE579",
         "Course Acronym": "NLR",
@@ -2212,7 +2212,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE579"
     },
     {
-        "Serial Number": "154",
+        "Serial Number": "159",
         "Course Name": "Autonomous Driving#http://127.0.0.1:5000/viewDescription/filename?=ECE581",
         "Course Code": "ECE581",
         "Course Acronym": "AD",
@@ -2226,7 +2226,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE581"
     },
     {
-        "Serial Number": "161",
+        "Serial Number": "160",
         "Course Name": "Memory Design and Testing#http://127.0.0.1:5000/viewDescription/filename?=ECE611",
         "Course Code": "ECE611",
         "Course Acronym": "MDT",
@@ -2240,7 +2240,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE611"
     },
     {
-        "Serial Number": "162",
+        "Serial Number": "161",
         "Course Name": "Mixed Signal Design#http://127.0.0.1:5000/viewDescription/filename?=ECE612",
         "Course Code": "ECE612",
         "Course Acronym": "MSD",
@@ -2254,7 +2254,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE612"
     },
     {
-        "Serial Number": "163",
+        "Serial Number": "162",
         "Course Name": "Stochastic Estimation and Control#http://127.0.0.1:5000/viewDescription/filename?=ECE672",
         "Course Code": "ECE672",
         "Course Acronym": "SEC",
@@ -2268,7 +2268,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE672"
     },
     {
-        "Serial Number": "164",
+        "Serial Number": "163",
         "Course Name": "Microeconomics#http://127.0.0.1:5000/viewDescription/filename?=ECO101",
         "Course Code": "ECO101",
         "Course Acronym": "ME",
@@ -2282,7 +2282,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO101"
     },
     {
-        "Serial Number": "165",
+        "Serial Number": "164",
         "Course Name": "Macroeconomics#http://127.0.0.1:5000/viewDescription/filename?=ECO201",
         "Course Code": "ECO201",
         "Course Acronym": "MA",
@@ -2296,7 +2296,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO201"
     },
     {
-        "Serial Number": "166",
+        "Serial Number": "165",
         "Course Name": "Introduction to Economic Analysis#http://127.0.0.1:5000/viewDescription/filename?=ECO301",
         "Course Code": "ECO301",
         "Course Acronym": "IEA",
@@ -2310,7 +2310,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO301"
     },
     {
-        "Serial Number": "167",
+        "Serial Number": "166",
         "Course Name": "Game Theory#http://127.0.0.1:5000/viewDescription/filename?=ECO311",
         "Course Code": "ECO311",
         "Course Acronym": "GMT",
@@ -2324,7 +2324,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO311"
     },
     {
-        "Serial Number": "168",
+        "Serial Number": "167",
         "Course Name": "Industrial Organization#http://127.0.0.1:5000/viewDescription/filename?=ECO312",
         "Course Code": "ECO312",
         "Course Acronym": "IO",
@@ -2338,7 +2338,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO312"
     },
     {
-        "Serial Number": "169",
+        "Serial Number": "168",
         "Course Name": "Market Design#http://127.0.0.1:5000/viewDescription/filename?=ECO313",
         "Course Code": "ECO313",
         "Course Acronym": "MD",
@@ -2352,7 +2352,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO313"
     },
     {
-        "Serial Number": "170",
+        "Serial Number": "169",
         "Course Name": "Econometrics I#http://127.0.0.1:5000/viewDescription/filename?=ECO321",
         "Course Code": "ECO321",
         "Course Acronym": "ECO",
@@ -2366,7 +2366,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO321"
     },
     {
-        "Serial Number": "171",
+        "Serial Number": "170",
         "Course Name": "Foundations of Finance#http://127.0.0.1:5000/viewDescription/filename?=ECO331",
         "Course Code": "ECO331",
         "Course Acronym": "FF",
@@ -2380,7 +2380,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO331"
     },
     {
-        "Serial Number": "172",
+        "Serial Number": "171",
         "Course Name": "Valuation and Portfolio Management#http://127.0.0.1:5000/viewDescription/filename?=ECO332",
         "Course Code": "ECO332",
         "Course Acronym": "VPM",
@@ -2394,7 +2394,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO332"
     },
     {
-        "Serial Number": "173",
+        "Serial Number": "172",
         "Course Name": "Decision Theory#http://127.0.0.1:5000/viewDescription/filename?=ECO503",
         "Course Code": "ECO503",
         "Course Acronym": "DT",
@@ -2408,7 +2408,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO503"
     },
     {
-        "Serial Number": "174",
+        "Serial Number": "173",
         "Course Name": "Research Methods#http://127.0.0.1:5000/viewDescription/filename?=ENG599s",
         "Course Code": "ENG599s",
         "Course Acronym": "RM",
@@ -2422,8 +2422,8 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ENG599s"
     },
     {
-        "Serial Number": "175",
-        "Course Name": "Starting an entrepreneurial venture#http://127.0.0.1:5000/viewDescription/filename?=ENT402",
+        "Serial Number": "174",
+        "Course Name": "Starting an Entrepreneurial Venture#http://127.0.0.1:5000/viewDescription/filename?=ENT402",
         "Course Code": "ENT402",
         "Course Acronym": "SEntV",
         "Prerequisites": "None",
@@ -2436,7 +2436,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ENT402"
     },
     {
-        "Serial Number": "176",
+        "Serial Number": "175",
         "Course Name": "Environmental Sciences#http://127.0.0.1:5000/viewDescription/filename?=ESC205",
         "Course Code": "ESC205",
         "Course Acronym": "EVS",
@@ -2450,7 +2450,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ESC205"
     },
     {
-        "Serial Number": "177",
+        "Serial Number": "176",
         "Course Name": "Ecology, Evolution, and Environment#http://127.0.0.1:5000/viewDescription/filename?=ESC207A",
         "Course Code": "ESC207A",
         "Course Acronym": "EEE",
@@ -2464,8 +2464,8 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ESC207A"
     },
     {
-        "Serial Number": "178",
-        "Course Name": "Effective Supply chain for E commerce#http://127.0.0.1:5000/viewDescription/filename?=MGT310",
+        "Serial Number": "177",
+        "Course Name": "Effective Supply Chain for E Commerce#http://127.0.0.1:5000/viewDescription/filename?=MGT310",
         "Course Code": "MGT310",
         "Course Acronym": "SCM",
         "Prerequisites": "None",
@@ -2478,8 +2478,8 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MGT310"
     },
     {
-        "Serial Number": "179",
-        "Course Name": "Emerging Issues in IT Management   (Governance, security, privacy, ethics and sustainability)#http://127.0.0.1:5000/viewDescription/filename?=MGT311",
+        "Serial Number": "178",
+        "Course Name": "Emerging Issues in IT Management#http://127.0.0.1:5000/viewDescription/filename?=MGT311",
         "Course Code": "MGT311",
         "Course Acronym": "EITM",
         "Prerequisites": "None",
@@ -2492,7 +2492,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MGT311"
     },
     {
-        "Serial Number": "180",
+        "Serial Number": "179",
         "Course Name": "Math I (Linear Algebra)#http://127.0.0.1:5000/viewDescription/filename?=MTH100",
         "Course Code": "MTH100",
         "Course Acronym": "M-I",
@@ -2506,7 +2506,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH100"
     },
     {
-        "Serial Number": "181",
+        "Serial Number": "180",
         "Course Name": "Introduction to Mathematical Logic#http://127.0.0.1:5000/viewDescription/filename?=MTH200",
         "Course Code": "MTH200",
         "Course Acronym": "IML",
@@ -2520,8 +2520,8 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH200"
     },
     {
-        "Serial Number": "182",
-        "Course Name": "Probability and Statistics#http://127.0.0.1:5000/viewDescription/filename?=MTH201",
+        "Serial Number": "181",
+        "Course Name": "Math II (Probability and Statistics)#http://127.0.0.1:5000/viewDescription/filename?=MTH201",
         "Course Code": "MTH201",
         "Course Acronym": "P&S",
         "Prerequisites": "None",
@@ -2534,7 +2534,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH201"
     },
     {
-        "Serial Number": "183",
+        "Serial Number": "182",
         "Course Name": "Mathematics III (Multivariate Calculus)#http://127.0.0.1:5000/viewDescription/filename?=MTH203",
         "Course Code": "MTH203",
         "Course Acronym": "M-III",
@@ -2548,7 +2548,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH203"
     },
     {
-        "Serial Number": "184",
+        "Serial Number": "183",
         "Course Name": "Mathematics IV (Differential Equations)#http://127.0.0.1:5000/viewDescription/filename?=MTH204",
         "Course Code": "MTH204",
         "Course Acronym": "M-IV",
@@ -2562,7 +2562,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH204"
     },
     {
-        "Serial Number": "185",
+        "Serial Number": "184",
         "Course Name": "Discrete Structures#http://127.0.0.1:5000/viewDescription/filename?=MTH210",
         "Course Code": "MTH210",
         "Course Acronym": "DS",
@@ -2576,7 +2576,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH210"
     },
     {
-        "Serial Number": "186",
+        "Serial Number": "185",
         "Course Name": "Number Theory#http://127.0.0.1:5000/viewDescription/filename?=MTH211",
         "Course Code": "MTH211",
         "Course Acronym": "NT",
@@ -2590,7 +2590,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH211"
     },
     {
-        "Serial Number": "187",
+        "Serial Number": "186",
         "Course Name": "Abstract Algebra I#http://127.0.0.1:5000/viewDescription/filename?=MTH212",
         "Course Code": "MTH212",
         "Course Acronym": "AA-I",
@@ -2604,7 +2604,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH212"
     },
     {
-        "Serial Number": "188",
+        "Serial Number": "187",
         "Course Name": "Real Analysis I#http://127.0.0.1:5000/viewDescription/filename?=MTH240",
         "Course Code": "MTH240",
         "Course Acronym": "RA-I",
@@ -2618,7 +2618,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH240"
     },
     {
-        "Serial Number": "189",
+        "Serial Number": "188",
         "Course Name": "Numerical Methods#http://127.0.0.1:5000/viewDescription/filename?=MTH270",
         "Course Code": "MTH270",
         "Course Acronym": "NM",
@@ -2632,7 +2632,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH270"
     },
     {
-        "Serial Number": "190",
+        "Serial Number": "189",
         "Course Name": "Algebra#http://127.0.0.1:5000/viewDescription/filename?=MTH302",
         "Course Code": "MTH302",
         "Course Acronym": "ALG",
@@ -2646,7 +2646,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH302"
     },
     {
-        "Serial Number": "191",
+        "Serial Number": "190",
         "Course Name": "Graph Theory#http://127.0.0.1:5000/viewDescription/filename?=MTH310",
         "Course Code": "MTH310",
         "Course Acronym": "GT",
@@ -2660,7 +2660,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH310"
     },
     {
-        "Serial Number": "192",
+        "Serial Number": "191",
         "Course Name": "Combinatorics and its Applications#http://127.0.0.1:5000/viewDescription/filename?=MTH311",
         "Course Code": "MTH311",
         "Course Acronym": "CIA",
@@ -2674,7 +2674,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH311"
     },
     {
-        "Serial Number": "193",
+        "Serial Number": "192",
         "Course Name": "Real Analysis-II#http://127.0.0.1:5000/viewDescription/filename?=MTH340",
         "Course Code": "MTH340",
         "Course Acronym": "RA-II",
@@ -2688,7 +2688,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH340"
     },
     {
-        "Serial Number": "194",
+        "Serial Number": "193",
         "Course Name": "Complex Analysis#http://127.0.0.1:5000/viewDescription/filename?=MTH341",
         "Course Code": "MTH341",
         "Course Acronym": "CmpA",
@@ -2702,7 +2702,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH341"
     },
     {
-        "Serial Number": "195",
+        "Serial Number": "194",
         "Course Name": "Introduction to Dynamical Systems#http://127.0.0.1:5000/viewDescription/filename?=MTH343",
         "Course Code": "MTH343/MTH543",
         "Course Acronym": "IDS",
@@ -2716,7 +2716,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH343"
     },
     {
-        "Serial Number": "196",
+        "Serial Number": "195",
         "Course Name": "Stochastic Processes and Applications#http://127.0.0.1:5000/viewDescription/filename?=MTH371",
         "Course Code": "MTH371",
         "Course Acronym": "SPA",
@@ -2730,7 +2730,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH371"
     },
     {
-        "Serial Number": "197",
+        "Serial Number": "196",
         "Course Name": "Statistical Inference#http://127.0.0.1:5000/viewDescription/filename?=MTH372",
         "Course Code": "MTH372",
         "Course Acronym": "SI",
@@ -2744,7 +2744,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH372"
     },
     {
-        "Serial Number": "198",
+        "Serial Number": "197",
         "Course Name": "Scientific Computing#http://127.0.0.1:5000/viewDescription/filename?=MTH373",
         "Course Code": "MTH373",
         "Course Acronym": "SC",
@@ -2758,7 +2758,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH373"
     },
     {
-        "Serial Number": "199",
+        "Serial Number": "198",
         "Course Name": "Linear Optimization#http://127.0.0.1:5000/viewDescription/filename?=MTH374",
         "Course Code": "MTH374/MTH574",
         "Course Acronym": "LO",
@@ -2772,7 +2772,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH374"
     },
     {
-        "Serial Number": "200",
+        "Serial Number": "199",
         "Course Name": "Advanced Linear Algebra#http://127.0.0.1:5000/viewDescription/filename?=MTH510",
         "Course Code": "MTH510",
         "Course Acronym": "ALA",
@@ -2786,7 +2786,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH510"
     },
     {
-        "Serial Number": "201",
+        "Serial Number": "200",
         "Course Name": "Commutative Algebra#http://127.0.0.1:5000/viewDescription/filename?=MTH511",
         "Course Code": "MTH511",
         "Course Acronym": "ComA",
@@ -2800,7 +2800,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH511"
     },
     {
-        "Serial Number": "202",
+        "Serial Number": "201",
         "Course Name": "Algebraic Number Theory#http://127.0.0.1:5000/viewDescription/filename?=MTH512",
         "Course Code": "MTH512",
         "Course Acronym": "ANT",
@@ -2814,7 +2814,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH512"
     },
     {
-        "Serial Number": "203",
+        "Serial Number": "202",
         "Course Name": "Abstract Algebra II#http://127.0.0.1:5000/viewDescription/filename?=MTH513",
         "Course Code": "MTH513",
         "Course Acronym": "AA-II",
@@ -2828,7 +2828,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH513"
     },
     {
-        "Serial Number": "204",
+        "Serial Number": "203",
         "Course Name": "Numerical Solutions Differential Equations#http://127.0.0.1:5000/viewDescription/filename?=MTH570",
         "Course Code": "MTH570",
         "Course Acronym": "NSDE",
@@ -2842,7 +2842,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH570"
     },
     {
-        "Serial Number": "205",
+        "Serial Number": "204",
         "Course Name": "Integral Transforms and their Applications#http://127.0.0.1:5000/viewDescription/filename?=MTH571",
         "Course Code": "MTH571",
         "Course Acronym": "ITA",
@@ -2856,7 +2856,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH571"
     },
     {
-        "Serial Number": "206",
+        "Serial Number": "205",
         "Course Name": "Introduction to Functional Analysis#http://127.0.0.1:5000/viewDescription/filename?=MTH598",
         "Course Code": "MTH598",
         "Course Acronym": "IFA",
@@ -2870,7 +2870,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH598"
     },
     {
-        "Serial Number": "207",
+        "Serial Number": "206",
         "Course Name": "Numerical Partial Differential Equations#http://127.0.0.1:5000/viewDescription/filename?=MTH598",
         "Course Code": "MTH598",
         "Course Acronym": "NPDE",
@@ -2884,7 +2884,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH598"
     },
     {
-        "Serial Number": "208",
+        "Serial Number": "207",
         "Course Name": "Variational Calculus and their Applications#http://127.0.0.1:5000/viewDescription/filename?=MTH599",
         "Course Code": "MTH599",
         "Course Acronym": "VCA",
@@ -2898,7 +2898,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH599"
     },
     {
-        "Serial Number": "209",
+        "Serial Number": "208",
         "Course Name": "Introduction to Cognitive Psychology#http://127.0.0.1:5000/viewDescription/filename?=PSY201",
         "Course Code": "PSY201",
         "Course Acronym": "Psy",
@@ -2912,7 +2912,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY201"
     },
     {
-        "Serial Number": "210",
+        "Serial Number": "209",
         "Course Name": "Positive Psychology#http://127.0.0.1:5000/viewDescription/filename?=PSY202",
         "Course Code": "PSY202",
         "Course Acronym": "Ppsy",
@@ -2926,7 +2926,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY202"
     },
     {
-        "Serial Number": "211",
+        "Serial Number": "210",
         "Course Name": "Cognitive Psychology#http://127.0.0.1:5000/viewDescription/filename?=PSY301",
         "Course Code": "PSY301",
         "Course Acronym": "CP",
@@ -2940,7 +2940,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY301"
     },
     {
-        "Serial Number": "212",
+        "Serial Number": "211",
         "Course Name": "Introduction to Sociology and Anthropology#http://127.0.0.1:5000/viewDescription/filename?=SOC201",
         "Course Code": "SOC201",
         "Course Acronym": "ISA",
@@ -2954,7 +2954,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC201"
     },
     {
-        "Serial Number": "214",
+        "Serial Number": "212",
         "Course Name": "Contemporary India Sociological Perspective#http://127.0.0.1:5000/viewDescription/filename?=SOC202",
         "Course Code": "SOC202",
         "Course Acronym": "CISP",
@@ -2968,7 +2968,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC202"
     },
     {
-        "Serial Number": "215",
+        "Serial Number": "213",
         "Course Name": "Sociology of New Media#http://127.0.0.1:5000/viewDescription/filename?=SOC204",
         "Course Code": "SOC204",
         "Course Acronym": "SNM",
@@ -2982,8 +2982,8 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC204"
     },
     {
-        "Serial Number": "216",
-        "Course Name": "IT AND SOCIETY#http://127.0.0.1:5000/viewDescription/filename?=SOC207",
+        "Serial Number": "214",
+        "Course Name": "IT And Society#http://127.0.0.1:5000/viewDescription/filename?=SOC207",
         "Course Code": "SOC207",
         "Course Acronym": "ITS",
         "Prerequisites": "None",
@@ -2996,7 +2996,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC207"
     },
     {
-        "Serial Number": "217",
+        "Serial Number": "215",
         "Course Name": "Organizations An Anthropological Perspective#http://127.0.0.1:5000/viewDescription/filename?=SOC208",
         "Course Code": "SOC208",
         "Course Acronym": "OAP",
@@ -3010,7 +3010,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC208"
     },
     {
-        "Serial Number": "218",
+        "Serial Number": "216",
         "Course Name": "Critical Thinking and Readings in Social Science #http://127.0.0.1:5000/viewDescription/filename?=SSH101",
         "Course Code": "SSH101",
         "Course Acronym": "CTRSS",
@@ -3024,7 +3024,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH101"
     },
     {
-        "Serial Number": "219",
+        "Serial Number": "217",
         "Course Name": "Introduction to Philosophy#http://127.0.0.1:5000/viewDescription/filename?=SSH121",
         "Course Code": "SSH121",
         "Course Acronym": "IPHI",
@@ -3038,7 +3038,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH121"
     },
     {
-        "Serial Number": "220",
+        "Serial Number": "218",
         "Course Name": "Critical Thinking#http://127.0.0.1:5000/viewDescription/filename?=SSH124",
         "Course Code": "SSH124",
         "Course Acronym": "CT",
@@ -3052,7 +3052,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH124"
     },
     {
-        "Serial Number": "221",
+        "Serial Number": "219",
         "Course Name": "Social Science and Research Methods#http://127.0.0.1:5000/viewDescription/filename?=SSH201",
         "Course Code": "SSH201",
         "Course Acronym": "RMSSD",
@@ -3066,7 +3066,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH201"
     },
     {
-        "Serial Number": "222",
+        "Serial Number": "220",
         "Course Name": "Theatre Appreciation#http://127.0.0.1:5000/viewDescription/filename?=SSH211",
         "Course Code": "SSH211",
         "Course Acronym": "TA",
@@ -3080,7 +3080,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH211"
     },
     {
-        "Serial Number": "223",
+        "Serial Number": "221",
         "Course Name": "Introduction To The Study Of Literature#http://127.0.0.1:5000/viewDescription/filename?=SSH214",
         "Course Code": "SSH214",
         "Course Acronym": "Lit",
@@ -3094,7 +3094,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH214"
     },
     {
-        "Serial Number": "224",
+        "Serial Number": "222",
         "Course Name": "Introduction to Indian Mythology#http://127.0.0.1:5000/viewDescription/filename?=SSH216",
         "Course Code": "SSH216",
         "Course Acronym": "IIM",
@@ -3108,7 +3108,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH216"
     },
     {
-        "Serial Number": "225",
+        "Serial Number": "223",
         "Course Name": "Indian Poetry Through the Ages#http://127.0.0.1:5000/viewDescription/filename?=SSH217",
         "Course Code": "SSH217",
         "Course Acronym": "IPA",
@@ -3122,7 +3122,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH217"
     },
     {
-        "Serial Number": "226",
+        "Serial Number": "224",
         "Course Name": "Social and Political Philosophy#http://127.0.0.1:5000/viewDescription/filename?=SSH221",
         "Course Code": "SSH221",
         "Course Acronym": "SPP",
@@ -3136,7 +3136,7 @@
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH221"
     },
     {
-        "Serial Number": "227",
+        "Serial Number": "225",
         "Course Name": "Applied Ethics#http://127.0.0.1:5000/viewDescription/filename?=SSH321",
         "Course Code": "SSH321",
         "Course Acronym": "AE",
