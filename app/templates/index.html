@@ -69,10 +69,6 @@
         right: 0;
         display: none;
       }
-      .dataTables_filter,
-      .dataTables_info {
-        display: none;
-      }
     </style>
   </head>
   <body>
@@ -147,6 +143,7 @@ $(document).ready(function(){
       headerOffset: -6
     },
     "paging": false,
+    "searching": true,
     "sScrollX": "100%",
     "columns" :  [
       { "targets": 0,

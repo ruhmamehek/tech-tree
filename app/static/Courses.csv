@@ -9,7 +9,7 @@ Serial Number,Course Name,Course Code,Course Acronym,Prerequisites,Preferable Pr
 8,Practical Bioinformatics,BIO521,PB,None,CSE102,None,Monsoon,,4,1
 9,Algorithms in Computational Biology,BIO522,ACB,None,None,None,Monsoon,,4,1
 10,Chemoinformatics,BIO523,ChemInfo,None,None,None,Winter,,4,1
-11,Introduction to Mathematical Biology,BIO531,IMB,MTH101,"Molecular biology and biochemistry, cell biology",BIO303/BIO503,Winter,,4,1
+11,Introduction to Mathematical Biology,BIO531,IMB,None,"Molecular biology and biochemistry, cell biology",BIO303/BIO503,Winter,,4,1
 12,Network Biology,BIO532,NB,None,CSE102,None,Monsoon,Ganesh Bagler,4,1
 13,Systems and Synthetic Biology,BIO533,S&SB,"""BIO531,BIO501""",MTH201,None,Winter,Sriram K,4,1
 14,Introduction to Computational Neuroscience,BIO534,ICN,None,"Calculus, linear algebra and ODE/PDE and coding in MATLAB",None,Winter,,,1
@@ -85,7 +85,7 @@ Serial Number,Course Name,Course Code,Course Acronym,Prerequisites,Preferable Pr
 84,Affective Computing,CSE5AC,AFC,"""CSE101, CSE102, CSE201""","""CSE343/CSE543,CSE643""",None,Monsoon,Jainendra Shukla,4,3
 85,Geometry Processing,CSE5GP,GP,"""CSE101""","""CSE102""",None,Monsoon/Winter,,,3
 86,"Systems Analysis, Design and Requirements Engineering",CSE5SD,SADRE,None,None,None,Winter,Rahul Mohananai,4,3
-87,Topics in Adaptive Cybersecurity,CSE5TAC,TAC,CSE345/CSE545 or CSE350/CSE550,None,None,Monsoon,,4,3
+87,Topics in Adaptive Cybersecurity,CSE5TAC,TAC,CSE345/CSE545,None,None,Monsoon,,4,3
 88,Object Oriented Programming and Design,CSE600A/ECE600A,OOPD,None,"""CSE101, CSE102""",None,Monsoon,Naveen Prakash,2,3
 89,Data Warehouse,CSE606,DW,"""CSE202""",None,None,Winter,Naveen Prakash,4,3
 90,Statistical Computation,CSE609,SComp,MTH201,None,None,Monsoon,,4,3
@@ -169,7 +169,7 @@ Serial Number,Course Name,Course Code,Course Acronym,Prerequisites,Preferable Pr
 168,Market Design,ECO313,MD,ECO311,None,None,Winter,,4,6
 169,Econometrics I,ECO321,ECO,"""MTH201""",None,"""ECO302""",Monsoon,Gaurav Arora,4,6
 170,Foundations of Finance,ECO331,FF,None,None,"""FIN401""",Monsoon,Pankaj Vajpayee,4,6
-171,Valuation and Portfolio Management,ECO332,VPM,ECO331 or FIN401,None,None,Winter,Pankaj Vajpayee,4,6
+171,Valuation and Portfolio Management,ECO332,VPM,ECO331,None,None,Winter,Pankaj Vajpayee,4,6
 172,Decision Theory,ECO503,DT,None,None,None,Monsoon,Rakesh Chathurvedi,4,6
 173,Research Methods,ENG599s,RM,None,None,None,Winter,Angshul Majumdar,2,7
 174,Starting an Entrepreneurial Venture,ENT402,SEntV,None,None,None,Winter,,4,8

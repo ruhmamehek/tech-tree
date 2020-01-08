@@ -113,6 +113,9 @@
 		{% with messages = get_flashed_messages() %}
 		  {% if messages %}
 			<ul class=flashes>
+        {% if messages[0]=="error" %}
+        <h3>ERROR</h3>
+        {% endif %}
 			{% for message in messages %}
 			  <li>{{ message }}</li>
 			{% endfor %}

@@ -7,14 +7,14 @@ def check_csv_format():
 	csvFilePath = "./temp/Courses.csv"
 	data = pd.read_csv(csvFilePath) 
 	error_flag = False
-	display_message = ""
+	display_messages = []
 	with open (csvFilePath) as csvFile:
 		csvReader = csv.DictReader(csvFile)
 		#check validity of course code
 		for item in data["Course Code"]:
 			if len(item)<3:
 				print("Invalid Course Code", item)
-				display_message+="Invalid Course Code "+item+"<br>"
+				display_messages.append("Invalid Course Code: "+item)
 				error_flag = True
 			else:
 				item=item.replace(" ", "")
@@ -22,7 +22,7 @@ def check_csv_format():
 				for cc in course_codes:
 					if (cc[0].istitle() and cc[1].istitle() and cc[0].istitle())==False:
 						print("First 3 letters should be capitalised ", cc)
-						display_message+="First 3 letters should be capitalised "+cc+"<br>"
+						display_messages.append("First 3 letters should be capitalised: "+cc)
 						error_flag = True
 		# #check validity of Semester
 		# for item in data["Semester"]:
@@ -48,7 +48,7 @@ def check_csv_format():
 				if item!='None' and len(item)!=0:
 					if item not in data["Course Code"].values:
 						print("Invalid Prerequisite, ", item)
-						display_message+="Invalid Prerequisite "+item+"<br>"
+						display_messages.append("Invalid Prerequisite: "+item)
 						error_flag = True
 
 			#checking multiple prerequisites are enclosed within inverted commass
@@ -56,10 +56,8 @@ def check_csv_format():
 				if prereqs.count(",")>0:
 					if prereqs.count("\"")!=2:
 						print("Multiple Prerequisites to be enclosed in double inverted commas")
-						display_message+="Multiple Prerequisites to be enclosed in double inverted commas "+item+"<br>"
+						display_messages.append("Multiple Prerequisites to be enclosed in double inverted commas: "+item)
 						error_flag = True
 	if(error_flag==False):
-		display_message = "<h3>Uploaded Successfully</h3> <br> Checked file format. <br> CSV successfully uploaded."
-	else:
-		display_message = "<h3>Error: Incorrect CSV format :( </h3> <br>"+display_message
-	return([error_flag, display_message])
+		display_messages = ["Uploaded Successfully"]
+	return([error_flag,display_messages])

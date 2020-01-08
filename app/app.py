@@ -80,7 +80,8 @@ def upload_csv_file():
 					os.system('mv ./temp/Courses.csv ./static/')
 					generate_tableJson();
 					generate_graphJson();
-				flash(result[1])
+				for i in range(0,len(result[1])):
+					flash(result[1][i])
 			else:
 				flash("Incorrect file extension. Only CSV file can be uploaded.")
 		return redirect(url_for('render_csv_upload_page'))
