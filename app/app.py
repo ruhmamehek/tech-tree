@@ -33,6 +33,10 @@ def allowed_pdf_file(filename):
 def tech_table():
 	return render_template('index.html')
 
+@app.route('/demo')
+def render_bleh():
+	return(render_template('demo.html'))
+
 @app.route('/testing')
 def render_cise():
 	return render_template('demo_cise.html')
