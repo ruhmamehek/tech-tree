@@ -10,8 +10,10 @@
       <script src="https://cdn.datatables.net/1.10.12/js/dataTables.bootstrap.min.js"></script>  
       <link rel="stylesheet" href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css" />
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+      <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script>
       <style>
     /* Styling for datatable */
+    .pdfobject-container { height: 100vh; border: 1rem solid rgba(0,0,0,.1); }
     .box
     {
      max-width:500px;
@@ -80,17 +82,12 @@
       <a href="{{ url_for('tech_table') }}">Course Directory</a>
       <a href="https://iiitd.ac.in/contact">Contact</a>
     </div>
-		<object data='{{ url_for( 'static', filename=pdf) }}' type="application/pdf" style="min-height:100vh;width:100%">
-	  		<iframe src='{{ url_for( 'static', filename=pdf) }}' style="position:absolute;right:0; top:0; bottom:0; width:100%;">
-	    		<p>Your browser does not support PDFs.
-	      			<a href='{{ url_for( 'static', filename=pdf) }}'>Download the PDF here</a>.
-	      		</p>
-	  		</iframe>
-		</object>
+	<div id="Description"></div>
 		<div class="footer">
         <div class="container">
           Copyright &copy; 2019 IIITD <a href="{{ url_for('render_credits') }}" align="center">Credits</a>
           </div>
     </div>
 	</body>
+  <script>PDFObject.embed("{{ url_for( 'static', filename=pdf) }}", "#Description");</script>
 </html>

@@ -20,7 +20,7 @@
      width:100%;
      margin: 0 auto;;
     }
-    html {
+     html {
         position: relative;
         min-height: 100%;
       }
@@ -88,8 +88,10 @@
      <br />
      <h2 align="center">Course Table</h2>
      <br />
-      <div style="clear:both"></div>
-      <div class="table-responsive">
+    
+    <div id = "departments"></div>
+    <div style="clear:both"></div>
+    <div class="table-responsive">
     <table class="table table-striped table-bordered" id="data-table">
      <thead>
       <tr>
@@ -117,7 +119,6 @@ $(document).ready(function(){
   // checks if the CSV file was loaded correctly
     var visible = false;
   //Check to see if the window is top if not then display button
-
   $(window).scroll(function() {
     var scrollTop = $(this).scrollTop();
     if (!visible && scrollTop > 100) {
@@ -136,22 +137,21 @@ $(document).ready(function(){
     return false;
   });
 
-  $('#data-table').DataTable({
+  var courseTable = $('#data-table').DataTable({
     "ajax": '{{ url_for( 'static' , filename='Courses.json') }}',
     "fixedHeader": {
       header: true,
       headerOffset: -6
     },
     "paging": false,
-    "searching": true,
     "sScrollX": "100%",
     "columns" :  [
       { "targets": 0,
         data: "Course Name",
         "render": function (data, type, row, meta) {
         var cname=data.substring(0,data.indexOf("#"));
-        var link=data.substring(data.indexOf("#")+1);
-        return '<a href="'+link+'" rel="noopener noreferrer" target="_blank">'+cname+'</a>';}
+        var link=data.substring(data.indexOf("#")+49);
+        return '<a href="https://techtree-testing.herokuapp.com/viewDescription/filename?='+link+'" rel="noopener noreferrer" target="_blank">'+cname+'</a>';}
         // Hyperlinking the course name with the drive link
       },
       { data : "Course Acronym" },
@@ -179,10 +179,10 @@ $(document).ready(function(){
               var link = array[index];
             }
             else{var link = array[index].substring(0, array[index].indexOf("/"));}  
-            final+='<a href="http://127.0.0.1:5000/viewDescription/filename?='+link+'" rel="noopener noreferrer" target="_blank">'+array[index]+'</a>';
+            final+='<a href="https://techtree-testing.herokuapp.com/viewDescription/filename?='+link+'" rel="noopener noreferrer" target="_blank">'+array[index]+'</a>';
             if (index<delimiters.length)
             {
-              if(delimiters[index]=="or")
+             if(delimiters[index]=="or")
               {
                 final+= " "+delimiters[index]+" ";
               }
@@ -223,7 +223,7 @@ $(document).ready(function(){
             }
             else{var link = array[index].substring(0, array[index].indexOf("/"));}
             
-            final+='<a href="http://127.0.0.1:5000/viewDescription/filename?='+link+'" rel="noopener noreferrer" target="_blank">'+array[index]+'</a>';
+            final+='<a href="https://techtree-testing.herokuapp.com/viewDescription/filename?='+link+'" rel="noopener noreferrer" target="_blank">'+array[index]+'</a>';
             if (index<delimiters.length)
             {
              if(delimiters[index]=="or")
@@ -248,5 +248,20 @@ $(document).ready(function(){
 
      ]
   });
+
+  var departments = ["CSE", "ECE", "MTH", "BIO", "DES", "SSH", "OTHERS"];
+  
+  var checkboxes = departments.reduce((html, item) => html += `<input type="checkbox" value="${item}" class="filter"><b>${" "+item}</b></input> &nbsp &nbsp`,'');
+  $(checkboxes).insertBefore($('#departments'));
+  
+  //employ $.fn.DataTable.ext.search
+  var lookupValues = [];
+  $.fn.DataTable.ext.search.push((settings, row, index, rowObj) => lookupValues.indexOf(rowObj.Cluster) > -1 || lookupValues.length == 0);
+  //watch checkboxes and redraw table on change accordingly
+  $(".filter").on('change', () => {
+    lookupValues = [...$('.filter:checked')].map(checkbox => $(checkbox).val());
+    courseTable.draw();
+  });
+
 });
 </script>

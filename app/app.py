@@ -23,6 +23,18 @@ ALLOWED_FILE_UPLOAD_EXTENSIONS = set(['csv'])
 ALLOWED_PDF_UPLOAD_EXTENSIONS = set(['pdf'])
 ADMIN_LOGGED_IN = True
 
+@app.after_request
+def add_header(r):
+    """
+    Add headers to both force latest IE rendering engine or Chrome Frame,
+    and also to cache the rendered page for 10 minutes.
+    """
+    r.headers["Cache-Control"] = "no-cache, no-store, must-revalidate"
+    r.headers["Pragma"] = "no-cache"
+    r.headers["Expires"] = "0"
+    r.headers['Cache-Control'] = 'public, max-age=0'
+    return r
+
 def allowed_csv_file(filename):
 	return '.' in filename and filename.rsplit('.', 1)[1].lower() in ALLOWED_FILE_UPLOAD_EXTENSIONS
 
@@ -32,10 +44,10 @@ def allowed_pdf_file(filename):
 @app.route('/')
 def tech_table():
 	return render_template('index.html')
-
-@app.route('/demo')
-def render_bleh():
-	return(render_template('demo.html'))
+	
+@app.route('/dsa')
+def magic():
+	return render_template('test.html')
 
 @app.route('/testing')
 def render_cise():

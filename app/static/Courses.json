@@ -10,7 +10,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO101"
     },
     {
@@ -24,7 +24,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO213"
     },
     {
@@ -36,27 +36,13 @@
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
-        "Professor": "Vibhor Kumar",
+        "Professor": "Gaurav Ahuja",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO2GMB"
     },
     {
         "Serial Number": "4",
-        "Course Name": "System Biology#http://127.0.0.1:5000/viewDescription/filename?=BIO301",
-        "Course Code": "BIO301/BIO501",
-        "Course Acronym": "SB",
-        "Prerequisites": "None",
-        "Preferable Prerequisites": "None",
-        "Antirequisites": "None",
-        "Semester": "Winter",
-        "Professor": "",
-        "Credits": "4",
-        "Cluster": "1",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO301"
-    },
-    {
-        "Serial Number": "5",
         "Course Name": "Cell Biology and Bio-Chemistry#http://127.0.0.1:5000/viewDescription/filename?=BIO501",
         "Course Code": "BIO501",
         "Course Acronym": "CBB",
@@ -64,13 +50,13 @@
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
-        "Professor": "Sriram K",
+        "Professor": "Arjun Ray",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO501"
     },
     {
-        "Serial Number": "6",
+        "Serial Number": "5",
         "Course Name": "Stochastic Simulations in Systems Biology and Biophysics#http://127.0.0.1:5000/viewDescription/filename?=BIO506",
         "Course Code": "BIO506",
         "Course Acronym": "SSSBB",
@@ -80,11 +66,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO506"
     },
     {
-        "Serial Number": "7",
+        "Serial Number": "6",
         "Course Name": "Foundations of Modern Biology#http://127.0.0.1:5000/viewDescription/filename?=BIO512",
         "Course Code": "BIO512",
         "Course Acronym": "FOMB",
@@ -94,11 +80,11 @@
         "Semester": "Monsoon",
         "Professor": "Vibhor Kumar",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO512"
     },
     {
-        "Serial Number": "8",
+        "Serial Number": "7",
         "Course Name": "Practical Bioinformatics#http://127.0.0.1:5000/viewDescription/filename?=BIO521",
         "Course Code": "BIO521",
         "Course Acronym": "PB",
@@ -108,11 +94,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO521"
     },
     {
-        "Serial Number": "9",
+        "Serial Number": "8",
         "Course Name": "Algorithms in Computational Biology#http://127.0.0.1:5000/viewDescription/filename?=BIO522",
         "Course Code": "BIO522",
         "Course Acronym": "ACB",
@@ -122,11 +108,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO522"
     },
     {
-        "Serial Number": "10",
+        "Serial Number": "9",
         "Course Name": "Chemoinformatics#http://127.0.0.1:5000/viewDescription/filename?=BIO523",
         "Course Code": "BIO523",
         "Course Acronym": "ChemInfo",
@@ -136,25 +122,25 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO523"
     },
     {
-        "Serial Number": "11",
+        "Serial Number": "10",
         "Course Name": "Introduction to Mathematical Biology#http://127.0.0.1:5000/viewDescription/filename?=BIO531",
         "Course Code": "BIO531",
         "Course Acronym": "IMB",
-        "Prerequisites": "None",
+        "Prerequisites": "MTH100",
         "Preferable Prerequisites": "Molecular biology and biochemistry, cell biology",
         "Antirequisites": "BIO303/BIO503",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO531"
     },
     {
-        "Serial Number": "12",
+        "Serial Number": "11",
         "Course Name": "Network Biology#http://127.0.0.1:5000/viewDescription/filename?=BIO532",
         "Course Code": "BIO532",
         "Course Acronym": "NB",
@@ -164,11 +150,11 @@
         "Semester": "Monsoon",
         "Professor": "Ganesh Bagler",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO532"
     },
     {
-        "Serial Number": "13",
+        "Serial Number": "12",
         "Course Name": "Systems and Synthetic Biology#http://127.0.0.1:5000/viewDescription/filename?=BIO533",
         "Course Code": "BIO533",
         "Course Acronym": "S&SB",
@@ -178,11 +164,11 @@
         "Semester": "Winter",
         "Professor": "Sriram K",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO533"
     },
     {
-        "Serial Number": "14",
+        "Serial Number": "13",
         "Course Name": "Introduction to Computational Neuroscience#http://127.0.0.1:5000/viewDescription/filename?=BIO534",
         "Course Code": "BIO534",
         "Course Acronym": "ICN",
@@ -192,11 +178,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO534"
     },
     {
-        "Serial Number": "15",
+        "Serial Number": "14",
         "Course Name": "Data Sciences and Genomics#http://127.0.0.1:5000/viewDescription/filename?=BIO541",
         "Course Code": "BIO541",
         "Course Acronym": "DSG",
@@ -206,11 +192,11 @@
         "Semester": "Winter",
         "Professor": "Vibhor Kumar",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO541"
     },
     {
-        "Serial Number": "16",
+        "Serial Number": "15",
         "Course Name": "Machine Learning and Biomedical Applications#http://127.0.0.1:5000/viewDescription/filename?=BIO542",
         "Course Code": "BIO542",
         "Course Acronym": "MLBA",
@@ -220,11 +206,11 @@
         "Semester": "Monsoon",
         "Professor": "GPS Raghava",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO542"
     },
     {
-        "Serial Number": "17",
+        "Serial Number": "16",
         "Course Name": "Big Data Mining in Healthcare#http://127.0.0.1:5000/viewDescription/filename?=BIO543",
         "Course Code": "BIO543",
         "Course Acronym": "BDMH",
@@ -234,11 +220,53 @@
         "Semester": "Winter",
         "Professor": "GPS Raghava",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO543"
     },
     {
+        "Serial Number": "17",
+        "Course Name": "Computational Gastronomy#http://127.0.0.1:5000/viewDescription/filename?=BIO544",
+        "Course Code": "BIO544",
+        "Course Acronym": "CG",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "A good command on programming (Python) and data analysis. Exposure to statistical analysis, data visualization, machine learning and natural language processing.",
+        "Antirequisites": "None",
+        "Semester": "Monsoon",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "BIO",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO544"
+    },
+    {
         "Serial Number": "18",
+        "Course Name": "Biostatistics#http://127.0.0.1:5000/viewDescription/filename?=BIO545",
+        "Course Code": "BIO545",
+        "Course Acronym": "BioStats",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "Basic Biology Knowledge",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "BIO",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO545"
+    },
+    {
+        "Serial Number": "19",
+        "Course Name": "Computer Aided Drug Design#http://127.0.0.1:5000/viewDescription/filename?=BIO561",
+        "Course Code": "BIO561",
+        "Course Acronym": "CADD",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "Basic knowledge of biology, chemistry, physics and python",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "BIO",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO561"
+    },
+    {
+        "Serial Number": "20",
         "Course Name": "Network Science#http://127.0.0.1:5000/viewDescription/filename?=BIO571",
         "Course Code": "BIO571",
         "Course Acronym": "NS",
@@ -248,11 +276,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "1",
+        "Cluster": "BIO",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=BIO571"
     },
     {
-        "Serial Number": "19",
+        "Serial Number": "21",
         "Course Name": "Communication Skills#http://127.0.0.1:5000/viewDescription/filename?=COM101",
         "Course Code": "COM101",
         "Course Acronym": "COM",
@@ -260,13 +288,13 @@
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
-        "Professor": "",
+        "Professor": "\"Payel C Mukherjee, Rekha Shorey, Honey Jhalani, Utkrishti Taneja, Syeda Asia, Deepti Sharma, Devika N\"",
         "Credits": "4",
-        "Cluster": "2",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=COM101"
     },
     {
-        "Serial Number": "20",
+        "Serial Number": "22",
         "Course Name": "Technical Communication#http://127.0.0.1:5000/viewDescription/filename?=COM301A",
         "Course Code": "COM301A",
         "Course Acronym": "TCOM",
@@ -276,11 +304,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "2",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=COM301A"
     },
     {
-        "Serial Number": "21",
+        "Serial Number": "23",
         "Course Name": "Introduction to Programming#http://127.0.0.1:5000/viewDescription/filename?=CSE101",
         "Course Code": "CSE101",
         "Course Acronym": "IP",
@@ -290,11 +318,11 @@
         "Semester": "Monsoon",
         "Professor": "\"Vikram Goyal, V Raghava Mutharaju\"",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE101"
     },
     {
-        "Serial Number": "22",
+        "Serial Number": "24",
         "Course Name": "Data Structures & Algorithms#http://127.0.0.1:5000/viewDescription/filename?=CSE102",
         "Course Code": "CSE102",
         "Course Acronym": "DSA",
@@ -304,11 +332,11 @@
         "Semester": "Winter",
         "Professor": "Rahul Purandare, Arun Balaji",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE102"
     },
     {
-        "Serial Number": "23",
+        "Serial Number": "25",
         "Course Name": "Computer Organization#http://127.0.0.1:5000/viewDescription/filename?=CSE112",
         "Course Code": "CSE112",
         "Course Acronym": "CO",
@@ -318,11 +346,11 @@
         "Semester": "Monsoon",
         "Professor": "Naveen Prakash(V)",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE112"
     },
     {
-        "Serial Number": "24",
+        "Serial Number": "26",
         "Course Name": "Discrete Mathematics#http://127.0.0.1:5000/viewDescription/filename?=CSE121",
         "Course Code": "CSE121",
         "Course Acronym": "DM",
@@ -332,11 +360,11 @@
         "Semester": "Monsoon",
         "Professor": "Samrith Ram",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE121"
     },
     {
-        "Serial Number": "25",
+        "Serial Number": "27",
         "Course Name": "Systems Management#http://127.0.0.1:5000/viewDescription/filename?=CSE131",
         "Course Code": "CSE131",
         "Course Acronym": "SM",
@@ -346,11 +374,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE131"
     },
     {
-        "Serial Number": "26",
+        "Serial Number": "28",
         "Course Name": "Advanced Programming#http://127.0.0.1:5000/viewDescription/filename?=CSE201",
         "Course Code": "CSE201",
         "Course Acronym": "AP",
@@ -360,11 +388,11 @@
         "Semester": "Monsoon",
         "Professor": "Vivek Kumar",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE201"
     },
     {
-        "Serial Number": "27",
+        "Serial Number": "29",
         "Course Name": "Fundamentals of Database Management System#http://127.0.0.1:5000/viewDescription/filename?=CSE202",
         "Course Code": "CSE202",
         "Course Acronym": "DBMS",
@@ -374,11 +402,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE202"
     },
     {
-        "Serial Number": "28",
+        "Serial Number": "30",
         "Course Name": "Algorithm Design and Analysis#http://127.0.0.1:5000/viewDescription/filename?=CSE222",
         "Course Code": "CSE222",
         "Course Acronym": "ADA",
@@ -388,25 +416,11 @@
         "Semester": "Winter",
         "Professor": "Rajiv Raman",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE222"
     },
     {
-        "Serial Number": "29",
-        "Course Name": "System Administration#http://127.0.0.1:5000/viewDescription/filename?=CSE230",
-        "Course Code": "CSE230",
-        "Course Acronym": "SA",
-        "Prerequisites": "CSE131",
-        "Preferable Prerequisites": "None",
-        "Antirequisites": "None",
-        "Semester": "Monsoon",
-        "Professor": "",
-        "Credits": "2",
-        "Cluster": "3",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE230"
-    },
-    {
-        "Serial Number": "30",
+        "Serial Number": "31",
         "Course Name": "Operating Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE231",
         "Course Code": "CSE231",
         "Course Acronym": "OS",
@@ -416,11 +430,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE231"
     },
     {
-        "Serial Number": "31",
+        "Serial Number": "32",
         "Course Name": "Computer Networks#http://127.0.0.1:5000/viewDescription/filename?=CSE232",
         "Course Code": "CSE232",
         "Course Acronym": "CN",
@@ -430,11 +444,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE232"
     },
     {
-        "Serial Number": "32",
+        "Serial Number": "33",
         "Course Name": "Network Administration#http://127.0.0.1:5000/viewDescription/filename?=CSE233",
         "Course Code": "CSE233",
         "Course Acronym": "NAdmn",
@@ -444,11 +458,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE233"
     },
     {
-        "Serial Number": "33",
+        "Serial Number": "34",
         "Course Name": "Computer Architecture and Operating Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE234",
         "Course Code": "CSE234",
         "Course Acronym": "CAOS",
@@ -458,22 +472,8 @@
         "Semester": "Monsoon/Winter",
         "Professor": "Sambuddho Chakravarty",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE234"
-    },
-    {
-        "Serial Number": "34",
-        "Course Name": "Software Engineering#http://127.0.0.1:5000/viewDescription/filename?=CSE300",
-        "Course Code": "CSE300",
-        "Course Acronym": "SE",
-        "Prerequisites": "None",
-        "Preferable Prerequisites": "None",
-        "Antirequisites": "None",
-        "Semester": "Monsoon",
-        "Professor": "",
-        "Credits": "4",
-        "Cluster": "3",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE300"
     },
     {
         "Serial Number": "35",
@@ -486,39 +486,11 @@
         "Semester": "Monsoon",
         "Professor": "Piyus Kedia",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE301"
     },
     {
         "Serial Number": "36",
-        "Course Name": "Practice of Programming#http://127.0.0.1:5000/viewDescription/filename?=CSE304",
-        "Course Code": "CSE304",
-        "Course Acronym": "PP",
-        "Prerequisites": "None",
-        "Preferable Prerequisites": "None",
-        "Antirequisites": "None",
-        "Semester": "Winter",
-        "Professor": "",
-        "Credits": "",
-        "Cluster": "3",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE304"
-    },
-    {
-        "Serial Number": "37",
-        "Course Name": "Sensing Systems and Data Analytics in Building Energy Management#http://127.0.0.1:5000/viewDescription/filename?=CSE312",
-        "Course Code": "CSE312",
-        "Course Acronym": "SS&DABEM",
-        "Prerequisites": "None",
-        "Preferable Prerequisites": "None",
-        "Antirequisites": "None",
-        "Semester": "Winter",
-        "Professor": "",
-        "Credits": "4",
-        "Cluster": "3",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE312"
-    },
-    {
-        "Serial Number": "38",
         "Course Name": "Modern Algorithm Design#http://127.0.0.1:5000/viewDescription/filename?=CSE319",
         "Course Code": "CSE319/CSE519",
         "Course Acronym": "MAD",
@@ -528,11 +500,11 @@
         "Semester": "Monsoon",
         "Professor": "Syamantak Das",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE319"
     },
     {
-        "Serial Number": "39",
+        "Serial Number": "37",
         "Course Name": "Advanced Algorithms#http://127.0.0.1:5000/viewDescription/filename?=CSE320",
         "Course Code": "CSE320/CSE520",
         "Course Acronym": "AA",
@@ -542,11 +514,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE320"
     },
     {
-        "Serial Number": "40",
+        "Serial Number": "38",
         "Course Name": "Theory of Computation#http://127.0.0.1:5000/viewDescription/filename?=CSE322",
         "Course Code": "CSE322",
         "Course Acronym": "ToC",
@@ -556,11 +528,11 @@
         "Semester": "Winter",
         "Professor": "Debajyoti Bera",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE322"
     },
     {
-        "Serial Number": "41",
+        "Serial Number": "39",
         "Course Name": "Computer Graphics#http://127.0.0.1:5000/viewDescription/filename?=CSE333",
         "Course Code": "CSE333/CSE533",
         "Course Acronym": "CG",
@@ -570,11 +542,11 @@
         "Semester": "Monsoon",
         "Professor": "Ojaswa Sharma",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE333"
     },
     {
-        "Serial Number": "42",
+        "Serial Number": "40",
         "Course Name": "Statistical Machine Learning#http://127.0.0.1:5000/viewDescription/filename?=CSE342",
         "Course Code": "CSE342/CSE542",
         "Course Acronym": "SML",
@@ -584,11 +556,11 @@
         "Semester": "Winter",
         "Professor": "Richa Singh",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE342"
     },
     {
-        "Serial Number": "43",
+        "Serial Number": "41",
         "Course Name": "Machine Learning#http://127.0.0.1:5000/viewDescription/filename?=CSE343",
         "Course Code": "CSE343/CSE543",
         "Course Acronym": "ML",
@@ -598,11 +570,11 @@
         "Semester": "Monsoon",
         "Professor": "Saket Anand",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE343"
     },
     {
-        "Serial Number": "44",
+        "Serial Number": "42",
         "Course Name": "Computer Vision#http://127.0.0.1:5000/viewDescription/filename?=CSE344",
         "Course Code": "CSE344/CSE544/ECE344/ECE544",
         "Course Acronym": "CV",
@@ -612,11 +584,11 @@
         "Semester": "Winter",
         "Professor": "Saket Anand",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE344"
     },
     {
-        "Serial Number": "45",
+        "Serial Number": "43",
         "Course Name": "Foundations of Computer Security#http://127.0.0.1:5000/viewDescription/filename?=CSE345",
         "Course Code": "CSE345/CSE545",
         "Course Acronym": "FCS",
@@ -626,11 +598,11 @@
         "Semester": "Monsoon",
         "Professor": "Arun Balaji",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE345"
     },
     {
-        "Serial Number": "46",
+        "Serial Number": "44",
         "Course Name": "Complexity Theory#http://127.0.0.1:5000/viewDescription/filename?=CSE421",
         "Course Code": "CSE421/CSE621",
         "Course Acronym": "CT",
@@ -640,12 +612,12 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE421"
     },
     {
-        "Serial Number": "47",
-        "Course Name": "Intelligent Systems 1#http://127.0.0.1:5000/viewDescription/filename?=CSE440",
+        "Serial Number": "45",
+        "Course Name": "Introduction to Intelligent Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE440",
         "Course Code": "CSE440",
         "Course Acronym": "IS-I",
         "Prerequisites": "None",
@@ -654,11 +626,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE440"
     },
     {
-        "Serial Number": "48",
+        "Serial Number": "46",
         "Course Name": "Advanced Biometrics#http://127.0.0.1:5000/viewDescription/filename?=CSE441",
         "Course Code": "CSE441/CSE541",
         "Course Acronym": "BIOM",
@@ -668,11 +640,11 @@
         "Semester": "Winter",
         "Professor": "Mayank Vatsa",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE441"
     },
     {
-        "Serial Number": "49",
+        "Serial Number": "47",
         "Course Name": "Designing Human Centered Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE501",
         "Course Code": "CSE501",
         "Course Acronym": "DHCS",
@@ -682,11 +654,11 @@
         "Semester": "Monsoon",
         "Professor": "Ponnurangam Kumaraguru",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE501"
     },
     {
-        "Serial Number": "50",
+        "Serial Number": "48",
         "Course Name": "Foundations of Parallel Programming#http://127.0.0.1:5000/viewDescription/filename?=CSE502",
         "Course Code": "CSE502",
         "Course Acronym": "FPP",
@@ -696,11 +668,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE502"
     },
     {
-        "Serial Number": "51",
+        "Serial Number": "49",
         "Course Name": "Program Analysis#http://127.0.0.1:5000/viewDescription/filename?=CSE503",
         "Course Code": "CSE503",
         "Course Acronym": "PA",
@@ -710,11 +682,11 @@
         "Semester": "Monsoon",
         "Professor": "Rahul Purandare",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE503"
     },
     {
-        "Serial Number": "52",
+        "Serial Number": "50",
         "Course Name": "Data Mining#http://127.0.0.1:5000/viewDescription/filename?=CSE506",
         "Course Code": "CSE506",
         "Course Acronym": "DMG",
@@ -724,11 +696,11 @@
         "Semester": "Monsoon",
         "Professor": "Vikram Goyal",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE506"
     },
     {
-        "Serial Number": "53",
+        "Serial Number": "51",
         "Course Name": "Database System Implementation#http://127.0.0.1:5000/viewDescription/filename?=CSE507",
         "Course Code": "CSE507",
         "Course Acronym": "DBSI",
@@ -738,11 +710,11 @@
         "Semester": "Monsoon/Winter",
         "Professor": "Viswanath Gunturi",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE507"
     },
     {
-        "Serial Number": "54",
+        "Serial Number": "52",
         "Course Name": "Information Retrieval#http://127.0.0.1:5000/viewDescription/filename?=CSE508",
         "Course Code": "CSE508",
         "Course Acronym": "IR",
@@ -752,11 +724,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE508"
     },
     {
-        "Serial Number": "55",
+        "Serial Number": "53",
         "Course Name": "Big Data Analytics#http://127.0.0.1:5000/viewDescription/filename?=CSE510",
         "Course Code": "CSE510",
         "Course Acronym": "BDA",
@@ -766,11 +738,11 @@
         "Semester": "Winter",
         "Professor": "Vikram Goyal",
         "Credits": "2",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE510"
     },
     {
-        "Serial Number": "56",
+        "Serial Number": "54",
         "Course Name": "Computer Architecture#http://127.0.0.1:5000/viewDescription/filename?=CSE511",
         "Course Code": "CSE511/ECE511",
         "Course Acronym": "CA",
@@ -780,11 +752,11 @@
         "Semester": "Monsoon",
         "Professor": "Sujay Deb",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE511"
     },
     {
-        "Serial Number": "57",
+        "Serial Number": "55",
         "Course Name": "Randomized Algorithms#http://127.0.0.1:5000/viewDescription/filename?=CSE523",
         "Course Code": "CSE523",
         "Course Acronym": "RA",
@@ -794,11 +766,11 @@
         "Semester": "Winter",
         "Professor": "Rajiv Raman",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE523"
     },
     {
-        "Serial Number": "58",
+        "Serial Number": "56",
         "Course Name": "Theory of Modern cryptography#http://127.0.0.1:5000/viewDescription/filename?=CSE524",
         "Course Code": "CSE524",
         "Course Acronym": "TMC",
@@ -808,11 +780,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE524"
     },
     {
-        "Serial Number": "59",
+        "Serial Number": "57",
         "Course Name": "Graduate Algorithms#http://127.0.0.1:5000/viewDescription/filename?=CSE525",
         "Course Code": "CSE525",
         "Course Acronym": "GA",
@@ -822,11 +794,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE525"
     },
     {
-        "Serial Number": "60",
+        "Serial Number": "58",
         "Course Name": "Convex Optimization#http://127.0.0.1:5000/viewDescription/filename?=CSE528",
         "Course Code": "CSE528/ECE528",
         "Course Acronym": "CO",
@@ -836,11 +808,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE528"
     },
     {
-        "Serial Number": "61",
+        "Serial Number": "59",
         "Course Name": "Approximation Algorithms#http://127.0.0.1:5000/viewDescription/filename?=CSE529",
         "Course Code": "CSE529",
         "Course Acronym": "AAG",
@@ -850,11 +822,11 @@
         "Semester": "Winter",
         "Professor": "Syamantak Das",
         "Credits": "*not found*",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE529"
     },
     {
-        "Serial Number": "62",
+        "Serial Number": "60",
         "Course Name": "Distributed Systems Security#http://127.0.0.1:5000/viewDescription/filename?=CSE530",
         "Course Code": "CSE530",
         "Course Acronym": "DSS",
@@ -864,11 +836,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE530"
     },
     {
-        "Serial Number": "63",
+        "Serial Number": "61",
         "Course Name": "Multi-Agent Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE531",
         "Course Code": "CSE531",
         "Course Acronym": "MAS",
@@ -878,11 +850,11 @@
         "Semester": "Monsoon/Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE531"
     },
     {
-        "Serial Number": "64",
+        "Serial Number": "62",
         "Course Name": "Mobile Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE535",
         "Course Code": "CSE535",
         "Course Acronym": "MC",
@@ -892,11 +864,11 @@
         "Semester": "Monsoon",
         "Professor": "Pushpendra Singh",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE535"
     },
     {
-        "Serial Number": "65",
+        "Serial Number": "63",
         "Course Name": "Wireless Networks#http://127.0.0.1:5000/viewDescription/filename?=CSE538",
         "Course Code": "CSE538/ECE538",
         "Course Acronym": "WN",
@@ -906,11 +878,11 @@
         "Semester": "Winter",
         "Professor": "Mukulika Maity",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE538"
     },
     {
-        "Serial Number": "66",
+        "Serial Number": "64",
         "Course Name": "Applied Cryptography#http://127.0.0.1:5000/viewDescription/filename?=CSE546",
         "Course Code": "CSE546",
         "Course Acronym": "AC",
@@ -920,11 +892,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE546"
     },
     {
-        "Serial Number": "67",
+        "Serial Number": "65",
         "Course Name": "Natural Language Processing#http://127.0.0.1:5000/viewDescription/filename?=CSE551",
         "Course Code": "CSE551",
         "Course Acronym": "NLP",
@@ -934,11 +906,11 @@
         "Semester": "Monsoon",
         "Professor": "Tanmoy Chakraborty",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE551"
     },
     {
-        "Serial Number": "68",
+        "Serial Number": "66",
         "Course Name": "Security Engineering#http://127.0.0.1:5000/viewDescription/filename?=CSE552",
         "Course Code": "CSE552",
         "Course Acronym": "SE",
@@ -948,11 +920,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE552"
     },
     {
-        "Serial Number": "69",
+        "Serial Number": "67",
         "Course Name": "Introduction to Spatial Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE555",
         "Course Code": "CSE555",
         "Course Acronym": "ISC",
@@ -962,11 +934,11 @@
         "Semester": "Monsoon",
         "Professor": "Vishwanath Gunturi",
         "Credits": "",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE555"
     },
     {
-        "Serial Number": "70",
+        "Serial Number": "68",
         "Course Name": "Data Science#http://127.0.0.1:5000/viewDescription/filename?=CSE558",
         "Course Code": "CSE558",
         "Course Acronym": "DS",
@@ -976,11 +948,11 @@
         "Semester": "Monsoon",
         "Professor": "Debarka Sengupta",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE558"
     },
     {
-        "Serial Number": "71",
+        "Serial Number": "69",
         "Course Name": "Mining Large Networks#http://127.0.0.1:5000/viewDescription/filename?=CSE559",
         "Course Code": "CSE559",
         "Course Acronym": "MLN",
@@ -990,11 +962,11 @@
         "Semester": "Monsoon",
         "Professor": "Tanmoy Chakraborty",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE559"
     },
     {
-        "Serial Number": "72",
+        "Serial Number": "70",
         "Course Name": "GPU Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE560",
         "Course Code": "CSE560",
         "Course Acronym": "GPU",
@@ -1004,11 +976,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE560"
     },
     {
-        "Serial Number": "73",
+        "Serial Number": "71",
         "Course Name": "Probabilistic Graphical Models#http://127.0.0.1:5000/viewDescription/filename?=CSE561",
         "Course Code": "CSE561",
         "Course Acronym": "PGM",
@@ -1018,11 +990,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE561"
     },
     {
-        "Serial Number": "74",
+        "Serial Number": "72",
         "Course Name": "Advanced Computer Vision#http://127.0.0.1:5000/viewDescription/filename?=CSE562",
         "Course Code": "CSE562",
         "Course Acronym": "ACV",
@@ -1032,11 +1004,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE562"
     },
     {
-        "Serial Number": "75",
+        "Serial Number": "73",
         "Course Name": "Multimedia Computing and Applications#http://127.0.0.1:5000/viewDescription/filename?=CSE563",
         "Course Code": "CSE563",
         "Course Acronym": "MCA",
@@ -1046,11 +1018,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE563"
     },
     {
-        "Serial Number": "76",
+        "Serial Number": "74",
         "Course Name": "Reinforcement Learning#http://127.0.0.1:5000/viewDescription/filename?=CSE564",
         "Course Code": "CSE564",
         "Course Acronym": "RL",
@@ -1060,11 +1032,11 @@
         "Semester": "Monsoon",
         "Professor": "Sanjit K Kaul",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE564"
     },
     {
-        "Serial Number": "77",
+        "Serial Number": "75",
         "Course Name": "Software Defined Networking#http://127.0.0.1:5000/viewDescription/filename?=CSE565",
         "Course Code": "CSE565",
         "Course Acronym": "SDN",
@@ -1074,11 +1046,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE565"
     },
     {
-        "Serial Number": "78",
+        "Serial Number": "76",
         "Course Name": "Virtual Reality#http://127.0.0.1:5000/viewDescription/filename?=CSE570",
         "Course Code": "CSE570",
         "Course Acronym": "VR",
@@ -1088,11 +1060,11 @@
         "Semester": "Winter",
         "Professor": "Ojaswa Sharma",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE570"
     },
     {
-        "Serial Number": "79",
+        "Serial Number": "77",
         "Course Name": "Introduction to Media Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE571",
         "Course Code": "CSE571",
         "Course Acronym": "IMC",
@@ -1102,11 +1074,11 @@
         "Semester": "Monsoon/Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE571"
     },
     {
-        "Serial Number": "80",
+        "Serial Number": "78",
         "Course Name": "Smart Sensing for Internet of Things (IoT)#http://127.0.0.1:5000/viewDescription/filename?=CSE576",
         "Course Code": "CSE576",
         "Course Acronym": "SSIoT",
@@ -1116,11 +1088,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE576"
     },
     {
-        "Serial Number": "81",
+        "Serial Number": "79",
         "Course Name": "Advanced Internet of Things#http://127.0.0.1:5000/viewDescription/filename?=CSE577",
         "Course Code": "CSE577",
         "Course Acronym": "AIOT",
@@ -1130,11 +1102,11 @@
         "Semester": "Winter",
         "Professor": "Juhi Ranjan",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE577"
     },
     {
-        "Serial Number": "82",
+        "Serial Number": "80",
         "Course Name": "Ontology Modeling#http://127.0.0.1:5000/viewDescription/filename?=CSE580A",
         "Course Code": "CSE580A",
         "Course Acronym": "OM",
@@ -1144,11 +1116,11 @@
         "Semester": "Monsoon/Winter",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE580A"
     },
     {
-        "Serial Number": "83",
+        "Serial Number": "81",
         "Course Name": "Software Production Evolution and Maintenance#http://127.0.0.1:5000/viewDescription/filename?=CSE582",
         "Course Code": "CSE582",
         "Course Acronym": "SPEM",
@@ -1158,11 +1130,11 @@
         "Semester": "Monsoon",
         "Professor": "Rahul Mohananai",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE582"
     },
     {
-        "Serial Number": "84",
+        "Serial Number": "82",
         "Course Name": "Affective Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE5AC",
         "Course Code": "CSE5AC",
         "Course Acronym": "AFC",
@@ -1172,11 +1144,11 @@
         "Semester": "Monsoon",
         "Professor": "Jainendra Shukla",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5AC"
     },
     {
-        "Serial Number": "85",
+        "Serial Number": "83",
         "Course Name": "Geometry Processing#http://127.0.0.1:5000/viewDescription/filename?=CSE5GP",
         "Course Code": "CSE5GP",
         "Course Acronym": "GP",
@@ -1186,11 +1158,11 @@
         "Semester": "Monsoon/Winter",
         "Professor": "",
         "Credits": "",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5GP"
     },
     {
-        "Serial Number": "86",
+        "Serial Number": "84",
         "Course Name": "Systems Analysis, Design and Requirements Engineering#http://127.0.0.1:5000/viewDescription/filename?=CSE5SD",
         "Course Code": "CSE5SD",
         "Course Acronym": "SADRE",
@@ -1200,11 +1172,25 @@
         "Semester": "Winter",
         "Professor": "Rahul Mohananai",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5SD"
     },
     {
-        "Serial Number": "87",
+        "Serial Number": "85",
+        "Course Name": "Social Robotics#http://127.0.0.1:5000/viewDescription/filename?=CSE5SR",
+        "Course Code": "CSE5SR",
+        "Course Acronym": "SR",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Jaitendra Shukla",
+        "Credits": "2",
+        "Cluster": "CSE",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5SR"
+    },
+    {
+        "Serial Number": "86",
         "Course Name": "Topics in Adaptive Cybersecurity#http://127.0.0.1:5000/viewDescription/filename?=CSE5TAC",
         "Course Code": "CSE5TAC",
         "Course Acronym": "TAC",
@@ -1214,11 +1200,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE5TAC"
     },
     {
-        "Serial Number": "88",
+        "Serial Number": "87",
         "Course Name": "Object Oriented Programming and Design#http://127.0.0.1:5000/viewDescription/filename?=CSE600A",
         "Course Code": "CSE600A/ECE600A",
         "Course Acronym": "OOPD",
@@ -1228,11 +1214,11 @@
         "Semester": "Monsoon",
         "Professor": "Naveen Prakash",
         "Credits": "2",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE600A"
     },
     {
-        "Serial Number": "89",
+        "Serial Number": "88",
         "Course Name": "Data Warehouse#http://127.0.0.1:5000/viewDescription/filename?=CSE606",
         "Course Code": "CSE606",
         "Course Acronym": "DW",
@@ -1242,11 +1228,11 @@
         "Semester": "Winter",
         "Professor": "Naveen Prakash",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE606"
     },
     {
-        "Serial Number": "90",
+        "Serial Number": "89",
         "Course Name": "Statistical Computation#http://127.0.0.1:5000/viewDescription/filename?=CSE609",
         "Course Code": "CSE609",
         "Course Acronym": "SComp",
@@ -1256,11 +1242,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE609"
     },
     {
-        "Serial Number": "91",
+        "Serial Number": "90",
         "Course Name": "Introduction to Quantum Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE622",
         "Course Code": "CSE622",
         "Course Acronym": "IQC",
@@ -1270,25 +1256,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE622"
     },
     {
-        "Serial Number": "92",
-        "Course Name": "Advanced Operating Systems#http://127.0.0.1:5000/viewDescription/filename?=CSE631",
-        "Course Code": "CSE631",
-        "Course Acronym": "AOS",
-        "Prerequisites": "None",
-        "Preferable Prerequisites": "None",
-        "Antirequisites": "None",
-        "Semester": "Winter",
-        "Professor": "Piyus Kedia",
-        "Credits": "4",
-        "Cluster": "3",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE631"
-    },
-    {
-        "Serial Number": "93",
+        "Serial Number": "91",
         "Course Name": "Semantic Web#http://127.0.0.1:5000/viewDescription/filename?=CSE632",
         "Course Code": "CSE632",
         "Course Acronym": "Sweb",
@@ -1298,11 +1270,11 @@
         "Semester": "Winter",
         "Professor": "Raghava Mutharaju",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE632"
     },
     {
-        "Serial Number": "94",
+        "Serial Number": "92",
         "Course Name": "Introduction to Robotics#http://127.0.0.1:5000/viewDescription/filename?=CSE633",
         "Course Code": "CSE633/ECE670",
         "Course Acronym": "IRob",
@@ -1312,11 +1284,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE633"
     },
     {
-        "Serial Number": "95",
+        "Serial Number": "93",
         "Course Name": "Communication Networks#http://127.0.0.1:5000/viewDescription/filename?=CSE636",
         "Course Code": "CSE636/ECE636",
         "Course Acronym": "CN",
@@ -1326,11 +1298,11 @@
         "Semester": "Winter",
         "Professor": "Sanjit Kaul",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE636"
     },
     {
-        "Serial Number": "96",
+        "Serial Number": "94",
         "Course Name": "Collaborative Filtering#http://127.0.0.1:5000/viewDescription/filename?=CSE640",
         "Course Code": "CSE640",
         "Course Acronym": "CF",
@@ -1340,11 +1312,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE640"
     },
     {
-        "Serial Number": "97",
+        "Serial Number": "95",
         "Course Name": "Deep Learning#http://127.0.0.1:5000/viewDescription/filename?=CSE641",
         "Course Code": "CSE641",
         "Course Acronym": "DL",
@@ -1354,11 +1326,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE641"
     },
     {
-        "Serial Number": "98",
+        "Serial Number": "96",
         "Course Name": "Advanced Machine Learning#http://127.0.0.1:5000/viewDescription/filename?=CSE642",
         "Course Code": "CSE642",
         "Course Acronym": "AML",
@@ -1368,11 +1340,11 @@
         "Semester": "Monsoon",
         "Professor": "Richa Singh",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE642"
     },
     {
-        "Serial Number": "99",
+        "Serial Number": "97",
         "Course Name": "Artificial Intelligence#http://127.0.0.1:5000/viewDescription/filename?=CSE643",
         "Course Code": "CSE643",
         "Course Acronym": "AI",
@@ -1382,11 +1354,25 @@
         "Semester": "Monsoon",
         "Professor": "Mayank Vatsa",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE643"
     },
     {
-        "Serial Number": "100",
+        "Serial Number": "98",
+        "Course Name": "Privacy and Security in Online Social Media#http://127.0.0.1:5000/viewDescription/filename?=CSE645",
+        "Course Code": "CSE645",
+        "Course Acronym": "PSOSM",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Ponnurangam Kumaraguru",
+        "Credits": "4",
+        "Cluster": "CSE",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE645"
+    },
+    {
+        "Serial Number": "99",
         "Course Name": "Multimedia Security#http://127.0.0.1:5000/viewDescription/filename?=CSE694F",
         "Course Code": "CSE694F/ECE651",
         "Course Acronym": "MS",
@@ -1396,11 +1382,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE694F"
     },
     {
-        "Serial Number": "101",
+        "Serial Number": "100",
         "Course Name": "Advanced Topics in Mobile Computing#http://127.0.0.1:5000/viewDescription/filename?=CSE734",
         "Course Code": "CSE734",
         "Course Acronym": "ATMC",
@@ -1410,11 +1396,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE734"
     },
     {
-        "Serial Number": "102",
+        "Serial Number": "101",
         "Course Name": "Network Anonymity and Privacy#http://127.0.0.1:5000/viewDescription/filename?=CSE749",
         "Course Code": "CSE749",
         "Course Acronym": "NAP",
@@ -1424,11 +1410,11 @@
         "Semester": "Monsoon",
         "Professor": "Sambuddho Chakravarty",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE749"
     },
     {
-        "Serial Number": "103",
+        "Serial Number": "102",
         "Course Name": "Topics in Cryptanalysis#http://127.0.0.1:5000/viewDescription/filename?=CSE793A",
         "Course Code": "CSE793A",
         "Course Acronym": "TC",
@@ -1438,11 +1424,11 @@
         "Semester": "Winter",
         "Professor": "Donghoon Chand",
         "Credits": "4",
-        "Cluster": "3",
+        "Cluster": "CSE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=CSE793A"
     },
     {
-        "Serial Number": "104",
+        "Serial Number": "103",
         "Course Name": "Design Drawing & Visualization#http://127.0.0.1:5000/viewDescription/filename?=DES101",
         "Course Code": "DES101",
         "Course Acronym": "DDV",
@@ -1452,25 +1438,25 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES101"
     },
     {
-        "Serial Number": "105",
-        "Course Name": "Introduction to Engineering Design#http://127.0.0.1:5000/viewDescription/filename?=DES130",
+        "Serial Number": "104",
+        "Course Name": "Prototyping Interactive Systems#http://127.0.0.1:5000/viewDescription/filename?=DES130",
         "Course Code": "DES130",
-        "Course Acronym": "IED",
+        "Course Acronym": "PIS",
         "Prerequisites": "CSE101,ECE111,CSE131",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
-        "Semester": "Winter",
-        "Professor": "",
+        "Semester": "Monsoon",
+        "Professor": "Aman Parnami",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES130"
     },
     {
-        "Serial Number": "106",
+        "Serial Number": "105",
         "Course Name": "Design Processes and Perspectives#http://127.0.0.1:5000/viewDescription/filename?=DES201",
         "Course Code": "DES201",
         "Course Acronym": "DPP",
@@ -1480,11 +1466,11 @@
         "Semester": "Monsoon",
         "Professor": "\"Indrani De Parker, Vibha Narula Gupta\"",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES201"
     },
     {
-        "Serial Number": "107",
+        "Serial Number": "106",
         "Course Name": "Visual Design & Communication#http://127.0.0.1:5000/viewDescription/filename?=DES202",
         "Course Code": "DES202",
         "Course Acronym": "VDC",
@@ -1494,11 +1480,11 @@
         "Semester": "Monsoon",
         "Professor": "\"Indrani De Parker, Vibha Narula Gupta\"",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES202"
     },
     {
-        "Serial Number": "108",
+        "Serial Number": "107",
         "Course Name": "Human Computer Interaction #http://127.0.0.1:5000/viewDescription/filename?=DES204",
         "Course Code": "DES204",
         "Course Acronym": "HCI",
@@ -1508,11 +1494,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES204"
     },
     {
-        "Serial Number": "109",
+        "Serial Number": "108",
         "Course Name": "Animation and Graphics#http://127.0.0.1:5000/viewDescription/filename?=DES302",
         "Course Code": "DES302",
         "Course Acronym": "A&G",
@@ -1522,11 +1508,11 @@
         "Semester": "Winter",
         "Professor": "Manohar Khushlani",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES302"
     },
     {
-        "Serial Number": "110",
+        "Serial Number": "109",
         "Course Name": "Film Making and Radio Podcasting#http://127.0.0.1:5000/viewDescription/filename?=DES303",
         "Course Code": "DES303",
         "Course Acronym": "FMRP",
@@ -1536,11 +1522,11 @@
         "Semester": "Monsoon",
         "Professor": "Manohar Khushlani",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES303"
     },
     {
-        "Serial Number": "111",
+        "Serial Number": "110",
         "Course Name": "Game Development & Design#http://127.0.0.1:5000/viewDescription/filename?=DES512",
         "Course Code": "DES512",
         "Course Acronym": "GDD",
@@ -1550,11 +1536,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES512"
     },
     {
-        "Serial Number": "112",
+        "Serial Number": "111",
         "Course Name": "Wearable Applications, Research, Devices, Interactions#http://127.0.0.1:5000/viewDescription/filename?=DES513",
         "Course Code": "DES513",
         "Course Acronym": "WARDI",
@@ -1564,11 +1550,11 @@
         "Semester": "Monsoon",
         "Professor": "Aman Parnami",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES513"
     },
     {
-        "Serial Number": "113",
+        "Serial Number": "112",
         "Course Name": "Digital Audio#http://127.0.0.1:5000/viewDescription/filename?=DES514",
         "Course Code": "DES514",
         "Course Acronym": "DA",
@@ -1578,11 +1564,11 @@
         "Semester": "Monsoon",
         "Professor": "Aman Samuel",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES514"
     },
     {
-        "Serial Number": "114",
+        "Serial Number": "113",
         "Course Name": "Information Systems in Public Health#http://127.0.0.1:5000/viewDescription/filename?=DES515",
         "Course Code": "DES515",
         "Course Acronym": "ISPR",
@@ -1592,11 +1578,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES515"
     },
     {
-        "Serial Number": "115",
+        "Serial Number": "114",
         "Course Name": "Introduction to 3D Animation#http://127.0.0.1:5000/viewDescription/filename?=DES516s",
         "Course Code": "DES516s",
         "Course Acronym": "I3D",
@@ -1606,11 +1592,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES516s"
     },
     {
-        "Serial Number": "116",
+        "Serial Number": "115",
         "Course Name": "Introduction to Epidemiology#http://127.0.0.1:5000/viewDescription/filename?=DES517",
         "Course Code": "DES517",
         "Course Acronym": "IEP",
@@ -1620,11 +1606,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES517"
     },
     {
-        "Serial Number": "117",
+        "Serial Number": "116",
         "Course Name": "Introduction to Motion Graphics#http://127.0.0.1:5000/viewDescription/filename?=DES518",
         "Course Code": "DES518",
         "Course Acronym": "IMG",
@@ -1634,11 +1620,11 @@
         "Semester": "Winter",
         "Professor": "Anoop Ratn",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES518"
     },
     {
-        "Serial Number": "118",
+        "Serial Number": "117",
         "Course Name": "Design of Interactive Systems#http://127.0.0.1:5000/viewDescription/filename?=DES519",
         "Course Code": "DES519",
         "Course Acronym": "DIS",
@@ -1648,11 +1634,11 @@
         "Semester": "Monsoon",
         "Professor": "Rajiv Ratn Shah",
         "Credits": "4",
-        "Cluster": "4",
+        "Cluster": "DES",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=DES519"
     },
     {
-        "Serial Number": "119",
+        "Serial Number": "118",
         "Course Name": "Digital Circuits#http://127.0.0.1:5000/viewDescription/filename?=ECE111",
         "Course Code": "ECE111",
         "Course Acronym": "DC",
@@ -1662,11 +1648,11 @@
         "Semester": "Monsoon",
         "Professor": "\"Sneh Saurabh, G S Visweswaran\"",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE111"
     },
     {
-        "Serial Number": "120",
+        "Serial Number": "119",
         "Course Name": "Basic Electronics#http://127.0.0.1:5000/viewDescription/filename?=ECE113",
         "Course Code": "ECE113",
         "Course Acronym": "BE",
@@ -1676,11 +1662,11 @@
         "Semester": "Winter",
         "Professor": "\"Vivek Bohara, Sanat Biswas\"",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE113"
     },
     {
-        "Serial Number": "121",
+        "Serial Number": "120",
         "Course Name": "Integrated Electronics#http://127.0.0.1:5000/viewDescription/filename?=ECE214",
         "Course Code": "ECE214",
         "Course Acronym": "IE",
@@ -1690,11 +1676,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE214"
     },
     {
-        "Serial Number": "122",
+        "Serial Number": "121",
         "Course Name": "Circuit Theory and Device#http://127.0.0.1:5000/viewDescription/filename?=ECE215",
         "Course Code": "ECE215",
         "Course Acronym": "CTD",
@@ -1704,11 +1690,11 @@
         "Semester": "Monsoon",
         "Professor": "Shobha Sundar Ram",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE215"
     },
     {
-        "Serial Number": "123",
+        "Serial Number": "122",
         "Course Name": "Fields and Waves#http://127.0.0.1:5000/viewDescription/filename?=ECE230",
         "Course Code": "ECE230",
         "Course Acronym": "F&W",
@@ -1718,11 +1704,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE230"
     },
     {
-        "Serial Number": "124",
+        "Serial Number": "123",
         "Course Name": "Principles of Communication Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE240",
         "Course Code": "ECE240",
         "Course Acronym": "PCS",
@@ -1732,11 +1718,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE240"
     },
     {
-        "Serial Number": "125",
+        "Serial Number": "124",
         "Course Name": "Signals and Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE250",
         "Course Code": "ECE250",
         "Course Acronym": "S&S",
@@ -1746,11 +1732,11 @@
         "Semester": "Monsoon",
         "Professor": "Pravesh Biyani",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE250"
     },
     {
-        "Serial Number": "126",
+        "Serial Number": "125",
         "Course Name": "Embedded Logic Design#http://127.0.0.1:5000/viewDescription/filename?=ECE270",
         "Course Code": "ECE270",
         "Course Acronym": "ELD",
@@ -1760,11 +1746,11 @@
         "Semester": "Monsoon",
         "Professor": "Sumit Darak",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE270"
     },
     {
-        "Serial Number": "127",
+        "Serial Number": "126",
         "Course Name": "Introduction to VLSI Design#http://127.0.0.1:5000/viewDescription/filename?=ECE314",
         "Course Code": "ECE314/ECE514",
         "Course Acronym": "DVD",
@@ -1774,11 +1760,11 @@
         "Semester": "Monsoon",
         "Professor": "Anuj Grover",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE314"
     },
     {
-        "Serial Number": "128",
+        "Serial Number": "127",
         "Course Name": "Analog CMOS Circuit Design#http://127.0.0.1:5000/viewDescription/filename?=ECE315",
         "Course Code": "ECE315/ECE515",
         "Course Acronym": "CMOS",
@@ -1788,11 +1774,11 @@
         "Semester": "Monsoon",
         "Professor": "G S Visweswaran",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE315"
     },
     {
-        "Serial Number": "129",
+        "Serial Number": "128",
         "Course Name": "Solid State Devices#http://127.0.0.1:5000/viewDescription/filename?=ECE318",
         "Course Code": "ECE318",
         "Course Acronym": "SSD",
@@ -1802,8 +1788,22 @@
         "Semester": "Winter",
         "Professor": "G.S.Visweswaran",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE318"
+    },
+    {
+        "Serial Number": "129",
+        "Course Name": "RF Circuit Design#http://127.0.0.1:5000/viewDescription/filename?=ECE321",
+        "Course Code": "ECE321/ECE521",
+        "Course Acronym": "RFCD",
+        "Prerequisites": "",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Dr. M. S. Hashmi",
+        "Credits": "4",
+        "Cluster": "ECE",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE321"
     },
     {
         "Serial Number": "130",
@@ -1816,7 +1816,7 @@
         "Semester": "Monsoon",
         "Professor": "Gourab Ghatak",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE340"
     },
     {
@@ -1830,7 +1830,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE343"
     },
     {
@@ -1844,7 +1844,7 @@
         "Semester": "Monsoon",
         "Professor": "A V Subramanyam",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE350"
     },
     {
@@ -1858,7 +1858,7 @@
         "Semester": "Monsoon",
         "Professor": "A.V.Subramanyam",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE351"
     },
     {
@@ -1872,7 +1872,7 @@
         "Semester": "Monsoon",
         "Professor": "Shobha Sundar Ram",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE431"
     },
     {
@@ -1886,7 +1886,7 @@
         "Semester": "Winter",
         "Professor": "Shobha Sundaram",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE432"
     },
     {
@@ -1900,25 +1900,11 @@
         "Semester": "Winter",
         "Professor": "Pravesh Biyani",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE452"
     },
     {
         "Serial Number": "137",
-        "Course Name": "Advanced Signal Processing#http://127.0.0.1:5000/viewDescription/filename?=ECE453",
-        "Course Code": "ECE453/ECE553",
-        "Course Acronym": "ASP",
-        "Prerequisites": "None",
-        "Preferable Prerequisites": "None",
-        "Antirequisites": "None",
-        "Semester": "Monsoon/Winter",
-        "Professor": "",
-        "Credits": "",
-        "Cluster": "5",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE453"
-    },
-    {
-        "Serial Number": "138",
         "Course Name": "Probability and Random Process#http://127.0.0.1:5000/viewDescription/filename?=ECE501",
         "Course Code": "ECE501",
         "Course Acronym": "PRP",
@@ -1928,11 +1914,11 @@
         "Semester": "Monsoon",
         "Professor": "Anubha Gupta",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE501"
     },
     {
-        "Serial Number": "139",
+        "Serial Number": "138",
         "Course Name": "Digital Hardware Design (DHD)#http://127.0.0.1:5000/viewDescription/filename?=ECE510",
         "Course Code": "ECE510",
         "Course Acronym": "DHD",
@@ -1942,11 +1928,11 @@
         "Semester": "Monsoon",
         "Professor": "Sumit Darak",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE510"
     },
     {
-        "Serial Number": "140",
+        "Serial Number": "139",
         "Course Name": "VLSI Design Flow#http://127.0.0.1:5000/viewDescription/filename?=ECE513",
         "Course Code": "ECE513",
         "Course Acronym": "VLDIDF",
@@ -1956,11 +1942,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE513"
     },
     {
-        "Serial Number": "141",
+        "Serial Number": "140",
         "Course Name": "Digital VLSI Design#http://127.0.0.1:5000/viewDescription/filename?=ECE514",
         "Course Code": "ECE514",
         "Course Acronym": "DVD",
@@ -1970,11 +1956,11 @@
         "Semester": "Monsoon",
         "Professor": "Anuj Grover",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE514"
     },
     {
-        "Serial Number": "142",
+        "Serial Number": "141",
         "Course Name": "System on Chip Design and Test#http://127.0.0.1:5000/viewDescription/filename?=ECE516",
         "Course Code": "ECE516",
         "Course Acronym": "SCD&T",
@@ -1984,11 +1970,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE516"
     },
     {
-        "Serial Number": "143",
+        "Serial Number": "142",
         "Course Name": "Introduction to Nanoelectronics#http://127.0.0.1:5000/viewDescription/filename?=ECE517",
         "Course Code": "ECE517",
         "Course Acronym": "INE",
@@ -1998,11 +1984,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE517"
     },
     {
-        "Serial Number": "144",
+        "Serial Number": "143",
         "Course Name": "Intelligent Applications Implementation on Heterogeneous Platforms#http://127.0.0.1:5000/viewDescription/filename?=ECE519",
         "Course Code": "ECE519",
         "Course Acronym": "IAI",
@@ -2012,11 +1998,11 @@
         "Semester": "Monsoon",
         "Professor": "Sumit Mediratta",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE519"
     },
     {
-        "Serial Number": "145",
+        "Serial Number": "144",
         "Course Name": "Satellite Navigation and Sensor Fusion#http://127.0.0.1:5000/viewDescription/filename?=ECE533",
         "Course Code": "ECE533",
         "Course Acronym": "SNSF",
@@ -2026,11 +2012,11 @@
         "Semester": "Monsoon",
         "Professor": "Sanat Biswas",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE533"
     },
     {
-        "Serial Number": "146",
+        "Serial Number": "145",
         "Course Name": "Optical Communications Systems#http://127.0.0.1:5000/viewDescription/filename?=ECE534",
         "Course Code": "ECE534",
         "Course Acronym": "OCS",
@@ -2040,11 +2026,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE534"
     },
     {
-        "Serial Number": "147",
+        "Serial Number": "146",
         "Course Name": "Optical Networking#http://127.0.0.1:5000/viewDescription/filename?=ECE536s",
         "Course Code": "ECE536s",
         "Course Acronym": "ON",
@@ -2054,11 +2040,11 @@
         "Semester": "Summer",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE536s"
     },
     {
-        "Serial Number": "148",
+        "Serial Number": "147",
         "Course Name": "Wireless Communication Evolution from 3G to 5G#http://127.0.0.1:5000/viewDescription/filename?=ECE537",
         "Course Code": "ECE537",
         "Course Acronym": "WCE",
@@ -2068,11 +2054,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE537"
     },
     {
-        "Serial Number": "149",
+        "Serial Number": "148",
         "Course Name": "Wireless System Implementation#http://127.0.0.1:5000/viewDescription/filename?=ECE539",
         "Course Code": "ECE539",
         "Course Acronym": "WSI",
@@ -2082,11 +2068,11 @@
         "Semester": "Winter",
         "Professor": "Vivek Bohara",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE539"
     },
     {
-        "Serial Number": "150",
+        "Serial Number": "149",
         "Course Name": "Principals of Digital Communication System#http://127.0.0.1:5000/viewDescription/filename?=ECE543",
         "Course Code": "ECE543",
         "Course Acronym": "PDCS",
@@ -2096,11 +2082,11 @@
         "Semester": "Monsoon",
         "Professor": "Anand Srivastava",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE543"
     },
     {
-        "Serial Number": "151",
+        "Serial Number": "150",
         "Course Name": "Compressive Sensing#http://127.0.0.1:5000/viewDescription/filename?=ECE554",
         "Course Code": "ECE554",
         "Course Acronym": "CS",
@@ -2110,11 +2096,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE554"
     },
     {
-        "Serial Number": "152",
+        "Serial Number": "151",
         "Course Name": "Speech Recognition and Understanding#http://127.0.0.1:5000/viewDescription/filename?=ECE557",
         "Course Code": "ECE557",
         "Course Acronym": "SRU",
@@ -2124,11 +2110,11 @@
         "Semester": "Winter",
         "Professor": "Saket Anand",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE557"
     },
     {
-        "Serial Number": "153",
+        "Serial Number": "152",
         "Course Name": "Transform Learning and Applications#http://127.0.0.1:5000/viewDescription/filename?=ECE558",
         "Course Code": "ECE558",
         "Course Acronym": "TLA",
@@ -2138,8 +2124,22 @@
         "Semester": "Winter",
         "Professor": "Anubha Gupta",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE558"
+    },
+    {
+        "Serial Number": "153",
+        "Course Name": "Modeling and Analysis of Random 5G Networks#http://127.0.0.1:5000/viewDescription/filename?=ECE55G",
+        "Course Code": "ECE55G",
+        "Course Acronym": "5GN",
+        "Prerequisites": "MTH201",
+        "Preferable Prerequisites": "MATLAB",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Gourab Ghatak",
+        "Credits": "4",
+        "Cluster": "ECE",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE55G"
     },
     {
         "Serial Number": "154",
@@ -2152,7 +2152,7 @@
         "Semester": "Monsoon",
         "Professor": "Sanat Biswas",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE570"
     },
     {
@@ -2166,7 +2166,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE571"
     },
     {
@@ -2180,7 +2180,7 @@
         "Semester": "Winter",
         "Professor": "Sumit Mediratta",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE573"
     },
     {
@@ -2194,7 +2194,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE577"
     },
     {
@@ -2208,7 +2208,7 @@
         "Semester": "Monsoon",
         "Professor": "Sayan Basu Roy",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE579"
     },
     {
@@ -2222,7 +2222,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE581"
     },
     {
@@ -2236,7 +2236,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE611"
     },
     {
@@ -2250,7 +2250,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE612"
     },
     {
@@ -2264,7 +2264,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "5",
+        "Cluster": "ECE",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECE672"
     },
     {
@@ -2278,7 +2278,7 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO101"
     },
     {
@@ -2292,11 +2292,25 @@
         "Semester": "Monsoon",
         "Professor": "Kiriti Kanjilal",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO201"
     },
     {
         "Serial Number": "165",
+        "Course Name": "Money and Banking#http://127.0.0.1:5000/viewDescription/filename?=ECO223",
+        "Course Code": "ECO223",
+        "Course Acronym": "MB",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None ",
+        "Semester": "Winter",
+        "Professor": "Kiriti Kanjilal",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO223"
+    },
+    {
+        "Serial Number": "166",
         "Course Name": "Introduction to Economic Analysis#http://127.0.0.1:5000/viewDescription/filename?=ECO301",
         "Course Code": "ECO301",
         "Course Acronym": "IEA",
@@ -2306,11 +2320,11 @@
         "Semester": "Monsoon/Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO301"
     },
     {
-        "Serial Number": "166",
+        "Serial Number": "167",
         "Course Name": "Game Theory#http://127.0.0.1:5000/viewDescription/filename?=ECO311",
         "Course Code": "ECO311",
         "Course Acronym": "GMT",
@@ -2320,11 +2334,11 @@
         "Semester": "Monsoon",
         "Professor": "Rakesh Chathurvedi",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO311"
     },
     {
-        "Serial Number": "167",
+        "Serial Number": "168",
         "Course Name": "Industrial Organization#http://127.0.0.1:5000/viewDescription/filename?=ECO312",
         "Course Code": "ECO312",
         "Course Acronym": "IO",
@@ -2334,11 +2348,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO312"
     },
     {
-        "Serial Number": "168",
+        "Serial Number": "169",
         "Course Name": "Market Design#http://127.0.0.1:5000/viewDescription/filename?=ECO313",
         "Course Code": "ECO313",
         "Course Acronym": "MD",
@@ -2348,11 +2362,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO313"
     },
     {
-        "Serial Number": "169",
+        "Serial Number": "170",
         "Course Name": "Econometrics I#http://127.0.0.1:5000/viewDescription/filename?=ECO321",
         "Course Code": "ECO321",
         "Course Acronym": "ECO",
@@ -2362,11 +2376,25 @@
         "Semester": "Monsoon",
         "Professor": "Gaurav Arora",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO321"
     },
     {
-        "Serial Number": "170",
+        "Serial Number": "171",
+        "Course Name": "Spatial Statistics and Spatial Econometrics#http://127.0.0.1:5000/viewDescription/filename?=ECO324",
+        "Course Code": "ECO324/ECO524",
+        "Course Acronym": "SSSE",
+        "Prerequisites": "ECO321",
+        "Preferable Prerequisites": "MTH372",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO324"
+    },
+    {
+        "Serial Number": "172",
         "Course Name": "Foundations of Finance#http://127.0.0.1:5000/viewDescription/filename?=ECO331",
         "Course Code": "ECO331",
         "Course Acronym": "FF",
@@ -2376,25 +2404,25 @@
         "Semester": "Monsoon",
         "Professor": "Pankaj Vajpayee",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO331"
     },
     {
-        "Serial Number": "171",
+        "Serial Number": "173",
         "Course Name": "Valuation and Portfolio Management#http://127.0.0.1:5000/viewDescription/filename?=ECO332",
         "Course Code": "ECO332",
         "Course Acronym": "VPM",
-        "Prerequisites": "ECO331",
+        "Prerequisites": "None",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "Pankaj Vajpayee",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO332"
     },
     {
-        "Serial Number": "172",
+        "Serial Number": "174",
         "Course Name": "Decision Theory#http://127.0.0.1:5000/viewDescription/filename?=ECO503",
         "Course Code": "ECO503",
         "Course Acronym": "DT",
@@ -2404,11 +2432,11 @@
         "Semester": "Monsoon",
         "Professor": "Rakesh Chathurvedi",
         "Credits": "4",
-        "Cluster": "6",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ECO503"
     },
     {
-        "Serial Number": "173",
+        "Serial Number": "175",
         "Course Name": "Research Methods#http://127.0.0.1:5000/viewDescription/filename?=ENG599s",
         "Course Code": "ENG599s",
         "Course Acronym": "RM",
@@ -2418,25 +2446,11 @@
         "Semester": "Winter",
         "Professor": "Angshul Majumdar",
         "Credits": "2",
-        "Cluster": "7",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ENG599s"
     },
     {
-        "Serial Number": "174",
-        "Course Name": "Starting an Entrepreneurial Venture#http://127.0.0.1:5000/viewDescription/filename?=ENT402",
-        "Course Code": "ENT402",
-        "Course Acronym": "SEntV",
-        "Prerequisites": "None",
-        "Preferable Prerequisites": "None",
-        "Antirequisites": "None",
-        "Semester": "Winter",
-        "Professor": "",
-        "Credits": "4",
-        "Cluster": "8",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=ENT402"
-    },
-    {
-        "Serial Number": "175",
+        "Serial Number": "176",
         "Course Name": "Environmental Sciences#http://127.0.0.1:5000/viewDescription/filename?=ESC205",
         "Course Code": "ESC205",
         "Course Acronym": "EVS",
@@ -2446,11 +2460,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "9",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ESC205"
     },
     {
-        "Serial Number": "176",
+        "Serial Number": "177",
         "Course Name": "Ecology, Evolution, and Environment#http://127.0.0.1:5000/viewDescription/filename?=ESC207A",
         "Course Code": "ESC207A",
         "Course Acronym": "EEE",
@@ -2460,39 +2474,39 @@
         "Semester": "Monsoon",
         "Professor": "Swapna Purandare",
         "Credits": "2",
-        "Cluster": "9",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=ESC207A"
     },
     {
-        "Serial Number": "177",
+        "Serial Number": "178",
         "Course Name": "Effective Supply Chain for E Commerce#http://127.0.0.1:5000/viewDescription/filename?=MGT310",
         "Course Code": "MGT310",
-        "Course Acronym": "SCM",
+        "Course Acronym": "ESCM",
         "Prerequisites": "None",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Monsoon",
         "Professor": "Sanjiva Dubey",
         "Credits": "4",
-        "Cluster": "10",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MGT310"
     },
     {
-        "Serial Number": "178",
+        "Serial Number": "179",
         "Course Name": "Emerging Issues in IT Management#http://127.0.0.1:5000/viewDescription/filename?=MGT311",
         "Course Code": "MGT311",
-        "Course Acronym": "EITM",
+        "Course Acronym": "EIITM",
         "Prerequisites": "None",
         "Preferable Prerequisites": "None",
         "Antirequisites": "None",
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "10",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MGT311"
     },
     {
-        "Serial Number": "179",
+        "Serial Number": "180",
         "Course Name": "Math I (Linear Algebra)#http://127.0.0.1:5000/viewDescription/filename?=MTH100",
         "Course Code": "MTH100",
         "Course Acronym": "M-I",
@@ -2502,11 +2516,11 @@
         "Semester": "Monsoon",
         "Professor": "Samaresh Chatterji",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH100"
     },
     {
-        "Serial Number": "180",
+        "Serial Number": "181",
         "Course Name": "Introduction to Mathematical Logic#http://127.0.0.1:5000/viewDescription/filename?=MTH200",
         "Course Code": "MTH200",
         "Course Acronym": "IML",
@@ -2516,11 +2530,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH200"
     },
     {
-        "Serial Number": "181",
+        "Serial Number": "182",
         "Course Name": "Math II (Probability and Statistics)#http://127.0.0.1:5000/viewDescription/filename?=MTH201",
         "Course Code": "MTH201",
         "Course Acronym": "P&S",
@@ -2530,11 +2544,11 @@
         "Semester": "Winter",
         "Professor": "\"Angshul Majumdar,Sanjit Kaul\"",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH201"
     },
     {
-        "Serial Number": "182",
+        "Serial Number": "183",
         "Course Name": "Mathematics III (Multivariate Calculus)#http://127.0.0.1:5000/viewDescription/filename?=MTH203",
         "Course Code": "MTH203",
         "Course Acronym": "M-III",
@@ -2544,11 +2558,11 @@
         "Semester": "Monsoon",
         "Professor": "\"Sarthok Sircar, Kaushik Kalyanraman\"",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH203"
     },
     {
-        "Serial Number": "183",
+        "Serial Number": "184",
         "Course Name": "Mathematics IV (Differential Equations)#http://127.0.0.1:5000/viewDescription/filename?=MTH204",
         "Course Code": "MTH204",
         "Course Acronym": "M-IV",
@@ -2558,11 +2572,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH204"
     },
     {
-        "Serial Number": "184",
+        "Serial Number": "185",
         "Course Name": "Discrete Structures#http://127.0.0.1:5000/viewDescription/filename?=MTH210",
         "Course Code": "MTH210",
         "Course Acronym": "DS",
@@ -2572,11 +2586,11 @@
         "Semester": "Monsoon",
         "Professor": "Rajiv Raman",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH210"
     },
     {
-        "Serial Number": "185",
+        "Serial Number": "186",
         "Course Name": "Number Theory#http://127.0.0.1:5000/viewDescription/filename?=MTH211",
         "Course Code": "MTH211",
         "Course Acronym": "NT",
@@ -2586,11 +2600,11 @@
         "Semester": "Monsoon",
         "Professor": "Anuradha Sharma",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH211"
     },
     {
-        "Serial Number": "186",
+        "Serial Number": "187",
         "Course Name": "Abstract Algebra I#http://127.0.0.1:5000/viewDescription/filename?=MTH212",
         "Course Code": "MTH212",
         "Course Acronym": "AA-I",
@@ -2600,11 +2614,11 @@
         "Semester": "Winter",
         "Professor": "Anuradha Sharma",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH212"
     },
     {
-        "Serial Number": "187",
+        "Serial Number": "188",
         "Course Name": "Real Analysis I#http://127.0.0.1:5000/viewDescription/filename?=MTH240",
         "Course Code": "MTH240",
         "Course Acronym": "RA-I",
@@ -2614,11 +2628,11 @@
         "Semester": "Monsoon",
         "Professor": "Sankha S Basu",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH240"
     },
     {
-        "Serial Number": "188",
+        "Serial Number": "189",
         "Course Name": "Numerical Methods#http://127.0.0.1:5000/viewDescription/filename?=MTH270",
         "Course Code": "MTH270",
         "Course Acronym": "NM",
@@ -2628,11 +2642,11 @@
         "Semester": "Monsoon/Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH270"
     },
     {
-        "Serial Number": "189",
+        "Serial Number": "190",
         "Course Name": "Algebra#http://127.0.0.1:5000/viewDescription/filename?=MTH302",
         "Course Code": "MTH302",
         "Course Acronym": "ALG",
@@ -2642,11 +2656,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH302"
     },
     {
-        "Serial Number": "190",
+        "Serial Number": "191",
         "Course Name": "Graph Theory#http://127.0.0.1:5000/viewDescription/filename?=MTH310",
         "Course Code": "MTH310",
         "Course Acronym": "GT",
@@ -2656,11 +2670,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH310"
     },
     {
-        "Serial Number": "191",
+        "Serial Number": "192",
         "Course Name": "Combinatorics and its Applications#http://127.0.0.1:5000/viewDescription/filename?=MTH311",
         "Course Code": "MTH311",
         "Course Acronym": "CIA",
@@ -2670,11 +2684,11 @@
         "Semester": "Winter",
         "Professor": "Samrith Ram",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH311"
     },
     {
-        "Serial Number": "192",
+        "Serial Number": "193",
         "Course Name": "Real Analysis-II#http://127.0.0.1:5000/viewDescription/filename?=MTH340",
         "Course Code": "MTH340",
         "Course Acronym": "RA-II",
@@ -2684,11 +2698,11 @@
         "Semester": "Monsoon",
         "Professor": "Shilpak Banerjee",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH340"
     },
     {
-        "Serial Number": "193",
+        "Serial Number": "194",
         "Course Name": "Complex Analysis#http://127.0.0.1:5000/viewDescription/filename?=MTH341",
         "Course Code": "MTH341",
         "Course Acronym": "CmpA",
@@ -2698,11 +2712,11 @@
         "Semester": "Monsoon",
         "Professor": "Ashish Kumar Pandey",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH341"
     },
     {
-        "Serial Number": "194",
+        "Serial Number": "195",
         "Course Name": "Introduction to Dynamical Systems#http://127.0.0.1:5000/viewDescription/filename?=MTH343",
         "Course Code": "MTH343/MTH543",
         "Course Acronym": "IDS",
@@ -2712,11 +2726,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH343"
     },
     {
-        "Serial Number": "195",
+        "Serial Number": "196",
         "Course Name": "Stochastic Processes and Applications#http://127.0.0.1:5000/viewDescription/filename?=MTH371",
         "Course Code": "MTH371",
         "Course Acronym": "SPA",
@@ -2726,11 +2740,11 @@
         "Semester": "Monsoon",
         "Professor": "Monika Arora",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH371"
     },
     {
-        "Serial Number": "196",
+        "Serial Number": "197",
         "Course Name": "Statistical Inference#http://127.0.0.1:5000/viewDescription/filename?=MTH372",
         "Course Code": "MTH372",
         "Course Acronym": "SI",
@@ -2740,11 +2754,11 @@
         "Semester": "Winter",
         "Professor": "Monika Arora",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH372"
     },
     {
-        "Serial Number": "197",
+        "Serial Number": "198",
         "Course Name": "Scientific Computing#http://127.0.0.1:5000/viewDescription/filename?=MTH373",
         "Course Code": "MTH373",
         "Course Acronym": "SC",
@@ -2754,11 +2768,11 @@
         "Semester": "Monsoon",
         "Professor": "Kaushik Kalyanaraman",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH373"
     },
     {
-        "Serial Number": "198",
+        "Serial Number": "199",
         "Course Name": "Linear Optimization#http://127.0.0.1:5000/viewDescription/filename?=MTH374",
         "Course Code": "MTH374/MTH574",
         "Course Acronym": "LO",
@@ -2768,11 +2782,25 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH374"
     },
     {
-        "Serial Number": "199",
+        "Serial Number": "200",
+        "Course Name": "Fluid Mechainics#http://127.0.0.1:5000/viewDescription/filename?=MTH375",
+        "Course Code": "MTH375/MTH575",
+        "Course Acronym": "FM",
+        "Prerequisites": "MTH204",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Monsoon",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "MTH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH375"
+    },
+    {
+        "Serial Number": "201",
         "Course Name": "Advanced Linear Algebra#http://127.0.0.1:5000/viewDescription/filename?=MTH510",
         "Course Code": "MTH510",
         "Course Acronym": "ALA",
@@ -2782,25 +2810,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH510"
     },
     {
-        "Serial Number": "200",
-        "Course Name": "Commutative Algebra#http://127.0.0.1:5000/viewDescription/filename?=MTH511",
-        "Course Code": "MTH511",
-        "Course Acronym": "ComA",
-        "Prerequisites": "None",
-        "Preferable Prerequisites": "None",
-        "Antirequisites": "None",
-        "Semester": "Monsoon/Winter",
-        "Professor": "",
-        "Credits": "",
-        "Cluster": "11",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH511"
-    },
-    {
-        "Serial Number": "201",
+        "Serial Number": "202",
         "Course Name": "Algebraic Number Theory#http://127.0.0.1:5000/viewDescription/filename?=MTH512",
         "Course Code": "MTH512",
         "Course Acronym": "ANT",
@@ -2810,11 +2824,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH512"
     },
     {
-        "Serial Number": "202",
+        "Serial Number": "203",
         "Course Name": "Abstract Algebra II#http://127.0.0.1:5000/viewDescription/filename?=MTH513",
         "Course Code": "MTH513",
         "Course Acronym": "AA-II",
@@ -2824,11 +2838,81 @@
         "Semester": "Winter",
         "Professor": "Anuradha Sharma",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH513"
     },
     {
-        "Serial Number": "203",
+        "Serial Number": "204",
+        "Course Name": "Coding Theory#http://127.0.0.1:5000/viewDescription/filename?=MTH514",
+        "Course Code": "MTH514",
+        "Course Acronym": "CT",
+        "Prerequisites": "MTH100, MTH212, MTH513",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "MTH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH514"
+    },
+    {
+        "Serial Number": "205",
+        "Course Name": "Analytic Number Theory#http://127.0.0.1:5000/viewDescription/filename?=MTH516",
+        "Course Code": "MTH516",
+        "Course Acronym": "ANT",
+        "Prerequisites": "MTH341",
+        "Preferable Prerequisites": "MTH211",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "MTH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH516"
+    },
+    {
+        "Serial Number": "206",
+        "Course Name": "Combinatorial Optimization#http://127.0.0.1:5000/viewDescription/filename?=MTH517",
+        "Course Code": "MTH517",
+        "Course Acronym": "CO",
+        "Prerequisites": "MTH374/MTH574",
+        "Preferable Prerequisites": "MAD",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "MTH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH517"
+    },
+    {
+        "Serial Number": "207",
+        "Course Name": "Calculus in R^N#http://127.0.0.1:5000/viewDescription/filename?=MTH544",
+        "Course Code": "MTH544",
+        "Course Acronym": "CRN",
+        "Prerequisites": "MTH100, MTH203 or MTH240",
+        "Preferable Prerequisites": "Prior familiarity with metric spaces, point-set topology, basic differential geometry, and linear optimization may help understand topics better but will not be presumed.",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "MTH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH544"
+    },
+    {
+        "Serial Number": "208",
+        "Course Name": "Introduction to PDE#http://127.0.0.1:5000/viewDescription/filename?=MTH550",
+        "Course Code": "MTH550",
+        "Course Acronym": "IPDE",
+        "Prerequisites": "MTH204",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "",
+        "Credits": "4",
+        "Cluster": "MTH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH550"
+    },
+    {
+        "Serial Number": "209",
         "Course Name": "Numerical Solutions Differential Equations#http://127.0.0.1:5000/viewDescription/filename?=MTH570",
         "Course Code": "MTH570",
         "Course Acronym": "NSDE",
@@ -2838,11 +2922,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH570"
     },
     {
-        "Serial Number": "204",
+        "Serial Number": "210",
         "Course Name": "Integral Transforms and their Applications#http://127.0.0.1:5000/viewDescription/filename?=MTH571",
         "Course Code": "MTH571",
         "Course Acronym": "ITA",
@@ -2852,11 +2936,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH571"
     },
     {
-        "Serial Number": "205",
+        "Serial Number": "211",
         "Course Name": "Introduction to Functional Analysis#http://127.0.0.1:5000/viewDescription/filename?=MTH598",
         "Course Code": "MTH598",
         "Course Acronym": "IFA",
@@ -2866,11 +2950,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH598"
     },
     {
-        "Serial Number": "206",
+        "Serial Number": "212",
         "Course Name": "Numerical Partial Differential Equations#http://127.0.0.1:5000/viewDescription/filename?=MTH598",
         "Course Code": "MTH598",
         "Course Acronym": "NPDE",
@@ -2880,11 +2964,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH598"
     },
     {
-        "Serial Number": "207",
+        "Serial Number": "213",
         "Course Name": "Variational Calculus and their Applications#http://127.0.0.1:5000/viewDescription/filename?=MTH599",
         "Course Code": "MTH599",
         "Course Acronym": "VCA",
@@ -2894,11 +2978,11 @@
         "Semester": "Monsoon",
         "Professor": "Sarthok Sircar",
         "Credits": "4",
-        "Cluster": "11",
+        "Cluster": "MTH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=MTH599"
     },
     {
-        "Serial Number": "208",
+        "Serial Number": "214",
         "Course Name": "Introduction to Cognitive Psychology#http://127.0.0.1:5000/viewDescription/filename?=PSY201",
         "Course Code": "PSY201",
         "Course Acronym": "Psy",
@@ -2908,11 +2992,11 @@
         "Semester": "Monsoon",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "12",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY201"
     },
     {
-        "Serial Number": "209",
+        "Serial Number": "215",
         "Course Name": "Positive Psychology#http://127.0.0.1:5000/viewDescription/filename?=PSY202",
         "Course Code": "PSY202",
         "Course Acronym": "Ppsy",
@@ -2922,11 +3006,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "12",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY202"
     },
     {
-        "Serial Number": "210",
+        "Serial Number": "216",
         "Course Name": "Cognitive Psychology#http://127.0.0.1:5000/viewDescription/filename?=PSY301",
         "Course Code": "PSY301",
         "Course Acronym": "CP",
@@ -2936,25 +3020,67 @@
         "Semester": "Winter",
         "Professor": "Venkata Ratandeep Suri",
         "Credits": "4",
-        "Cluster": "12",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY301"
     },
     {
-        "Serial Number": "211",
-        "Course Name": "Introduction to Sociology and Anthropology#http://127.0.0.1:5000/viewDescription/filename?=SOC201",
-        "Course Code": "SOC201",
+        "Serial Number": "217",
+        "Course Name": "Social Psychology#http://127.0.0.1:5000/viewDescription/filename?=PSY302",
+        "Course Code": "PSY302",
+        "Course Acronym": "SP",
+        "Prerequisites": "None ",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Venkata Ratandeep Suri",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY302"
+    },
+    {
+        "Serial Number": "218",
+        "Course Name": "Attention and Perception#http://127.0.0.1:5000/viewDescription/filename?=PSY305",
+        "Course Code": "PSY305",
+        "Course Acronym": "AP",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Sonia Baloni Ray",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY305"
+    },
+    {
+        "Serial Number": "219",
+        "Course Name": "Learning and Memory#http://127.0.0.1:5000/viewDescription/filename?=PSY306",
+        "Course Code": "PSY306",
+        "Course Acronym": "LM",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Mrinmoy Charabarty",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=PSY306"
+    },
+    {
+        "Serial Number": "220",
+        "Course Name": "Introduction to Sociology and Anthropology#http://127.0.0.1:5000/viewDescription/filename?=SOC101",
+        "Course Code": "SOC101",
         "Course Acronym": "ISA",
         "Prerequisites": "SSH101",
         "Preferable Prerequisites": "None",
         "Antirequisites": "HSS205, HSS215",
-        "Semester": "Monsoon",
+        "Semester": "Winter",
         "Professor": "Amrit Srinivasan",
         "Credits": "4",
-        "Cluster": "13",
-        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC201"
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC101"
     },
     {
-        "Serial Number": "212",
+        "Serial Number": "221",
         "Course Name": "Contemporary India Sociological Perspective#http://127.0.0.1:5000/viewDescription/filename?=SOC202",
         "Course Code": "SOC202",
         "Course Acronym": "CISP",
@@ -2964,11 +3090,11 @@
         "Semester": "Monsoon",
         "Professor": "Paro Mishra",
         "Credits": "4",
-        "Cluster": "13",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC202"
     },
     {
-        "Serial Number": "213",
+        "Serial Number": "222",
         "Course Name": "Sociology of New Media#http://127.0.0.1:5000/viewDescription/filename?=SOC204",
         "Course Code": "SOC204",
         "Course Acronym": "SNM",
@@ -2978,12 +3104,40 @@
         "Semester": "Monsoon",
         "Professor": "Aasim Khan",
         "Credits": "4",
-        "Cluster": "13",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC204"
     },
     {
-        "Serial Number": "214",
-        "Course Name": "IT And Society#http://127.0.0.1:5000/viewDescription/filename?=SOC207",
+        "Serial Number": "223",
+        "Course Name": "Anthropology and Social Media#http://127.0.0.1:5000/viewDescription/filename?=SOC205",
+        "Course Code": "SOC205",
+        "Course Acronym": "ASM",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None ",
+        "Semester": "Winter",
+        "Professor": "Swati Mantri(V)",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC205"
+    },
+    {
+        "Serial Number": "224",
+        "Course Name": "Business Anthropology#http://127.0.0.1:5000/viewDescription/filename?=SOC206",
+        "Course Code": "SOC206",
+        "Course Acronym": "BA",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Monsoon",
+        "Professor": "Shriram Venktraman",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC206"
+    },
+    {
+        "Serial Number": "225",
+        "Course Name": "Information Technology And Society#http://127.0.0.1:5000/viewDescription/filename?=SOC207",
         "Course Code": "SOC207",
         "Course Acronym": "ITS",
         "Prerequisites": "None",
@@ -2992,11 +3146,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "13",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC207"
     },
     {
-        "Serial Number": "215",
+        "Serial Number": "226",
         "Course Name": "Organizations An Anthropological Perspective#http://127.0.0.1:5000/viewDescription/filename?=SOC208",
         "Course Code": "SOC208",
         "Course Acronym": "OAP",
@@ -3006,11 +3160,95 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "13",
+        "Cluster": "OTHERS",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC208"
     },
     {
-        "Serial Number": "216",
+        "Serial Number": "227",
+        "Course Name": "Consumer Culture and Society#http://127.0.0.1:5000/viewDescription/filename?=SOC209",
+        "Course Code": "SOC209",
+        "Course Acronym": "CCS",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None ",
+        "Semester": "Winter",
+        "Professor": "Swati Mantri(V)",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC209"
+    },
+    {
+        "Serial Number": "228",
+        "Course Name": "Sociological Theory#http://127.0.0.1:5000/viewDescription/filename?=SOC210",
+        "Course Code": "SOC210",
+        "Course Acronym": "ST1",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None ",
+        "Semester": "Winter",
+        "Professor": "Gayatri Nair",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC210"
+    },
+    {
+        "Serial Number": "229",
+        "Course Name": "Science, Technology and Society#http://127.0.0.1:5000/viewDescription/filename?=SOC211",
+        "Course Code": "SOC211",
+        "Course Acronym": "STS",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None ",
+        "Semester": "Winter",
+        "Professor": "Shireen Mirza",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC211"
+    },
+    {
+        "Serial Number": "230",
+        "Course Name": "Urban Sociology#http://127.0.0.1:5000/viewDescription/filename?=SOC302",
+        "Course Code": "SOC302",
+        "Course Acronym": "US",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None ",
+        "Semester": "Winter",
+        "Professor": "Smriti Singh",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC302"
+    },
+    {
+        "Serial Number": "231",
+        "Course Name": "Digital Social Research#http://127.0.0.1:5000/viewDescription/filename?=SOC307",
+        "Course Code": "SOC307",
+        "Course Acronym": "DSR",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Monsoon",
+        "Professor": "Swati Mantri(V)",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC307"
+    },
+    {
+        "Serial Number": "232",
+        "Course Name": "Gender and Media#http://127.0.0.1:5000/viewDescription/filename?=SOC308",
+        "Course Code": "SOC308",
+        "Course Acronym": "IPHI",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Monsoon",
+        "Professor": "Swati Mantri(V)",
+        "Credits": "4",
+        "Cluster": "OTHERS",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SOC308"
+    },
+    {
+        "Serial Number": "233",
         "Course Name": "Critical Thinking and Readings in Social Science #http://127.0.0.1:5000/viewDescription/filename?=SSH101",
         "Course Code": "SSH101",
         "Course Acronym": "CTRSS",
@@ -3020,11 +3258,11 @@
         "Semester": "Winter",
         "Professor": "Aaasim Khan",
         "Credits": "4",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH101"
     },
     {
-        "Serial Number": "217",
+        "Serial Number": "234",
         "Course Name": "Introduction to Philosophy#http://127.0.0.1:5000/viewDescription/filename?=SSH121",
         "Course Code": "SSH121",
         "Course Acronym": "IPHI",
@@ -3034,11 +3272,11 @@
         "Semester": "Monsoon",
         "Professor": "Raj Ayyar",
         "Credits": "4",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH121"
     },
     {
-        "Serial Number": "218",
+        "Serial Number": "235",
         "Course Name": "Critical Thinking#http://127.0.0.1:5000/viewDescription/filename?=SSH124",
         "Course Code": "SSH124",
         "Course Acronym": "CT",
@@ -3048,12 +3286,12 @@
         "Semester": "Winter",
         "Professor": "Raj Ayyar",
         "Credits": "4",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH124"
     },
     {
-        "Serial Number": "219",
-        "Course Name": "Social Science and Research Methods#http://127.0.0.1:5000/viewDescription/filename?=SSH201",
+        "Serial Number": "236",
+        "Course Name": "Research Methods in Social Science and Design#http://127.0.0.1:5000/viewDescription/filename?=SSH201",
         "Course Code": "SSH201",
         "Course Acronym": "RMSSD",
         "Prerequisites": "SSH101",
@@ -3062,11 +3300,11 @@
         "Semester": "Monsoon",
         "Professor": "Venkata Ratandeep Suri",
         "Credits": "4",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH201"
     },
     {
-        "Serial Number": "220",
+        "Serial Number": "237",
         "Course Name": "Theatre Appreciation#http://127.0.0.1:5000/viewDescription/filename?=SSH211",
         "Course Code": "SSH211",
         "Course Acronym": "TA",
@@ -3076,11 +3314,11 @@
         "Semester": "Monsoon",
         "Professor": "Manohar Khushalani",
         "Credits": "4",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH211"
     },
     {
-        "Serial Number": "221",
+        "Serial Number": "238",
         "Course Name": "Introduction To The Study Of Literature#http://127.0.0.1:5000/viewDescription/filename?=SSH214",
         "Course Code": "SSH214",
         "Course Acronym": "Lit",
@@ -3090,11 +3328,25 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "4",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH214"
     },
     {
-        "Serial Number": "222",
+        "Serial Number": "239",
+        "Course Name": "Nation and her Narratives#http://127.0.0.1:5000/viewDescription/filename?=SSH215",
+        "Course Code": "SSH215",
+        "Course Acronym": "NN",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Payel C Mukherjee(V)",
+        "Credits": "4",
+        "Cluster": "SSH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH215"
+    },
+    {
+        "Serial Number": "240",
         "Course Name": "Introduction to Indian Mythology#http://127.0.0.1:5000/viewDescription/filename?=SSH216",
         "Course Code": "SSH216",
         "Course Acronym": "IIM",
@@ -3104,11 +3356,11 @@
         "Semester": "Monsoon",
         "Professor": "Saumya Kulshreshtha",
         "Credits": "2",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH216"
     },
     {
-        "Serial Number": "223",
+        "Serial Number": "241",
         "Course Name": "Indian Poetry Through the Ages#http://127.0.0.1:5000/viewDescription/filename?=SSH217",
         "Course Code": "SSH217",
         "Course Acronym": "IPA",
@@ -3118,11 +3370,11 @@
         "Semester": "Winter",
         "Professor": "",
         "Credits": "2",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH217"
     },
     {
-        "Serial Number": "224",
+        "Serial Number": "242",
         "Course Name": "Social and Political Philosophy#http://127.0.0.1:5000/viewDescription/filename?=SSH221",
         "Course Code": "SSH221",
         "Course Acronym": "SPP",
@@ -3132,11 +3384,81 @@
         "Semester": "Monsoon",
         "Professor": "Manohar Kumar",
         "Credits": "4",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH221"
     },
     {
-        "Serial Number": "225",
+        "Serial Number": "243",
+        "Course Name": "Theory and Practice of Engineering Ethics#http://127.0.0.1:5000/viewDescription/filename?=SSH222",
+        "Course Code": "SSH222",
+        "Course Acronym": "TPEE",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Shweta Singh",
+        "Credits": "4",
+        "Cluster": "SSH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH222"
+    },
+    {
+        "Serial Number": "244",
+        "Course Name": "Perspectives of Knowledge#http://127.0.0.1:5000/viewDescription/filename?=SSH223",
+        "Course Code": "SSH223",
+        "Course Acronym": "PoK",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Monsoon",
+        "Professor": "Shweta Singh",
+        "Credits": "4",
+        "Cluster": "SSH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH223"
+    },
+    {
+        "Serial Number": "245",
+        "Course Name": "Computer, Information Ethics and Society#http://127.0.0.1:5000/viewDescription/filename?=SSH224",
+        "Course Code": "SSH224",
+        "Course Acronym": "CIES",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Shweta Singh",
+        "Credits": "4",
+        "Cluster": "SSH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH224"
+    },
+    {
+        "Serial Number": "246",
+        "Course Name": "Democracy in India: Principles and Practices#http://127.0.0.1:5000/viewDescription/filename?=SSH261",
+        "Course Code": "SSH261",
+        "Course Acronym": "DIPP",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Praveen Priyadarshi",
+        "Credits": "4",
+        "Cluster": "SSH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH261"
+    },
+    {
+        "Serial Number": "247",
+        "Course Name": "Advanced Writing#http://127.0.0.1:5000/viewDescription/filename?=SSH311",
+        "Course Code": "SSH311",
+        "Course Acronym": "AW",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Payel C Mukherjee(V)",
+        "Credits": "4",
+        "Cluster": "SSH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH311"
+    },
+    {
+        "Serial Number": "248",
         "Course Name": "Applied Ethics#http://127.0.0.1:5000/viewDescription/filename?=SSH321",
         "Course Code": "SSH321",
         "Course Acronym": "AE",
@@ -3146,7 +3468,35 @@
         "Semester": "Winter",
         "Professor": "Manohar Kumar",
         "Credits": "4",
-        "Cluster": "14",
+        "Cluster": "SSH",
         "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH321"
+    },
+    {
+        "Serial Number": "249",
+        "Course Name": "Philosophy of Technology#http://127.0.0.1:5000/viewDescription/filename?=SSH322",
+        "Course Code": "SSH322",
+        "Course Acronym": "PT",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Nishad Patnaik",
+        "Credits": "4",
+        "Cluster": "SSH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH322"
+    },
+    {
+        "Serial Number": "250",
+        "Course Name": "Comparative Politics in Digital Era#http://127.0.0.1:5000/viewDescription/filename?=SSH361",
+        "Course Code": "SSH361",
+        "Course Acronym": "CPDE",
+        "Prerequisites": "None",
+        "Preferable Prerequisites": "None",
+        "Antirequisites": "None",
+        "Semester": "Winter",
+        "Professor": "Aasim Khan",
+        "Credits": "4",
+        "Cluster": "SSH",
+        "Link": "http://127.0.0.1:5000/viewDescription/filename?=SSH361"
     }
 ]}
